@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>COVID-19: government response levels, Google Mobility Trends, and inflection times</title>
+<title>COVID-19</title>
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js"></script>
 <link href="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css" rel="stylesheet" />
@@ -11,9 +11,12 @@
 
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-   
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.core.js" integrity="sha256-tsIbwIT+4qFYQl3lJqYOZst6ot+JaR73T5eusuTukXM=" crossorigin="anonymous"></script>
     
     <script>
+        
+        
+
     $(document).ready(function() {
 $( "#dialog" ).dialog({
       autoOpen: false,
@@ -55,7 +58,7 @@ height: 45%;
 overflow: auto;    
 }
     .ui-dialog,.ui-dialog-content{
-       width:700px !important; 
+       width:1250px !important; 
         
     }
     #dialog{
@@ -227,15 +230,7 @@ width: 10px;
     </form>       
 </div>
  
-<!---
- [[1, '#fff5eb'], [100, '#fee6ce'],[200, '#fdd0a2'],[500, '#fdae6b'],[1000, '#fd8d3c'],[2000, '#f16913'],[10000, '#d94801'],[20000, '#a63603'],[max0, '#7f2704']]
-},
-"confirm":20,"recover":3,"deaths":0,"confirm_daily":1,"recover_daily":0,"deaths_daily"
 
-
-[1, '#fff5eb'], [50, '#fee6ce'],[100, '#fdd0a2'],[500, '#fdae6b'],[5000, '#fd8d3c'],[10000, '#f16913'],[20000, '#d94801'],[50000, '#a63603'],[70000, '#7f2704']
-
---->
 <div id="map"></div>
 
 <div id="dialog1" title="Attetion!">
@@ -295,17 +290,35 @@ width: 10px;
        
        </div>
     
-        </td></tr></table>
+        </td>
+        
+        <td>
+        <div id="moving_average">
+       
+       </div>
+        
+        
+        </td>
+        
+        
+        </tr></table>
 
 </div>
 
 <div id="title1" style="background-color: white; opacity:0.5; height:55px;">
- <center><h3 style="line-height: 1px;">COVID-19: government response levels, Google Mobility Trends, and inflection times</h3>
-     <p style="position: relative; top:-0.5rem !important;">The map is updated daily with 1-day lag. The data sources are 1) <a target="_blank" href="https://github.com/CSSEGISandData/COVID-19">JHU data</a>; 2)  <a target="_blank" href="https://covidtracker.bsg.ox.ac.uk">Oxford COVID-19 Government Response Tracker</a>; and 3) <a target="_blank" href="https://www.google.com/covid19/mobility/">Google Mobility Trends</a>. Last updated: <span id="time"></span></center>
+ <center><h3 style="line-height: 1px;">COVID-19: government response levels, sigmoids, and inflection times</h3>
+     <p style="position: relative; top:-0.5rem !important;">The map is updated daily with 1-day lag. The data sources are 1) <a target="_blank" href="https://github.com/CSSEGISandData/COVID-19">JHU data</a> and 2)  <a target="_blank" href="https://covidtracker.bsg.ox.ac.uk">Oxford COVID-19 Government Response Tracker</a>. Last updated: <span id="time"></span></center>
 </div>    
 
 <script>
 
+    
+            function moving_average(numbers) {
+  return _.chain(numbers)
+          .map(window)
+          .map(average)
+          .value();
+}
   
     navigator.sayswho= (function(){
     var ua= navigator.userAgent, tem, 
@@ -1157,20 +1170,24 @@ function formatNumber(num) {
   // alert(iso);
 
      //console.log(data9);
-d3.json("img0/"+iso+".json").then(function(data) {
-  
+d3.json("img0/"+iso+".json").then(function(data_) {
+    console.log(data_);
+    
+    
+    
+            var ddd=data_;
+       var ddd1=data_;
+             var ddd0=data_;
+     var ddd3=data_;
+     var ddd2=data_;
+     var ddd4=data_;
+    
+
+     //  console.log(ddd0,ddd1);
      d3.json("sigmoid_data/"+iso+".json").then(function(data9) {  
          
-         d3.selectAll("#grocery,#parks,#residential,#retail,#transit,#workplaces").html("");
-             d3.json("mobility/"+iso+".json").then(function(data900) {   
-                  //   console.log(typeof data900,data900,iso);
-                 
-                 if (typeof data900=="object"){
-              // console.log(data900);
-                draw_mobility(data900,name,country,iso);
-                 }
-                 
-                   });
+          
+           
          ///connect to python and convert cumsum to timeseries -- no need
          //https://stackoverflow.com/questions/16541618/perform-a-reverse-cumulative-sum-on-a-numpy-array -- no need
          ///convert all three plots; plot on one plot as curves
@@ -1188,16 +1205,37 @@ d3.json("img0/"+iso+".json").then(function(data) {
        
        all_curves
    }*/
+  
+draw_histogram(ddd2,"confirm","line1",country,data9["confirm"],data9["confirm_dot"],iso);
+    draw_histogram(ddd3,"deaths","line2",country,data9["deaths"],data9["deaths_dot"],iso);
+    draw_histogram(ddd4,"recover","line3",country,data9["recover"],data9["recover_dot"],iso);
          
-      
-draw_histogram(data,"confirm","line1",country,data9["confirm"],data9["confirm_dot"],iso);
-    draw_histogram(data,"deaths","line2",country,data9["deaths"],data9["deaths_dot"],iso);
-    draw_histogram(data,"recover","line3",country,data9["recover"],data9["recover_dot"],iso);
-         draw_curves(data,"all_curves",country,iso); 
+    
+       
+         draw_curves(ddd1,"all_curves",country,iso); 
+          draw_moving_average(ddd,"moving_average",country,iso);
+        // console.log(data);
+        
+           
           
-});
+
+    
+ 
+    
+      d3.selectAll("#grocery,#parks,#residential,#retail,#transit,#workplaces").html("");
+    
+      d3.json("mobility/"+iso+".json").then(function(data900) {   
+                    // console.log(typeof data900);
+                 
+                 if (typeof data900=="object"){
+              // console.log(data900);
+                draw_mobility(data900,name,country,iso);
+                 }
+                 
+                   });
     
 });
+    });
 
 }    
     ///0.61 -100 0.39 - 61  (0.61 - 1.39)
@@ -1260,7 +1298,7 @@ var svg = d3.select("#"+d3.keys(ma)[el]).append("svg")
  
 //console.log(dataK);
     var ddates=dataK.map(function(d){return d["date_"+d3.keys(ma)[el]];});
-    console.log(ddates);
+   // console.log(ddates);
 var cconfirmed=dataK.map(function(d){return d[d3.values(ma)[el]];});
     
   x.domain(d3.extent(ddates));
@@ -1305,12 +1343,202 @@ var cconfirmed=dataK.map(function(d){return d[d3.values(ma)[el]];});
 }
 
 }
+function movingAvg(array, count, qualifier){
+
+        // calculate average for subarray
+        var avg = function(array, qualifier){
+
+            var sum = 0, count = 0, val;
+            for (var i in array){
+                val = array[i];
+                if (!qualifier || qualifier(val)){
+                    sum += val;
+                    count++;
+                }
+            }
+
+            return sum / count;
+        };
+
+        var result = [], val;
+
+        // pad beginning of result with null values
+        for (var i=0; i < count-1; i++)
+            result.push(null);
+
+        // calculate average for each subarray and add to result
+        for (var i=0, len=array.length - count; i <= len; i++){
+
+            val = avg(array.slice(i, i + count), qualifier);
+            if (isNaN(val))
+                result.push(null);
+            else
+                result.push(val);
+        }
+
+        return result;
+    }
     
-function draw_curves(dataK,name,country,iso){
-    d3.select("#all_curves").html("");
+  function draw_moving_average(dataK1,name,country,iso){
+    d3.select("#moving_average").html("");
        
        
     //console.log(dataK);
+        // set the dimensions and margins of the graph
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 600 - margin.left - margin.right,
+    height = 520- margin.top - margin.bottom;
+
+// parse the date / time
+var parseTime = d3.timeParse("%M/%d/%y");
+
+// set the ranges
+var x = d3.scaleTime().range([0, width]);
+
+var y = d3.scaleLinear().range([height, 0]);
+    
+var valueline = d3.line()
+//  .interpolate("interpolation")
+    .x(function(d) { return x(d["date"]); })
+    .y(function(d) { return y(d["confirm_daily"]); });       
+  var valueline1 = d3.line()
+//  .interpolate("interpolation")
+    .x(function(d) { return x(d["date"]); })
+    .y(function(d) { return y(d["value"]); });     
+
+    //const calc = new MovingAverageCalculator();
+    
+var svg = d3.select("#moving_average").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+//console.log(dataK1);
+// Get the data
+      var someData=[];
+//d3.csv("data.csv").then(function(data) {
+dataK1.forEach(function(d) {
+      d["date"] = new Date(2020,d.date.toString().split("/")[0]-1,d.date.toString().split("/")[1])
+      d["confirm_daily"] = +d["confirm_daily"];
+     someData.push(+d["confirm_daily"]);
+      
+  });
+       //console.log(calc.mean);
+
+ var line=movingAvg(someData, 7);
+      
+      
+      
+//console.log(dataK);
+    var ddates=dataK1.map(function(d){return d.date;});
+    //console.log(ddates);
+var cconfirmed=dataK1.map(function(d){return d["confirm_daily"];});
+    
+var line_data=[];
+      
+      for (var i=6; i<ddates.length; i++) {
+          
+          line_data.push({"date":ddates[i],"value":line[i+3]});
+          
+      }
+      
+      
+      
+      
+      
+      
+    var maxxx=d3.max([d3.max(cconfirmed)]);
+//console.log(cconfirmed);
+  x.domain(d3.extent(ddates));
+  y.domain([0,maxxx]);
+ // format the data
+  /*dataK.forEach(function(d) {
+      d["date"] = new Date(2020,d.date.toString().split("/")[0]-1,d.date.toString().split("/")[1])
+      d["comfirm_daily"] = +d["comfirm_daily"];
+       d["recover_daily"] = +d["recover_daily"];
+       d["deaths_daily"] = +d["deaths_daily"];
+  });*/
+  svg.append("path")
+      .data([dataK1])
+      .attr("class", "line1")
+.attr("d", valueline) // set starting position
+    ;
+
+  svg.append("path")
+      .data([line_data])
+      .attr("class", "line2")
+.attr("d", valueline1) // set starting position
+    ;
+  // Add the x Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x).ticks(7))
+    .selectAll("text")
+       .style("font-size", "12px") 
+    .attr("y", 7)
+   // .attr("x", 9)
+      .attr("dy", ".35em")
+  // .attr("dx", "-1.3em")
+    .attr("transform", "rotate(35)")
+    .style("text-anchor", "start");
+
+  // Add the y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y).ticks(8).tickFormat(d3.format(".2s")))
+          .selectAll("text")
+       .style("font-size", "12px");
+
+
+    svg.append("text")
+        .attr("x", (width / 2))             
+        .attr("y", 0 - (margin.top / 2)+5)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "18px") 
+       // .style("text-decoration", "underline")  
+        .text(country+" - daily new confirmed cases and moving average");
+      
+      
+      var keys = ["Daily new confirmed cases", "Moving 7-day average"]
+
+// Usually you have a color scale in your chart already
+var color = d3.scaleOrdinal()
+  .domain(keys)
+  .range(["red","black"]);
+
+// Add one dot in the legend for each name.
+var size = 20
+svg.selectAll("mydots")
+  .data(keys)
+  .enter()
+  .append("rect")
+    .attr("x", 20)
+    .attr("y", function(d,i){ return 20 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
+    .attr("width", size)
+    .attr("height", size)
+    .style("fill", function(d){ return color(d)})
+
+// Add one dot in the legend for each name.
+svg.selectAll("mylabels")
+  .data(keys)
+  .enter()
+  .append("text")
+    .attr("x", 20 + size*1.2)
+    .attr("y", function(d,i){ return 20 + i*(size+5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
+    .style("fill", function(d){ return color(d)})
+    .text(function(d){ return d})
+    .attr("text-anchor", "left")
+         .style("font-size", "14px") 
+    .style("alignment-baseline", "middle")
+}  
+    
+function draw_curves(dataK2,name,country,iso){
+   // var dataK0=dataK2;
+    
+    d3.select("#all_curves").html("");
+       
+       
+    //console.log(dataK0);
         // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 300 - margin.left - margin.right,
@@ -1325,14 +1553,14 @@ var x = d3.scaleTime().range([0, width]);
 var y = d3.scaleLinear().range([height, 0]);
     
 var valueline = d3.line()
-    .x(function(d) { return x(d["date"]); })
+    .x(function(d) { return x(d["date1"]); })
     .y(function(d) { return y(d["confirm_daily"]); });       
     
 var valueline1 = d3.line()
-    .x(function(d) { return x(d["date"]); })
+    .x(function(d) { return x(d["date1"]); })
     .y(function(d) { return y(d["deaths_daily"]); });      
  var valueline2 = d3.line()
-    .x(function(d) { return x(d["date"]); })
+    .x(function(d) { return x(d["date1"]); })
     .y(function(d) { return y(d["recover_daily"]); });   
     
         
@@ -1342,23 +1570,25 @@ var svg = d3.select("#all_curves").append("svg")
   .append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
-
+//console.log(dataK2);
 // Get the data
+    
+   // alert(dataK2[0]["date"]);
 //d3.csv("data.csv").then(function(data) {
-dataK.forEach(function(d) {
-      d["date"] = new Date(2020,d.date.toString().split("/")[0]-1,d.date.toString().split("/")[1])
+dataK2.forEach(function(d) {
+      d["date1"] = new Date(2020,d.date.toString().split("/")[0]-1,d.date.toString().split("/")[1])
       d["confirm_daily"] = +d["confirm_daily"];
        d["recover_daily"] = +d["recover_daily"];
        d["deaths_daily"] = +d["deaths_daily"];
   });
  
-//console.log(dataK);
-    var ddates=dataK.map(function(d){return d.date;});
+//console.log(dataK2);
+    var ddates=dataK2.map(function(d){return d.date1;});
     //console.log(ddates);
-var cconfirmed=dataK.map(function(d){return d["confirm_daily"];});
+var cconfirmed=dataK2.map(function(d){return d["confirm_daily"];});
     
-var crecovered=dataK.map(function(d){return d["recover_daily"];});    
-  var cdeaths=dataK.map(function(d){return d["deaths_daily"];});  
+var crecovered=dataK2.map(function(d){return d["recover_daily"];});    
+  var cdeaths=dataK2.map(function(d){return d["deaths_daily"];});  
     var maxxx=d3.max([d3.max(cconfirmed),d3.max(cdeaths),d3.max(crecovered)]);
 //console.log(cconfirmed);
   x.domain(d3.extent(ddates));
@@ -1371,15 +1601,15 @@ var crecovered=dataK.map(function(d){return d["recover_daily"];});
        d["deaths_daily"] = +d["deaths_daily"];
   });*/
   svg.append("path")
-      .data([dataK])
+      .data([dataK2])
       .attr("class", "line1")
       .attr("d", valueline);
    svg.append("path")
-      .data([dataK])
+      .data([dataK2])
       .attr("class", "line3")
       .attr("d", valueline2);  
    svg.append("path")
-      .data([dataK])
+      .data([dataK2])
       .attr("class", "line2")
       .attr("d", valueline1); 
 
@@ -1406,8 +1636,8 @@ var crecovered=dataK.map(function(d){return d["recover_daily"];});
         .style("font-size", "12px") 
        // .style("text-decoration", "underline")  
         .text(country+" - daily changes");
-
-
+//console.log(dataK2);
+   
 }
     
 function draw_histogram(data0,name,cl,country,data8,data10,iso){if (typeof data8!="undefined") {
