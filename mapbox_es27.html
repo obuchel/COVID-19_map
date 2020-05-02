@@ -1451,7 +1451,7 @@ var line_data=[];
     var maxxx=d3.max([d3.max(cconfirmed)]);
 //console.log(cconfirmed);
   x.domain(d3.extent(ddates));
-  y.domain([0,maxxx]);
+  y.domain([d3.min(cconfirmed),maxxx]);
  // format the data
   /*dataK.forEach(function(d) {
       d["date"] = new Date(2020,d.date.toString().split("/")[0]-1,d.date.toString().split("/")[1])
