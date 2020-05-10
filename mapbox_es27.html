@@ -130,7 +130,7 @@ width: 10px;
 </style>
     <form id="formSelects">
    <div id="state-legend" class="legend">
-
+Last updated: <span class="time"></span><br>
 <select id="select_change">
     <option value="alerts">
     Government response levels
@@ -190,7 +190,7 @@ width: 10px;
     
     
        <span id="selected2">
-
+          
                      <h3>Stringency levels</h3>
            <div><span id="six112"  style="width:300px !important"><span style="background-color: #800026"></span>100</span></div>  
            
@@ -211,6 +211,7 @@ width: 10px;
          </span>  
 
      <span id="selected">
+      
 
   <table width=200>   
 <tr><td>
@@ -402,7 +403,9 @@ style: 'mapbox://styles/mapbox/dark-v8',
 center: [-12.403732, 10.492392],
 zoom: 1
 });
-// map.addControl(new mapboxgl.FullscreenControl());
+            
+            
+ map.addControl(new mapboxgl.FullscreenControl());
     var stateLegendEl = document.getElementById('state-legend');
     
     stateLegendEl.style.display = 'block';
@@ -444,7 +447,7 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
    var all_isos=dd.map(function(d){return d.Iso});
   
     
-    d3.select("#time").html(data0["features"][0]["properties"]["date"]);
+    d3.selectAll(".time").html(data0["features"][0]["properties"]["date"]);
     //console.log(data);
     var country_isos=dd.map(function(d){return d.Iso});
    // console.log(country_isos);
