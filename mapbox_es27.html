@@ -165,7 +165,7 @@ overflow: auto;
         background: white;
     }
     .ui-dialog { 
-        width:45% !important;
+        width:75% !important;
         z-index: 200000000 !important ;}
 .legend h4 {
 margin: 0 0 10px;
@@ -447,7 +447,7 @@ Last updated: <span class="time"></span><br>
        <span class="dot" onclick="currentSlide(9)"></span> 
        <span class="dot" onclick="currentSlide(10)"></span> 
        <span class="dot" onclick="currentSlide(11)"></span> 
-       <span class="dot" onclick="currentSlide(12)"></span> 
+     
 </div>
 
 
@@ -833,10 +833,10 @@ popup=new mapboxgl.Popup()
 .setLngLat(e.lngLat)
 .setHTML("<b>"+name+"</b> <br>Yesterday change in confirmed:"+formatNumber(e.features[0].properties.confirm_daily).toString()+" <br>Yesterday change in recovered:"+formatNumber(e.features[0].properties.recover_daily).toString()+" <br>Yesterday change in deaths:"+formatNumber(e.features[0].properties.deaths_daily).toString()+ "<br>Total confirmed:"+formatNumber(e.features[0].properties.confirm).toString()+" <br>Total recovered:"+formatNumber(e.features[0].properties.recover).toString()+" <br>Total deaths:"+formatNumber(e.features[0].properties.deaths).toString()+" <br>Stringency: "+formatNumber(e.features[0].properties.stringency).toString())
 .addTo(map);
-    if( isMobile==false ) {
+   // if( isMobile==false ) {
  
      $( "#dialog" ).dialog('option', 'position', [window.innerWidth*0.3,200]).dialog( "open" );
-	}
+	//}
 	
              document.getElementsByClassName("mapboxgl-popup-close-button")[0].addEventListener("click",closeF);
        // alert(document.getElementsByClassName("ui-button-icon").length,document.getElementsByClassName("mapboxgl-popup-close-button").length);
@@ -1323,10 +1323,10 @@ stops: arr
             
 if  (d3.keys(e.features[0].properties).length>1) {    
 	
-	 if( isMobile==false ) {
+	// if( isMobile==false ) {
  $( "#dialog" ).dialog( "open" );
     // $( "#dialog" ).dialog( "moveToTop" ).dialog('option', 'position', [700,100]).dialog( "open" );
-	}
+	//}
                  //$( "#dialog" ).dialog( "open" );
 popup=new mapboxgl.Popup()
 .setLngLat(e.lngLat)
@@ -1466,8 +1466,8 @@ var ma={"grocery":"grocery_and_pharmacy_percent_change_from_baseline","parks":"p
 for (el in d3.values(ma)) {
     
     var margin = {top: 20, right: 20, bottom: 30, left: 50},
-    width = window.innerWidth*0.4 - margin.left - margin.right,
-    height = window.innerWidth*0.3- margin.top - margin.bottom;
+    width = window.innerWidth*0.6 - margin.left - margin.right,
+    height = window.innerWidth*0.4- margin.top - margin.bottom;
 
 // parse the date / time
 var parseTime = d3.timeParse("%M/%d/%y");
@@ -1589,8 +1589,9 @@ function movingAvg(array, count, qualifier){
     //console.log(dataK);
         // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
-    width = window.innerWidth*0.4 - margin.left - margin.right,
-    height = window.innerWidth*0.3- margin.top - margin.bottom;
+  width = window.innerWidth*0.6 - margin.left - margin.right,
+    height = window.innerWidth*0.4- margin.top - margin.bottom;
+
 
 // parse the date / time
 var parseTime = d3.timeParse("%M/%d/%y");
@@ -1744,8 +1745,8 @@ function draw_curves(dataK2,name,country,iso){
     //console.log(dataK0);
         // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
-    width = window.innerWidth*0.4 - margin.left - margin.right,
-    height = window.innerWidth*0.3- margin.top - margin.bottom;
+    width = window.innerWidth*0.6 - margin.left - margin.right,
+    height = window.innerWidth*0.4- margin.top - margin.bottom;
 
 // parse the date / time
 var parseTime = d3.timeParse("%M/%d/%y");
@@ -1911,8 +1912,8 @@ if (typeof data8=="object") {
 
     // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 35, left: 50},
-    width = window.innerWidth*0.4 - margin.left - margin.right,
-    height = window.innerWidth*0.3- margin.top - margin.bottom;
+    width = window.innerWidth*0.6 - margin.left - margin.right,
+    height = window.innerWidth*0.4- margin.top - margin.bottom;
 
 // parse the date / time
 var parseTime = d3.timeParse("%M/%d/%y");
