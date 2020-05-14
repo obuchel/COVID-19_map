@@ -72,8 +72,8 @@ html +='<span class="cell m'+data0[i]["id"]+'"></span>';
    // alert(window.location.hash.replace("#",""));
     d3.select(".grid-x").html(html);
     for (var i=0; i<data0.length; i++) { 
-        if ((data0[i]["color"]==window.location.hash.replace("#","")) && [/*"US",*/"Canada"/*,"Australia","China","Diamond Princess Cruise Ship"*/].indexOf(data0[i]["country"])>-1) {
-   
+        if ([/*"US",*/"Canada"/*,"Australia","China","Diamond Princess Cruise Ship"*/].indexOf(data0[i]["country"])>-1) {
+   //(data0[i]["color"]==window.location.hash.replace("#","")) && 
     var svg = d3.select(".m"+data0[i]["id"])
   .append("svg")
     .attr("width", width + margin.left + margin.right)
