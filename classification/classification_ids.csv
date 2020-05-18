@@ -1,0 +1,266 @@
+province,country,id,value
+,Afghanistan,30,0.9797087219767633
+,Albania,3,0.4694835680751174
+,Algeria,1,0.9524720021851952
+,Andorra,132,0.030874785591766728
+,Angola,5,0.5
+,Antigua and Barbuda,0,0.0
+,Argentina,7,0.9735549678881753
+,Armenia,4,0.9812236969893171
+Australian Capital Territory,Australia,mixed_77,0.0
+New South Wales,Australia,mixed_70,0.01648854961832061
+Northern Territory,Australia,mixed_67,0.0
+Queensland,Australia,mixed_69,0.022988505747126433
+South Australia,Australia,mixed_68,0.0
+Tasmania,Australia,mixed_73,0.011049723756906077
+Victoria,Australia,mixed_72,0.13904899135446686
+Western Australia,Australia,mixed_66,0.007079646017699116
+,Austria,56,0.06563442038914771
+,Azerbaijan,2,0.992311388755406
+,Bahamas,12,0.14285714285714288
+,Bahrain,9,0.9282945736434107
+,Bangladesh,13,0.9925728333071813
+,Barbados,10,0.14864864864864866
+,Belarus,101,0.9536175163951767
+,Belgium,128,0.2514372376820795
+,Benin,18,0.6090534979423868
+,Bhutan,31,1.0
+,Bolivia,16,0.9701038763617937
+,Bosnia and Herzegovina,15,0.48936170212765956
+,Brazil,20,0.940086802037633
+,Brunei,22,0.0
+,Bulgaria,21,0.6231633535004321
+,Burkina Faso,209,0.2725060827250608
+,Cabo Verde,new_id_0,0.7428571428571429
+,Cambodia,24,0.0
+,Cameroon,34,0.9054565099945975
+Alberta,Canada,mixed_8,0.2381725888324873
+British Columbia,Canada,mixed_5,0.1871301775147929
+Grand Princess,Canada,new_id_0,0.0
+Manitoba,Canada,mixed_11,0.03323262839879154
+New Brunswick,Canada,mixed_15,0.0
+Newfoundland and Labrador,Canada,mixed_44,-0.006153846153846154
+Nova Scotia,Canada,mixed_45,0.09475218658892129
+Ontario,Canada,mixed_3,0.5075751865531016
+Prince Edward Island,Canada,mixed_48,0.0
+Quebec,Canada,mixed_14,0.6949535767547025
+Saskatchewan,Canada,mixed_9,0.31321839080459773
+,Central African Republic,39,0.8948497854077253
+,Chad,35,0.8772241992882561
+,Chile,32,0.9848057477381587
+Anhui,China,29,0.0
+Beijing,China,29,0.0
+Chongqing,China,29,0.0
+Fujian,China,29,0.0
+Gansu,China,29,0.0
+Guangdong,China,29,0.0012150668286755773
+Guangxi,China,29,0.0
+Guizhou,China,29,0.0
+Hainan,China,29,0.011235955056179775
+Hebei,China,29,0.0
+Heilongjiang,China,29,0.002967359050445104
+Henan,China,29,0.0
+Hong Kong,China,29,0.02414928649835346
+Hubei,China,29,0.00016148132199375606
+Hunan,China,29,0.0
+Inner Mongolia,China,29,0.16216216216216214
+Jiangsu,China,29,0.0
+Jiangxi,China,29,0.0
+Jilin,China,29,0.5076923076923077
+Liaoning,China,29,0.043795620437956206
+Macau,China,29,0.0
+Ningxia,China,29,0.0
+Qinghai,China,29,0.0
+Shaanxi,China,29,0.0
+Shandong,China,29,0.0
+Shanghai,China,29,0.043373493975903614
+Shanxi,China,29,0.0
+Sichuan,China,29,0.0
+Tianjin,China,29,0.023255813953488372
+Tibet,China,29,0.0
+Xinjiang,China,29,0.0
+Yunnan,China,29,0.0
+Zhejiang,China,29,0.0
+,Colombia,37,0.9622251611836666
+,Congo (Brazzaville),26,0.7870967741935483
+,Congo (Kinshasa),27,0.8872901678657075
+,Costa Rica,38,0.3836734693877551
+,Cote d'Ivoire,86,0.9517304189435337
+,Croatia,79,0.11814946619217083
+,Diamond Princess,cruise,0.0
+,Cuba,40,0.25946969696969696
+,Cyprus,43,0.07796101949025487
+,Czechia,57,0.1526745240253853
+Faroe Islands,Denmark,den_44,0.0
+Greenland,Denmark,den_45,0.0
+,Denmark,den_46,0.2560593569661995
+,Djibouti,45,0.3517786561264822
+,Dominican Republic,47,0.9160839160839161
+,Ecuador,48,0.20726929566187194
+,Egypt,49,0.9548872180451128
+,El Salvador,54,0.971764705882353
+,Equatorial Guinea,51,0.5667276051188299
+,Eritrea,53,0.0
+,Estonia,52,0.08394458027709861
+,Eswatini,220,0.5340909090909091
+,Ethiopia,55,0.8706293706293705
+,Fiji,60,0.0
+,Finland,59,0.4401372212692968
+French Guiana,France,fr_64,0.9745762711864406
+French Polynesia,France,fr_65,0.0
+Guadeloupe,France,fr_66,0.020270270270270268
+Mayotte,France,fr_67,0.9198868991517436
+New Caledonia,France,fr_68,0.0
+Reunion,France,fr_69,0.07112068965517242
+Saint Barthelemy,France,fr_70,0.0
+St Martin,France,fr_71,0.047619047619047616
+Martinique,France,fr_72,0.08021390374331551
+,France,fr_73,0.05112339386978681
+,Gabon,66,0.8717653824036802
+,Gambia,65,0.4
+,Georgia,geo_67,0.43059490084985835
+,Germany,71,0.10877186981580612
+,Ghana,68,0.7046958205583346
+,Greece,73,0.17363530778164926
+,Guatemala,74,0.9462025316455697
+,Guinea,75,0.8013937282229966
+,Guyana,76,0.7580645161290323
+,Haiti,77,1.0
+,Holy See,238,0.0
+,Honduras,78,0.7352823388065679
+,Hungary,80,0.3660477453580902
+,Iceland,81,0.0013821700069108502
+,India,82,0.9784697693746104
+,Indonesia,224,0.9801608579088472
+,Iran,83,0.5659819970110868
+,Iraq,87,1.0
+,Ireland,50,0.18996601578250102
+,Israel,84,0.03481963927855712
+,Italy,85,0.1571865659139605
+,Jamaica,89,0.14027149321266968
+,Japan,88,0.12474319993425918
+,Jordan,90,0.5656565656565656
+,Kazakhstan,97,0.796377607025247
+,Kenya,91,0.9595782073813709
+,"""Korea",128.0,0.041067041067041066
+,Kuwait,96,1.0
+,Kyrgyzstan,92,0.8078231292517007
+,Latvia,100,0.30598290598290595
+,Lebanon,99,0.4275618374558304
+,Liberia,103,0.507936507936508
+,Liechtenstein,105,0.0
+,Lithuania,102,0.21110009910802774
+,Luxembourg,135,0.04933703361085415
+,Madagascar,107,0.9406779661016949
+,Malaysia,120,0.23144876325088337
+,Maldives,118,0.7912524850894632
+,Malta,116,0.3598901098901099
+,Mauritania,115,1.0
+,Mauritius,114,0.0
+,Mexico,119,0.953647124996804
+,Moldova,171,0.9567456230690009
+,Monaco,137,0.02531645569620253
+,Mongolia,109,1.0
+,Montenegro,139,0.0
+,Morocco,113,0.6628372962864012
+,Namibia,217,0.0
+,Nepal,155,1.0
+Aruba,Netherlands,dutch_153,0.0
+Curacao,Netherlands,dutch_154,0.0
+Sint Maarten,Netherlands,dutch_155,0.02469135802469136
+,Netherlands,dutch_156,0.1879815802671773
+,New Zealand,159,0.010659560293137908
+,Nicaragua,158,0.8571428571428571
+,Niger,125,0.27358490566037735
+,Nigeria,152,0.9003215434083601
+,North Macedonia,111,0.38833181403828626
+,Norway,154,0.07772736239889524
+,Oman,117,0.9880569591180524
+,Pakistan,162,0.924866284773871
+,Panama,164,0.7559455091202955
+,Papua New Guinea,166,0.0
+,Paraguay,160,0.6098104793756968
+,Peru,161,0.9511197403328837
+,Philippines,172,0.7609087630724847
+,Poland,163,0.8824701195219123
+,Portugal,165,0.259372026641294
+,Qatar,168,0.9776521674028599
+,Romania,170,0.6065416723689612
+,Russia,174,0.919878761476181
+,Rwanda,175,0.1932367149758454
+,Saint Lucia,188,0.0
+,Saint Vincent and the Grenadines,212,0.0
+,San Marino,234,0.18975903614457829
+,Saudi Arabia,176,0.9815567288741819
+,Senegal,182,0.9662298387096774
+,Serbia,237,0.2031272210376688
+,Seychelles,178,0.0
+,Singapore,185,0.7232094776521271
+,Slovakia,104,0.08140610545790936
+,Slovenia,183,0.0363036303630363
+,Somalia,186,0.9619512195121951
+,South Africa,179,1.0
+,Spain,187,0.10939370083779754
+,Sri Lanka,25,0.4013245033112583
+,Sudan,189,0.9073676680972818
+,Suriname,157,0.0
+,Sweden,190,0.8309757851834092
+,Switzerland,192,0.03857444271167783
+,Taiwan*,245,0.0
+,Tanzania,204,0.054104477611940295
+,Thailand,194,0.02620802620802621
+,Togo,198,0.9583333333333334
+,Trinidad and Tobago,193,0.0
+,Tunisia,200,0.023653088042049936
+,Turkey,201,0.3340862886830811
+,Uganda,205,0.9960474308300394
+,Ukraine,207,0.8992761116856257
+,United Arab Emirates,227,0.9768687085028913
+Bermuda,United Kingdom,uk_206,0.11363636363636363
+Cayman Islands,United Kingdom,uk_207,0.36486486486486486
+Channel Islands,United Kingdom,uk_208,0.036585365853658534
+Gibraltar,United Kingdom,uk_209,0.026143790849673203
+Isle of Man,United Kingdom,uk_211,0.04013377926421405
+Montserrat,United Kingdom,uk_213,0.0
+,United Kingdom,uk_214,0.6389641757471837
+,Uruguay,210,0.20089285714285715
+,US,new_id_0,0.6922708831790284
+,Uzbekistan,211,0.4446122860020141
+,Venezuela,213,1.0
+,Vietnam,215,0.2782608695652174
+,Zambia,222,1.0
+,Zimbabwe,223,0.7142857142857143
+Diamond Princess,Canada,new_id_0,0.0
+,Dominica,46,0.0
+,Grenada,69,0.09090909090909091
+,Mozambique,121,1.0
+,Syria,191,0.6
+,Timor-Leste,228,0.0
+,Belize,14,0.0
+,Laos,98,0.0
+,Libya,106,0.029411764705882356
+,West Bank and Gaza,,0.03680981595092024
+,Guinea-Bissau,167,0.7197898423817863
+,Mali,112,0.7897838899803538
+,Saint Kitts and Nevis,177,0.0
+Northwest Territories,Canada,mixed_46,0.0
+Yukon,Canada,mixed_26,0.0
+,Kosovo,new_id_0,0.25648021828103684
+,Burma,17,0.08333333333333333
+Anguilla,United Kingdom,127,0.0
+British Virgin Islands,United Kingdom,214,0.33333333333333337
+Turks and Caicos Islands,United Kingdom,235,0.0
+,MS Zaandam,new_id_0,0.0
+,Botswana,181,0.2105263157894737
+,Burundi,28,1.0
+,Sierra Leone,184,1.0
+"""Bonaire"," Sint Eustatius and Saba""",new_id_0,0.0
+,Malawi,22,1.0
+Falkland Islands (Malvinas),United Kingdom,61,0.0
+Saint Pierre and Miquelon,France,232,0.0
+,South Sudan,new_id_0,0.9796954314720813
+,Western Sahara,236,0.0
+,Sao Tome and Principe,199,0.18028846153846154
+,Yemen,221,0.985
+,Comoros,36,0.2857142857142857
+,Tajikistan,195,1.0
