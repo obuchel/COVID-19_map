@@ -563,11 +563,11 @@ if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" "
      var all_ranges={"confirm":[],"confirm_log":[],"deaths":[],"deaths_log":[],"recover":[],"recover_log":[],"confirm_daily":[],"confirm_daily_log":[],"recover_daily":[],"recover_daily_log":[],"deaths_daily":[],"deaths_daily_log":[]}; 
     
     var dd=[];
-    d3.csv('Color code - world1.csv', function(dat,i){
+    d3.csv('https://raw.githubusercontent.com/obuchel/COVID-19_map/master/classification/classification_ids.csv', function(dat,i){
    
         dd.push(dat);
-      //  console.log(i);
-        if (i==201) {
+       console.log(dat);
+        if (i==265) {
            
             
             	mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJmOWQ2MzQxNmE0M2Y3YmVjNzA2NmM2MGQzYTIwYmQ3OCJ9.psxJSN8q9n2-HfFGoIUNJA';
