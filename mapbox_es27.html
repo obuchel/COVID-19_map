@@ -293,9 +293,9 @@ Last updated: <span class="time"></span><br>
           
                      <h3>Alert levels</h3>
            <div><span id="six112"  style="width:300px !important"><span style="background-color: #bd0026"></span>Regions where new COVID-19 cases are high and spreading rapidly</span></div>  
-           
-             <div><span id="six112"  style="width:300px !important"><span style="background-color: #fd8d3c"></span>Regions where new COVID-19 cases are high, but falling or constant </span></div>  
-        <div><span id="six112"  style="width:300px !important"><span style="background-color: #ffffb2"></span>Regions where new COVID-19 is almost under control</span></div>       
+           <!----
+             <div><span id="six112"  style="width:300px !important"><span style="background-color: #fd8d3c"></span>Regions where new COVID-19 cases are high, but falling or constant </span></div>  --->
+        <div><span id="six112"  style="width:300px !important"><span style="background-color: #FFCA08"></span>Regions where new COVID-19 is almost under control</span></div>       
            
     <div><span id="six111"  style="width:300px !important"><span style="background-color: #1a9850"></span>Regions where COVID-19 is undercontrol</span></div>
 
@@ -591,8 +591,17 @@ var nn0=nn;
     
     var dd=[];
     d3.csv('classification/classification_ids.csv', function(dat,i){
+        
+
+        
+       
+            if (dat.Change!="") {
+                
+                dat.color=dat.Change;
+            }
+
      dd.push(dat);
-        console.log(dat);
+  
     if (i==325) {    
 mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjamhqZTZsOWkwN25iM2Fxd282N2FlZDVqIn0.bkOU5gAio8eKnmKHlntJsA';
 map = new mapboxgl.Map({
