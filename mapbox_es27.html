@@ -231,6 +231,9 @@ width: 10px;
    <div id="state-legend" class="legend">
 Last updated: <span class="time"></span><br>
 <select id="select_change">
+     <option value="alerts0">
+    Crushing the curve
+    </option>
     <option value="alerts">
     Government response levels
     </option>
@@ -286,6 +289,20 @@ Last updated: <span class="time"></span><br>
     </div>
     
     
+    <span id="selected3">
+          
+                     <h3>Alert levels</h3>
+           <div><span id="six112"  style="width:300px !important"><span style="background-color: #bd0026"></span>Regions where new COVID-19 cases are high and spreading rapidly</span></div>  
+           
+             <div><span id="six112"  style="width:300px !important"><span style="background-color: #fd8d3c"></span>Regions where new COVID-19 cases are high, but falling or constant </span></div>  
+        <div><span id="six112"  style="width:300px !important"><span style="background-color: #ffffb2"></span>Regions where new COVID-19 is almost under control</span></div>       
+           
+    <div><span id="six111"  style="width:300px !important"><span style="background-color: #1a9850"></span>Regions where COVID-19 is undercontrol</span></div>
+
+<div><span id="zero1"  style="width:300px !important"><span style="background-color: #000000"></span>No data</span></div>
+<!---<a  target="_blank" href="https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8a288d138b9761efb337f3/1586112654619/Alert_color_codes.pdf">Detailed explanation</a> --->   
+    
+         </span>  
     
     
        <span id="selected2">
@@ -335,24 +352,32 @@ Last updated: <span class="time"></span><br>
  
 
 <div id="map"></div>
-
+<!----
 <div id="dialog1" title="Attetion!">
     <p>We detected that you are using a version of Safari lower than 12. In this version, the map might not be properly displayed. Please switch to some other browser like Opera, Chrome, or Firefox to see the map. </p>
   </div>  
+
+--->
 <div id="dialog" title="COVID-19 cases, mobility trends, and moving averages">
     
     
     
     <div class="slideshow-container">
-
+        
+         <div class="mySlides fade">
+  <div class="numbertext">1 / 11</div>       
+ <div id="moving_average"></div> 
+  <div class="text">7-day moving average for confirmed cases</div>
+</div> 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 11</div>
+  <div class="numbertext">2 / 11</div>
  <div id="confirm"></div>
   <div class="text">Sigmoid and cumulative curves for confirmed</div>
 </div>
 
+
 <div class="mySlides fade">
-  <div class="numbertext">2 / 11</div>
+  <div class="numbertext">3 / 11</div>
    <div id="deaths">
        
        </div>
@@ -360,7 +385,7 @@ Last updated: <span class="time"></span><br>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 11</div>
+  <div class="numbertext">4 / 11</div>
    <div id="recover">
        
        </div>
@@ -368,7 +393,7 @@ Last updated: <span class="time"></span><br>
 </div>
         
 <div class="mySlides fade">
-  <div class="numbertext">4 / 11</div>
+  <div class="numbertext">5 / 11</div>
   <div id="all_curves">
        
        </div>
@@ -376,14 +401,14 @@ Last updated: <span class="time"></span><br>
 </div>   
         
 <div class="mySlides fade">
-  <div class="numbertext">5 / 11</div>
+  <div class="numbertext">6 / 11</div>
   <div id="grocery">
        
        </div>
   <div class="text">Mobility to grocery stores and pharmacies</div>
 </div>   
 <div class="mySlides fade">
-  <div class="numbertext">6 / 11</div>
+  <div class="numbertext">7 / 11</div>
 <div id="parks">
        
        </div>
@@ -391,7 +416,7 @@ Last updated: <span class="time"></span><br>
 </div>  
         
 <div class="mySlides fade">
-  <div class="numbertext">7 / 11</div>
+  <div class="numbertext">8 / 11</div>
 <div id="residential">
        
        </div>
@@ -399,7 +424,7 @@ Last updated: <span class="time"></span><br>
 </div>      
         
 <div class="mySlides fade">
-  <div class="numbertext">8 / 11</div>
+  <div class="numbertext">9 / 11</div>
 <div id="retail">
        
        </div>
@@ -407,7 +432,7 @@ Last updated: <span class="time"></span><br>
 </div>   
         
 <div class="mySlides fade">
-  <div class="numbertext">9 / 11</div>
+  <div class="numbertext">10 / 11</div>
  <div id="transit">
        
        </div>
@@ -415,17 +440,13 @@ Last updated: <span class="time"></span><br>
 </div>     
         
 <div class="mySlides fade">
-<div class="numbertext">10 / 11</div>
+<div class="numbertext">11 / 11</div>
 <div id="workplaces"></div>
 <div class="text">Mobility to workplaces</div>
 </div>    
         
         
- <div class="mySlides fade">
-  <div class="numbertext">11 / 11</div>       
- <div id="moving_average"></div> 
-  <div class="text">7-day moving average for confirmed cases</div>
-</div> 
+
         
         
 
@@ -516,7 +537,7 @@ function showSlides(n) {
     
     
    // console.log(navigator.sayswho);
-if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" ")[1])<=11) {
+/*if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" ")[1])<=11) {
     
     $( "#dialog1" ).dialog({
       autoOpen: false,
@@ -531,7 +552,7 @@ if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" "
     }); 
      $( "#dialog1" ).dialog( "open" );
     
-}
+}*/
     /*
     #ffffcc
 #ffeda0
@@ -546,7 +567,12 @@ if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" "
     
     */
     
-     var arr000=[[0, '#000000'],[1, '#ffffcc'],[20, '#ffeda0'],[40, '#fed976'],[50, '#feb24c'],[60, '#fd8d3c'],[70, '#fc4e2a'],[80, '#e31a1c'],[90, '#bd0026'],[100, '#800026']];
+    // var arr000=[[0, '#000000'],[1, '#ffffcc'],[20, '#ffeda0'],[40, '#fed976'],[50, '#feb24c'],[60, '#fd8d3c'],[70, '#fc4e2a'],[80, '#e31a1c'],[90, '#bd0026'],[100, '#800026']];
+    // var arr000=[[-1, '#000000'],[0, '#1a9850'],[0.1, '#ffffb2'],[0.4, '#fd8d3c'],[0.79, '#bd0026'],[1, '#800026']];
+    var arr000=[[-1, '#000000'],[0, '#1a9850'],[0.1, '#ffffb2'],[0.4, '#fd8d3c'],[0.8, '#bd0026']];
+    
+  nn="class1"; 
+var nn0=nn;     
     
     function log(x, base) {
     return Math.log10(x);
@@ -563,14 +589,14 @@ if (navigator.sayswho.indexOf("Safari")>-1 && Number(navigator.sayswho.split(" "
      var all_ranges={"confirm":[],"confirm_log":[],"deaths":[],"deaths_log":[],"recover":[],"recover_log":[],"confirm_daily":[],"confirm_daily_log":[],"recover_daily":[],"recover_daily_log":[],"deaths_daily":[],"deaths_daily_log":[]}; 
     
     var dd=[];
-    d3.csv('https://raw.githubusercontent.com/obuchel/COVID-19_map/master/classification/classification_ids.csv', function(dat,i){
+    d3.csv('classification/classification_ids.csv', function(dat,i){
    
         dd.push(dat);
-       console.log(dat);
-        if (i==265) {
+      // console.log(dat);
+        if (i==325) {
            
             
-            	mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJmOWQ2MzQxNmE0M2Y3YmVjNzA2NmM2MGQzYTIwYmQ3OCJ9.psxJSN8q9n2-HfFGoIUNJA';
+            	mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjamhqZTZsOWkwN25iM2Fxd282N2FlZDVqIn0.bkOU5gAio8eKnmKHlntJsA';
 map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/dark-v8',
@@ -629,11 +655,22 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
    // console.log(country_isos);
     
     
-    
+    var class_ids=dd.map(function(d){return d.id.toString();});
    
 for (var i=0; i<data["features"].length; i++) {
     
      data["features"][i].properties.id=data["features"][i].id;
+    if (class_ids.indexOf(data["features"][i].id.toString())>-1) {
+    data["features"][i].properties.class=dd[class_ids.indexOf(data["features"][i].id.toString())]["color"];
+    data["features"][i].properties.class1=Number(dd[class_ids.indexOf(data["features"][i].properties.id.toString())]["value"]);
+    //console.log(data["features"][i].properties.class,data["features"][i].properties.class1);
+    } else {
+        console.log(data["features"][i].properties);
+        data["features"][i].properties.class="black";
+    data["features"][i].properties.class1=-1;
+    }
+    
+    //console.log(data["features"][i].properties.class,data["features"][i].properties.class1);
     
             if (all_isos.indexOf(data["features"][i]["properties"]["iso"])>-1) {
         data["features"][i].properties.alert_code=Number(dd[all_isos.indexOf(data["features"][i]["properties"]["iso"])]["Alert Level"]);
@@ -759,7 +796,8 @@ document.getElementById('seven').innerHTML="3";
    // document.getElementById('zero').parentElement.style.visibility="hidden";
    */
         document.getElementById("log_linear0").style.visibility="hidden";
-    document.getElementById('selected2').style.visibility="visible";
+    document.getElementById('selected3').style.visibility="visible";
+       document.getElementById('selected2').style.visibility="hidden";
          document.getElementById('selected').style.visibility="hidden";
     //formatNumber(Math.round(max0*0.88)).toString();  
 /*
@@ -789,7 +827,7 @@ property: "country"
 },
 'paint': {
 'fill-color': {
-property: "stringency",
+property: "class1",
 stops: arr
 },
 'fill-opacity': 0.7
@@ -858,62 +896,29 @@ popup=new mapboxgl.Popup()
 });  
     }
 function change_map(e){
-    if (document.getElementById("select_change").value=="alerts") {
+    
+  // console.log(document.getElementById("select_change").value);
+    
+    
+   if (document.getElementById("select_change").value=="alerts" || document.getElementById("select_change").value) {
 	    document.getElementById("log_linear0").style.height="0px";
-    } else {
-	    
-	    
+    } 
+    else {
 	    document.getElementById("log_linear0").style.height="30px";
     }
 	    
 	
 	
        document.getElementById("log_linear0").style.visibility="visible";
-
+ document.getElementById('selected3').style.visibility="hidden";
+ //      document.getElementById('selected2').style.visibility="hidden";
  document.getElementById('selected2').style.visibility="hidden";
      document.getElementById('selected').style.visibility="visible";
      document.getElementById('selected').style.position="relative";
-   // document.getElementById('selected').style.top="-220px !important";
-    
-  /*  document.getElementById('one').parentElement.style.visibility="visible";
-    //document.getElementById('one').parentElement.style.lineHeight=10;
-        document.getElementById('one').parentElement.style.padding=15;
-        // document.getElementById('one').parentElement.style.height=15;
-    //formatNumber(Math.round(max0/8)).toString();    
-document.getElementById('two').parentElement.style.visibility="visible";
-   // document.getElementById('two').parentElement.style.lineHeight=10;
-        document.getElementById('two').parentElement.style.padding=15;
-    
-    //formatNumber(Math.round(max0/4)).toString(); 
 
-    //formatNumber((Math.round(max0/4)+Math.round(max0/8))).toString();   
-document.getElementById('four').parentElement.style.visibility="visible";
-   // document.getElementById('four').parentElement.style.lineHeight=10;
-    document.getElementById('four').parentElement.style.padding=15;
-   //     document.getElementById('four').parentElement.style.height=15;
-    //formatNumber(Math.round(max0/2)).toString(); 
-document.getElementById('five').innerHTML="2";
-    //formatNumber(Math.round(max0*0.63)).toString();   
-document.getElementById('six').parentElement.style.visibility="visible";
-
-     document.getElementById('six').parentElement.style.padding=15;
-  //   document.getElementById('six').parentElement.style.height=15;
-    
-    
-    */
-    
-    
-    
-    
-    
-
-
-   // alert(document.querySelectorAll("input[name=log_linear]:checked")[0].value);
 d3.selectAll("#confirm,#recover,#deaths,#grocery,#parks,#residential,#retail,#transit,#workplaces").html("");
     
-    
-
-                 if (typeof popup=="object") {
+        if (typeof popup=="object") {
             popup.remove();
         }
     
@@ -1059,6 +1064,10 @@ document.getElementById('seven').innerHTML="30,000";
         //  document.getElementById('zero').innerHTML=(mm).toString();  
     //formatNumber(Math.round(max0*0.88)).toString();  
 var arr=[[1, '#fff5eb'], [100, '#fee6ce'],[200, '#fdd0a2'],[500, '#fdae6b'],[1000, '#fd8d3c'],[2000, '#f16913'],[10000, '#d94801'],[30000, '#a63603'],[max0, '#7f2704']];
+          
+          
+          
+          
     } else if (nn=="confirm_daily" || nn=="deaths") {
 var max0=Math.max(...all_ranges[nn]);
 var min0=Math.min(...all_ranges[nn]);   
@@ -1099,7 +1108,7 @@ var arr=[[1, '#fff5eb'], [100, '#fee6ce'],[200, '#fdd0a2'],[500, '#fdae6b'],[100
        // console.log(arr);
     } else  {   
         //alert(nn);
-  if (nn!="alerts") {      
+  if (nn!="alerts" && nn!="alerts0") {      
         
 var max0=Math.max(...all_ranges[nn]);
 var min0=Math.min(...all_ranges[nn]);    
@@ -1169,7 +1178,8 @@ var min0=0;
 if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="log") {
     
     var nn0=nn+"_log";
-} else {
+} 
+    else {
     var nn0=nn;
     
 }
@@ -1190,10 +1200,33 @@ if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="log")
      document.getElementById('selected2').style.visibility="visible";
           document.getElementById('selected').style.visibility="hidden";
     
- var arr=[[0, '#000000'],[1, '#ffffb2'],[20, '#fecc5c'],[40, '#fd8d3c'],[60, '#f03b20'],[80, '#bd0026'],[100, '#800026']];
+ var arr=[[0, '#000000'],[1, '#fee8c8'],[20, '#fecc5c'],[40, '#fd8d3c'],[60, '#f03b20'],[80, '#bd0026'],[100, '#800026']];
     
   nn="stringency"; 
          var nn0=nn;     
+   
+    }  
+    
+    if (document.getElementById("select_change").value=="alerts0") {
+            
+    //  document.querySelectorAll("input[name=log_linear]").dispatchEvent(new Event('change'));
+        
+        
+    document.querySelectorAll("input[name=log_linear]")[0].value = "adaptive"; // add the currency symbol
+    var event = new Event("change");
+   document.querySelectorAll("input[name=log_linear]")[0].dispatchEvent(event);
+    
+   var max0=1;
+    var min0=-101;
+          document.getElementById("log_linear0").style.visibility="hidden";
+     document.getElementById('selected2').style.visibility="visible";
+          document.getElementById('selected').style.visibility="hidden";
+    
+// var arr=[[-101, '#000000'],[0.1, '#ffffb2'],[0.4, '#fd8d3c'],[0.8, '#f03b20'],[1, '#1a9850']];
+   var arr=arr000;
+      // [[-1, '#000000'],[0, '#1a9850'],[0.1, '#ffffb2'],[0.4, '#fd8d3c'],[0.79, '#bd0026'],[1, '#800026']];  
+  nn="class1"; 
+var nn0=nn;     
    
     }  
     
@@ -1230,11 +1263,12 @@ document.getElementById('six').innerHTML="2,500";
     //formatNumber(Math.round(max0*0.75)).toString();  
 document.getElementById('seven').innerHTML="3,000";
         
-    } else if (nn0=="confirm_daily") {
+    } 
+    else if (nn0=="confirm_daily") {
         
             var max0=Math.max(...all_ranges[nn0]);
 var min0=Math.min(...all_ranges[nn0]);   
-          console.log(max0);
+         // console.log(max0);
         
         var arr=[[1, '#fff5eb'], [100, '#fee6ce'],[200, '#fdd0a2'],[500, '#fdae6b'],[1000, '#fd8d3c'],[2000, '#f16913'],[2500, '#d94801'],[3000, '#a63603'],[max0, '#7f2704']];
         
@@ -1263,10 +1297,7 @@ document.getElementById('six').innerHTML="2,500";
 document.getElementById('seven').innerHTML="3,000";
     }
  
-    //    map.addLayer({
-//'id': 'place_data',
-  //  map.removeLayer('place_data');
-    //console.log(nn0,nn,arr);
+console.log(nn,arr);
     map.addLayer({
 'id': 'place_data',
 'type': 'fill',
@@ -1312,7 +1343,7 @@ stops: arr
             
             
      if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="linear") {         
-   var html="<b>"+name+"</b> <br>Yesterday change in  confirmed:"+formatNumber(e.features[0].properties.confirm_daily)+" <br>Yesterday change in recovered:"+formatNumber(e.features[0].properties.recover_daily)+" <br>Yesterday change in  deaths:"+formatNumber(e.features[0].properties.deaths_daily)+"<br>Total confirmed:"+formatNumber(e.features[0].properties.confirm)+" <br>Total recovered:"+formatNumber(e.features[0].properties.recover)+" <br>Total deaths:"+formatNumber(e.features[0].properties.deaths)+" <br>Stringency: "+formatNumber(e.features[0].properties.stringency).toString();  
+   var html="<b>"+name+"</b> <br>Yesterday change in  confirmed:"+formatNumber(e.features[0].properties.confirm_daily)+" <br>Yesterday change in recovered:"+formatNumber(e.features[0].properties.recover_daily)+" <br>Yesterday change in  deaths:"+formatNumber(e.features[0].properties.deaths_daily)+"<br>Total confirmed:"+formatNumber(e.features[0].properties.confirm)+" <br>Total recovered:"+formatNumber(e.features[0].properties.recover)+" <br>Total deaths:"+formatNumber(e.features[0].properties.deaths)+" <br>Stringency: "+formatNumber(e.features[0].properties.stringency).toString();
          
      } else {
        var html="<b>"+name+"</b> <br>Yesterday change in  confirmed:"+formatNumber(e.features[0].properties.confirm_daily)+" <br>Yesterday change in  recovered:"+formatNumber(e.features[0].properties.recover_daily)+" <br>Yesterday change in  deaths:"+formatNumber(e.features[0].properties.deaths_daily)+"<br>Total confirmed:"+formatNumber(e.features[0].properties.confirm)+" <br>Total recovered:"+formatNumber(e.features[0].properties.recover)+" <br>Total deaths:"+formatNumber(e.features[0].properties.deaths)+" <br>Stringency: "+formatNumber(e.features[0].properties.stringency).toString();     
