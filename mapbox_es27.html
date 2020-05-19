@@ -477,6 +477,7 @@ Last updated: <span class="time"></span><br>
 
 
 <script>
+var cols={"red":0.8,"yellow":0.3,"green":0.01,"orange":0.8};
 var isMobile = false; //initiate as false
 // device detection
 if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) 
@@ -590,28 +591,22 @@ var nn0=nn;
     
     var dd=[];
     d3.csv('classification/classification_ids.csv', function(dat,i){
-   
-        dd.push(dat);
-      // console.log(dat);
-        if (i==325) {
-           
-            
-            	mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjamhqZTZsOWkwN25iM2Fxd282N2FlZDVqIn0.bkOU5gAio8eKnmKHlntJsA';
+     dd.push(dat);
+        console.log(dat);
+    if (i==325) {    
+mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjamhqZTZsOWkwN25iM2Fxd282N2FlZDVqIn0.bkOU5gAio8eKnmKHlntJsA';
 map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/dark-v8',
 center: [-12.403732, 10.492392],
 zoom: 1
 });
-            
-            
- map.addControl(new mapboxgl.FullscreenControl());
-    var stateLegendEl = document.getElementById('state-legend');
-    
-    stateLegendEl.style.display = 'block';
+map.addControl(new mapboxgl.FullscreenControl());
+var stateLegendEl = document.getElementById('state-legend');
+stateLegendEl.style.display = 'block';
             draw_map();
         }      
-    });
+});
     
   
     
@@ -656,16 +651,19 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
     
     
     var class_ids=dd.map(function(d){return d.id.toString();});
-   
+
 for (var i=0; i<data["features"].length; i++) {
     
      data["features"][i].properties.id=data["features"][i].id;
     if (class_ids.indexOf(data["features"][i].id.toString())>-1) {
+        // var arr000=[[-1, '#000000'],[0, '#1a9850'],[0.1, '#ffffb2'],[0.4, '#fd8d3c'],[0.8, '#bd0026']];
+    
     data["features"][i].properties.class=dd[class_ids.indexOf(data["features"][i].id.toString())]["color"];
-    data["features"][i].properties.class1=Number(dd[class_ids.indexOf(data["features"][i].properties.id.toString())]["value"]);
+    data["features"][i].properties.class1=cols[dd[class_ids.indexOf(data["features"][i].id.toString())]["color"]];
+        //Number(dd[class_ids.indexOf(data["features"][i].properties.id.toString())]["value"]);
     //console.log(data["features"][i].properties.class,data["features"][i].properties.class1);
     } else {
-        console.log(data["features"][i].properties);
+       // console.log(data["features"][i].properties);
         data["features"][i].properties.class="black";
     data["features"][i].properties.class1=-1;
     }
