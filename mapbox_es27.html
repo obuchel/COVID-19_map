@@ -590,7 +590,7 @@ var nn0=nn;
      var all_ranges={"confirm":[],"confirm_log":[],"deaths":[],"deaths_log":[],"recover":[],"recover_log":[],"confirm_daily":[],"confirm_daily_log":[],"recover_daily":[],"recover_daily_log":[],"deaths_daily":[],"deaths_daily_log":[]}; 
     
     var dd=[];
-    d3.csv('classification/classification_ids.csv', function(dat,i){
+    d3.csv('classification/classification_ids2.csv', function(dat,i){
         
 
         
@@ -602,7 +602,7 @@ var nn0=nn;
 
      dd.push(dat);
   
-    if (i==325) {    
+    if (i==315) {    
 mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjanlrY3diNzIwZDdxM25uN2owN2c5ZHpiIn0.XzMbcbHF6H42u0Uxo1L8lg';
 map = new mapboxgl.Map({
 container: 'map',
@@ -1146,7 +1146,7 @@ document.getElementById('seven').innerHTML="300";
         
        // document.getElementById('zero').innerHTML=(mm).toString();  
     //formatNumber(Math.round(max0*0.88)).toString();  
-        var arr=[[1, '#fff5eb'], [10, '#fee6ce'],[50, '#fdd0a2'],[100, '#fdae6b'],[150, '#fd8d3c'],[200, '#f16913'],[250, '#d94801'],[300, '#a63603'],[max0, '#7f2704']];
+        var arr=[[1, '#fff5eb'], [10, '#fee6ce'],[50, '#fdd0a2'],[100, '#fdae6b'],[150, '#fd8d3c'],[200, '#f16913'],[250, '#d94801'],[275, '#a63603'],[max0, '#7f2704']];
         
         
         
@@ -1304,7 +1304,7 @@ document.getElementById('six').innerHTML="2,500";
 document.getElementById('seven').innerHTML="3,000";
     }
  
-console.log(nn,arr);
+//console.log(nn,arr);
     map.addLayer({
 'id': 'place_data',
 'type': 'fill',

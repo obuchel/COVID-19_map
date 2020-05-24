@@ -1696,7 +1696,11 @@ province_country,id,value,color
 "Monroe, New York, US",84036055,0.9888793840889648,red
 "Montgomery, New York, US",84036057,0.37777777777777777,yellow
 "Nassau, New York, US",84036059,0.09019924609585352,green
-"New York City, New York, US",84036061,0.19493878828176947,yellow
+"Manhattan, New York, US",84036061,0.19493878828176947,yellow
+"Bronx, New York, US",84036005,0.19493878828176947,yellow
+"Queens, New York, US",84036081,0.19493878828176947,yellow
+"Richmond, New York, US",84036085,0.19493878828176947,yellow
+"Kings, New York, US",84036047,0.19493878828176947,yellow
 "Niagara, New York, US",84036063,0.9210526315789473,red
 "Oneida, New York, US",84036065,0.6195899772209568,orange
 "Onondaga, New York, US",84036067,0.9463687150837989,red
