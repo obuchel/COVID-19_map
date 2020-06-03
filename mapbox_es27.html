@@ -611,6 +611,7 @@ style: 'mapbox://styles/mapbox/dark-v10',
 center: [-12.403732, 10.492392],
 zoom: 1
 });
+        map.dragRotate.disable();
 map.addControl(new mapboxgl.FullscreenControl());
 var stateLegendEl = document.getElementById('state-legend');
 stateLegendEl.style.display = 'block';
