@@ -17,7 +17,7 @@
         
         
 
-    $(document).ready(function() {
+$(document).ready(function() {
 $( "#dialog" ).dialog({
       autoOpen: false,
       show: {
@@ -201,6 +201,7 @@ width: 10px;
   stroke-width: 2px;
           stroke-dasharray: 5;
 }       
+       
          
 .line1 {
   fill: none;
@@ -289,7 +290,7 @@ Last updated: <span class="time"></span><br>
     </div>
     
     
-    <span id="selected3">
+    <div id="selected3">
           
                      <h3>Alert levels</h3>
            <div><span id="six112"  style="width:300px !important"><span style="background-color: #bd0026"></span>Regions where new COVID-19 cases are high and spreading rapidly</span></div>  
@@ -302,7 +303,7 @@ Last updated: <span class="time"></span><br>
 <div><span id="zero1"  style="width:300px !important"><span style="background-color: #000000"></span>No data</span></div>
 <!---<a  target="_blank" href="https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8a288d138b9761efb337f3/1586112654619/Alert_color_codes.pdf">Detailed explanation</a> --->   
     
-         </span>  
+         </div>  
     
     
        <span id="selected2">
@@ -326,7 +327,7 @@ Last updated: <span class="time"></span><br>
     
          </span>  
 
-     <span id="selected">
+     <div id="selected">
       
 
   <table width=200>   
@@ -346,7 +347,7 @@ Last updated: <span class="time"></span><br>
 </td>     
 </tr>        
 </table>       
-         </span>  
+         </div>  
     </form>       
 </div>
  
@@ -803,7 +804,8 @@ document.getElementById('seven').innerHTML="3";
    // document.getElementById('zero').parentElement.style.visibility="hidden";
    */
         document.getElementById("log_linear0").style.visibility="hidden";
-    document.getElementById('selected3').style.visibility="visible";
+   // document.getElementById('selected3').style.visibility="visible";
+       // document.getElementById('selected3').style.height="300px !important";
        document.getElementById('selected2').style.visibility="hidden";
          document.getElementById('selected').style.visibility="hidden";
     //formatNumber(Math.round(max0*0.88)).toString();  
@@ -880,7 +882,7 @@ popup=new mapboxgl.Popup()
 .addTo(map);
    // if( isMobile==false ) {
  
-     $( "#dialog" ).dialog('option', 'position', [window.innerWidth*0.3,200]).dialog( "open" );
+    // $( "#dialog" ).dialog('option', 'position', [window.innerWidth*0.3,200]).dialog( "open" );
 	//}
 	
              document.getElementsByClassName("mapboxgl-popup-close-button")[0].addEventListener("click",closeF);
@@ -903,25 +905,46 @@ popup=new mapboxgl.Popup()
 });  
     }
 function change_map(e){
+
     
+    
+    var mapLayer = map.getLayer('place_data');
+
+    if(typeof mapLayer !== 'undefined') {
+      // Remove map layer & source.
+      map.removeLayer('place_data');
+    }
   // console.log(document.getElementById("select_change").value);
     
     
-   if (document.getElementById("select_change").value=="alerts" || document.getElementById("select_change").value) {
+   if (document.getElementById("select_change").value=="alerts" || document.getElementById("select_change").value=="alerts0") {
 	    document.getElementById("log_linear0").style.height="0px";
+       
     } 
     else {
 	    document.getElementById("log_linear0").style.height="30px";
+        
+          document.getElementById('selected').style.top="-50px !important";
     }
 	    
-	
+	if (document.getElementById("select_change").value=="alerts0") {
+	    document.getElementById("selected3").style.height="300px";
+         document.getElementById('selected3').style.visibility="visible";
+    } 
+    else {
+	    document.getElementById("selected3").style.height="0px";
+        document.getElementById('selected3').style.visibility="hidden";
+    }
 	
        document.getElementById("log_linear0").style.visibility="visible";
- document.getElementById('selected3').style.visibility="hidden";
+ //document.getElementById('selected3').style.visibility="hidden";
+  //  document.getElementById('selected3').style.height="0px !important";
+ 
  //      document.getElementById('selected2').style.visibility="hidden";
- document.getElementById('selected2').style.visibility="hidden";
+
      document.getElementById('selected').style.visibility="visible";
      document.getElementById('selected').style.position="relative";
+  
 
 d3.selectAll("#confirm,#recover,#deaths,#grocery,#parks,#residential,#retail,#transit,#workplaces").html("");
     
@@ -938,12 +961,11 @@ d3.selectAll("#confirm,#recover,#deaths,#grocery,#parks,#residential,#retail,#tr
     } else {
     var nn=document.getElementById("select_change").value;
     }
-    map.removeLayer('place_data');
+  //  map.removeLayer('place_data');
     if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="linear") {
    var max0=Math.max(...all_ranges[nn]);
 var min0=Math.min(...all_ranges[nn]);    
-       if (min0<0) {
-    
+if (min0<0) {
     var mm="0";
 }  else {
     var mm=min0;
@@ -1304,6 +1326,16 @@ document.getElementById('six').innerHTML="2,500";
 document.getElementById('seven').innerHTML="3,000";
     }
  
+    if (document.getElementById("select_change").value=="alerts") {
+	    document.getElementById("selected2").style.height="300px";
+    } 
+    else {
+	    document.getElementById("selected2").style.height="0px";
+        document.getElementById('selected2').style.visibility="hidden";
+    }
+    
+    
+    
 //console.log(nn,arr);
     map.addLayer({
 'id': 'place_data',
@@ -1362,7 +1394,7 @@ stops: arr
 if  (d3.keys(e.features[0].properties).length>1) {    
 	
 	// if( isMobile==false ) {
- $( "#dialog" ).dialog( "open" );
+ //$( "#dialog" ).dialog( "open" );
     // $( "#dialog" ).dialog( "moveToTop" ).dialog('option', 'position', [700,100]).dialog( "open" );
 	//}
                  //$( "#dialog" ).dialog( "open" );
@@ -1382,12 +1414,12 @@ var ll=e.features[0].properties.id;
 var cou=e.features[0].properties.country; 
                 
 //console.log(e.features[0].id,e.features[0].properties.id);                
-        draw_plots(ll,cou);
+       // draw_plots(ll,cou);
 } else {
     //console.log(e.features[0].id,e.features[0].properties.id); 
     var ll=e.features[0].properties.id;
      var cou=e.features[0].properties.province+", "+e.features[0].properties.country; 
-        draw_plots(ll,cou);
+       // draw_plots(ll,cou);
 }
 
             
@@ -2077,7 +2109,7 @@ svg.append("path")
 }    
         function closeF(e){
     
-        $("#dialog").dialog("close");
+     //   $("#dialog").dialog("close");
       
     }
     
