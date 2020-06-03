@@ -230,7 +230,7 @@ width: 10px;
 </style>
     <form id="formSelects">
    <div id="state-legend" class="legend">
-Last updated: <span class="time"></span><br>
+Updated: <span class="time"></span><br>
 <select id="select_change">
      <option value="alerts0">
     Crushing the curve
@@ -877,10 +877,10 @@ var ll=e.features[0].properties.id;
         }
 if  (d3.keys(e.features[0].properties).length>1) {              
             
-popup=new mapboxgl.Popup()
+/*popup=new mapboxgl.Popup()
 .setLngLat(e.lngLat)
 .setHTML("<b>"+name+"</b> <br>Yesterday change in confirmed:"+formatNumber(e.features[0].properties.confirm_daily).toString()+" <br>Yesterday change in recovered:"+formatNumber(e.features[0].properties.recover_daily).toString()+" <br>Yesterday change in deaths:"+formatNumber(e.features[0].properties.deaths_daily).toString()+ "<br>Total confirmed:"+formatNumber(e.features[0].properties.confirm).toString()+" <br>Total recovered:"+formatNumber(e.features[0].properties.recover).toString()+" <br>Total deaths:"+formatNumber(e.features[0].properties.deaths).toString()+" <br>Stringency: "+formatNumber(e.features[0].properties.stringency).toString())
-.addTo(map);
+.addTo(map);*/
    // if( isMobile==false ) {
  
     // $( "#dialog" ).dialog('option', 'position', [window.innerWidth*0.3,200]).dialog( "open" );
@@ -1399,10 +1399,10 @@ if  (d3.keys(e.features[0].properties).length>1) {
     // $( "#dialog" ).dialog( "moveToTop" ).dialog('option', 'position', [700,100]).dialog( "open" );
 	//}
                  //$( "#dialog" ).dialog( "open" );
-popup=new mapboxgl.Popup()
+/*popup=new mapboxgl.Popup()
 .setLngLat(e.lngLat)
 .setHTML(html)
-.addTo(map);
+.addTo(map);*/
                   document.getElementsByClassName("mapboxgl-popup-close-button")[0].addEventListener("click",closeF);
         
          document.getElementsByClassName("ui-button-icon")[0].addEventListener("click",closeG);
