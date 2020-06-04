@@ -987,7 +987,7 @@ var arr=[[min0, '#fff5eb'], [Math.round(max0/8), '#fee6ce'],[Math.round(max0/4),
     
     else if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="log"){
         
-//if (nn+"_log"!="alerts_log") {
+if (nn+"_log"!="alerts0_log") {
 var max0=Math.max(...all_ranges[nn+"_log"]);
         
         var max10=Math.max(...all_ranges[nn]);
@@ -1048,7 +1048,7 @@ document.getElementById("hide_layer").visibility="visible";
     var arr=[ [max0/8, '#fee6ce'],[max0/4, '#fdd0a2'],[max0/4+max0/8, '#fdae6b'],[max0/2, '#fd8d3c'],[max0*0.63, '#f16913'],[max0*0.75, '#d94801'],[max0*0.88, '#a63603'],[max0, '#7f2704']];   
 document.getElementById("hide_layer").visibility="hidden";    
 }
-/*} 
+} 
         else {
     
     var max0=4;
@@ -1058,13 +1058,13 @@ document.getElementById("hide_layer").visibility="hidden";
           document.getElementById('selected').style.visibility="hidden";
  var arr=arr000;
             
-  nn="stringency";         
+  nn="class";         
 }
         
         
         
         
-        */
+        
 
     }
 
