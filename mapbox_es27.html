@@ -150,8 +150,8 @@ padding: 10px;
 position: absolute;
 right: 10px;
 z-index: 100;
-width:35%;
-height: 30%;
+width:20%;
+height: 28%;
 overflow: auto;    
 }
     
@@ -293,12 +293,12 @@ Updated: <span class="time"></span><br>
     <div id="selected3">
           
                      <h3>Alert levels</h3>
-           <div><span id="six112"  style="width:300px !important"><span style="background-color: #bd0026"></span>Regions where new  cases are high</span></div>  
+           <div><span id="six112"  style="width:300px !important"><span style="background-color: #bd0026"></span>New  cases are high</span></div>  
            <!----
              <div><span id="six112"  style="width:300px !important"><span style="background-color: #fd8d3c"></span>Regions where new COVID-19 cases are high, but falling or constant </span></div>  --->
-        <div><span id="six112"  style="width:300px !important"><span style="background-color: #FFCA08"></span>Regions where new cases are falling</span></div>       
+        <div><span id="six112"  style="width:300px !important"><span style="background-color: #FFCA08"></span>New cases are falling consistently</span></div>       
            
-    <div><span id="six111"  style="width:300px !important"><span style="background-color: #1a9850"></span>Regions where new cases are at or near 0</span></div>
+    <div><span id="six111"  style="width:300px !important"><span style="background-color: #1a9850"></span>New cases are at or near 0</span></div>
 
 <div><span id="zero1"  style="width:300px !important"><span style="background-color: #000000"></span>No data</span></div>
 <!---<a  target="_blank" href="https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8a288d138b9761efb337f3/1586112654619/Alert_color_codes.pdf">Detailed explanation</a> --->   
@@ -655,7 +655,7 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
    var all_isos=dd.map(function(d){return d.Iso});
   
     
-    d3.selectAll(".time").html(data0["features"][0]["properties"]["date"]);
+    d3.selectAll(".time").html("6/3/20");//data0["features"][0]["properties"]["date"]
     //console.log(data);
     var country_isos=dd.map(function(d){return d.Iso});
    // console.log(country_isos);
