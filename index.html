@@ -223,8 +223,8 @@ width: 10px;
          
          #selected{
              
-             position:relative;
-             top:-220px !important;
+            /* position:relative;
+             top:-220px !important;*/
          }         
 
 </style>
@@ -240,13 +240,13 @@ Updated: <span class="time"></span><br>
     </option>--->
     
     <option value="confirm_daily">
-    Yesterday change in confirmed
+    Change in confirmed
     </option>
     <option value="deaths_daily">
-    Yesterday change in deaths
+    Change in deaths
     </option>
     <option value="recover_daily">
-    Yesterday change in recovered
+    Change in recovered
     </option>
     <option value="confirm">
     Total Confirmed
@@ -917,15 +917,15 @@ function change_map(e){
   // console.log(document.getElementById("select_change").value);
     
     
-   if (document.getElementById("select_change").value=="alerts" || document.getElementById("select_change").value=="alerts0") {
+   if (document.getElementById("select_change").value=="alerts0") {
 	    document.getElementById("log_linear0").style.height="0px";
         document.getElementById('selected').style.visibility="hidden";
     } 
     else {
 	    document.getElementById("log_linear0").style.height="30px";
          document.getElementById('selected').style.visibility="visible";
-     document.getElementById('selected').style.position="relative";
-          document.getElementById('selected').style.top="-270px !important";
+    // document.getElementById('selected').style.position="relative";
+        //  document.getElementById('selected').style.top="-270px !important";
     }
 	    
 	if (document.getElementById("select_change").value=="alerts0") {
@@ -1137,7 +1137,7 @@ var arr=[[1, '#fff5eb'], [100, '#fee6ce'],[200, '#fdd0a2'],[500, '#fdae6b'],[100
        // console.log(arr);
     } else  {   
         //alert(nn);
-  if (nn!="alerts" && nn!="alerts0") {      
+  if (nn!="alerts0") {      
         
 var max0=Math.max(...all_ranges[nn]);
 var min0=Math.min(...all_ranges[nn]);    
@@ -1212,7 +1212,7 @@ if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="log")
     var nn0=nn;
     
 }
-
+/*
   
     if (document.getElementById("select_change").value=="alerts") {
         
@@ -1235,7 +1235,7 @@ if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="log")
          var nn0=nn;     
    
     }  
-    
+    */
     if (document.getElementById("select_change").value=="alerts0") {
             
     //  document.querySelectorAll("input[name=log_linear]").dispatchEvent(new Event('change'));
@@ -1325,7 +1325,7 @@ document.getElementById('six').innerHTML="2,500";
     //formatNumber(Math.round(max0*0.75)).toString();  
 document.getElementById('seven').innerHTML="3,000";
     }
- 
+ /*
     if (document.getElementById("select_change").value=="alerts") {
 	    document.getElementById("selected2").style.height="300px";
     } 
@@ -1333,7 +1333,7 @@ document.getElementById('seven').innerHTML="3,000";
 	    document.getElementById("selected2").style.height="0px";
         document.getElementById('selected2').style.visibility="hidden";
     }
-    
+    */
     
     
 //console.log(nn,arr);
