@@ -963,7 +963,7 @@ d3.selectAll("#confirm,#recover,#deaths,#grocery,#parks,#residential,#retail,#tr
     var nn=document.getElementById("select_change").value;
     }
   //  map.removeLayer('place_data');
-    if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="linear") {
+    if (document.querySelectorAll("input[name=log_linear]:checked")[0].value=="linear" && nn!="alerts0") {
    var max0=Math.max(...all_ranges[nn]);
 var min0=Math.min(...all_ranges[nn]);    
 if (min0<0) {
