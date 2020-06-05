@@ -1379,10 +1379,16 @@ property: "country"
 property: nn0,
 stops: arr
 },
+        'fill-outline-color': 'black',
 'fill-opacity': 0.7
 },
 'filter': ['==', '$type', 'Polygon']
-});
+},"country-label");
+   map.removeLayer("poi-label");
+map.removeLayer("aiport-label");
+map.removeLayer("settlement-subdivision-label");
+map.removeLayer("settlement-label");
+map.removeLayer("state-label");
    
         map.on('click', 'place_data', function(e,i) {
       
