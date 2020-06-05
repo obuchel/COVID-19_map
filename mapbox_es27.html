@@ -4,8 +4,8 @@
 <meta charset="utf-8" />
 <title>COVID-19</title>
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-<script src="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js"></script>
-<link href="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css" rel="stylesheet" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.css" rel="stylesheet" />
     <script src="https://d3js.org/d3.v5.min.js"></script>
       <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
@@ -609,9 +609,12 @@ map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/dark-v10',
 center: [-12.403732, 10.492392],
+    pitch: 0, // pitch in degrees
+bearing: 0, // bearing in degrees
 zoom: 1
 });
-        map.dragRotate.disable();
+map.dragRotate.disable();
+     //  console.log(map.getStyle());
 map.addControl(new mapboxgl.FullscreenControl());
 var stateLegendEl = document.getElementById('state-legend');
 stateLegendEl.style.display = 'block';
@@ -823,6 +826,20 @@ document.getElementById('seven').innerHTML="3";
  var arr=arr000;
     
 map.on('load', function() {
+    
+   /* var layers10 = map.getStyle().layers;    
+        var firstSymbolId;
+for (var i = 0; i < layers10.length; i++) {
+if (layers10[i].id == 'water') {
+firstSymbolId = layers10[i].id;
+break;
+}
+}
+    
+    console.log(map.getStyle().layers);
+    
+    */
+     console.log(map.getStyle().layers);
    // console.log(data);
 layer=map.addSource('places', {
 'type': 'geojson',
@@ -836,15 +853,22 @@ className: {
 property: "country"
 },
 'paint': {
+    
 'fill-color': {
 property: "class1",
 stops: arr
 },
+        'fill-outline-color': 'black',
 'fill-opacity': 0.7
 },
 'filter': ['==', '$type', 'Polygon']
-});
-   
+},"country-label");
+   map.removeLayer("poi-label");
+map.removeLayer("aiport-label");
+map.removeLayer("settlement-subdivision-label");
+map.removeLayer("settlement-label");
+map.removeLayer("state-label");
+    
         map.on('click', 'place_data', function(e,i) {
             
 
