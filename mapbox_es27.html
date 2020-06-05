@@ -614,7 +614,6 @@ bearing: 0, // bearing in degrees
 zoom: 1
 });
 map.dragRotate.disable();
-     //  console.log(map.getStyle());
 map.addControl(new mapboxgl.FullscreenControl());
 var stateLegendEl = document.getElementById('state-legend');
 stateLegendEl.style.display = 'block';
@@ -839,7 +838,12 @@ break;
     console.log(map.getStyle().layers);
     
     */
-     console.log(map.getStyle().layers);
+    console.log(map.getStyle().layers);
+  //map.getStyle().layers[82]["paint"]="none";
+  // map.setPaintProperty("country-label", 'text-halo-color', "none");
+      map.setPaintProperty("country-label", 'text-halo-width', 0);
+  
+    map.setPaintProperty("country-label", 'text-color', 'hsl(0, 0%, 35%)');
    // console.log(data);
 layer=map.addSource('places', {
 'type': 'geojson',
@@ -862,9 +866,9 @@ stops: arr
 'fill-opacity': 0.7
 },
 'filter': ['==', '$type', 'Polygon']
-},"country-label");
+},"country-label","admin-0-boundary");
    map.removeLayer("poi-label");
-map.removeLayer("aiport-label");
+map.removeLayer("airport-label");
 map.removeLayer("settlement-subdivision-label");
 map.removeLayer("settlement-label");
 map.removeLayer("state-label");
@@ -1383,12 +1387,12 @@ stops: arr
 'fill-opacity': 0.7
 },
 'filter': ['==', '$type', 'Polygon']
-},"country-label");
-   map.removeLayer("poi-label");
-map.removeLayer("aiport-label");
+},"country-label","admin-0-boundary");
+  /* map.removeLayer("poi-label");
+map.removeLayer("airport-label");
 map.removeLayer("settlement-subdivision-label");
 map.removeLayer("settlement-label");
-map.removeLayer("state-label");
+map.removeLayer("state-label");*/
    
         map.on('click', 'place_data', function(e,i) {
       
