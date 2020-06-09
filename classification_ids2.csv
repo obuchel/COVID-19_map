@@ -48,7 +48,7 @@ Newfoundland and Labrador,Canada,mixed_44,-0.006153846,green,,-0.006153846,green
 Nova Scotia,Canada,mixed_45,0.076470588,green,,0.095588235,green
 Northwest Territories,Canada,mixed_46,0,green,,0,green
 Prince Edward Island,Canada,mixed_48,0,green,,0,green
-British Columbia,Canada,mixed_5,0.205621302,yellow,green,0.187130178,yellow
+British Columbia,Canada,mixed_5,0.205621302,yellow,,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,yellow,,0.238172589,yellow
 Saskatchewan,Canada,mixed_9,0.298850575,yellow,green,0.313218391,yellow
 ,Cape Verde,41,0,green,,0,green
@@ -258,20 +258,20 @@ Georgia,US,67,0.727813041,orange,red,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,,0.738636364,orange
 Virgin Islands,US,216,0,green,,0.044444444,green
-North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
+North Dakota,US,mixed_10,0.971859986,red,,0.95256167,red
 Michigan,US,mixed_12,0.382199304,yellow,,0.339974551,yellow
-Maine,US,mixed_13,1,red,yellow,0.869001297,red
-Ohio,US,mixed_16,0.677234165,orange,red,0.682464757,orange
-New Hampshire,US,mixed_17,0.788359788,orange,red,0.741798942,orange
+Maine,US,mixed_13,1,red,,0.869001297,red
+Ohio,US,mixed_16,0.677234165,orange,,0.682464757,orange
+New Hampshire,US,mixed_17,0.788359788,orange,,0.741798942,orange
 New York,US,mixed_18,0.191947522,yellow,,0.218826993,yellow
 Vermont,US,mixed_19,0.061617458,green,,0.057766367,green
 Minnesota,US,mixed_2,0.975758984,red,,0.929884968,red
-Pennsylvania,US,mixed_20,0.541889653,orange,red,0.575719929,orange
+Pennsylvania,US,mixed_20,0.541889653,orange,,0.575719929,orange
 Arizona,US,mixed_21,0.916698078,red,,0.93215228,red
 California,US,mixed_22,0.967137139,red,,0.924269289,red
 New Mexico,US,mixed_23,0.794178794,red,,0.804870805,red
 Texas,US,mixed_24,0.908200538,red,,0.944783797,red
-Alaska,US,mixed_25,0.152671756,yellow,green,0.095419847,green
+Alaska,US,mixed_25,0.152671756,yellow,red,0.095419847,green
 Louisiana,US,mixed_27,0.323194454,yellow,red,0.260203721,yellow
 Mississippi,US,mixed_28,0.94511427,red,,0.86665467,red
 Alabama,US,mixed_29,0.975671406,red,,0.862616034,red
@@ -285,28 +285,28 @@ Delaware,US,mixed_37,0.81006259,red,,0.792007703,red
 New Jersey,US,mixed_38,0.314332834,yellow,,0.32120683,yellow
 Connecticut,US,mixed_39,0.500769116,orange,yellow,0.528109959,orange
 Washington,US,mixed_4,0.387110318,yellow,red,0.445785662,orange
-Rhode Island,US,mixed_40,0.516563945,orange,red,0.518618387,orange
-Massachusetts,US,mixed_41,0.464627434,orange,red,0.4861558,orange
+Rhode Island,US,mixed_40,0.516563945,orange,,0.518618387,orange
+Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange
 Oregon,US,mixed_42,0.653872515,orange,,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,,0.039497307,green
 Utah,US,mixed_49,0.961381476,red,,0.889481947,red
 Wyoming,US,mixed_50,0.512658228,orange,green,0.483122363,orange
-Nevada,US,mixed_51,0.740825688,orange,red,0.695609436,orange
-Colorado,US,mixed_52,0.583226044,orange,red,0.614217399,orange
-South Dakota,US,mixed_53,0.561620469,orange,red,0.820042644,red
-Nebraska,US,mixed_54,0.688282805,orange,red,0.608919583,orange
-Kansas,US,mixed_55,0.509575354,orange,yellow,0.484096586,orange
-Oklahoma,US,mixed_56,0.867132867,red,red,0.767585356,orange
-Iowa,US,mixed_57,0.64544676,orange,red,0.64573223,orange
-Missouri,US,mixed_58,0.58954197,orange,red,0.570473757,orange
+Nevada,US,mixed_51,0.740825688,orange,,0.695609436,orange
+Colorado,US,mixed_52,0.583226044,orange,,0.614217399,orange
+South Dakota,US,mixed_53,0.561620469,orange,,0.820042644,red
+Nebraska,US,mixed_54,0.688282805,orange,,0.608919583,orange
+Kansas,US,mixed_55,0.509575354,orange,,0.484096586,orange
+Oklahoma,US,mixed_56,0.867132867,red,,0.767585356,orange
+Iowa,US,mixed_57,0.64544676,orange,,0.64573223,orange
+Missouri,US,mixed_58,0.58954197,orange,,0.570473757,orange
 Wisconsin,US,mixed_59,1,red,,0.925854953,red
-Idaho,US,mixed_6,0.32386059,yellow,,0.25844504,yellow
+Idaho,US,mixed_6,0.32386059,yellow,red,0.25844504,yellow
 Illinois,US,mixed_60,0.840186825,red,,0.851435244,red
-Kentucky,US,mixed_61,0.809572826,red,red,0.761451364,orange
-Arkansas,US,mixed_62,0.986377925,red,red,0.739892665,orange
-Tennessee,US,mixed_63,0.619669876,orange,red,0.607290234,orange
-West Virginia,US,mixed_64,0.794486216,orange,,0.468671679,orange
-Indiana,US,mixed_65,0.743073231,orange,red,0.720456694,orange
+Kentucky,US,mixed_61,0.809572826,red,,0.761451364,orange
+Arkansas,US,mixed_62,0.986377925,red,,0.739892665,orange
+Tennessee,US,mixed_63,0.619669876,orange,,0.607290234,orange
+West Virginia,US,mixed_64,0.794486216,orange,green,0.468671679,orange
+Indiana,US,mixed_65,0.743073231,orange,,0.720456694,orange
 Montana,US,mixed_7,0.087719298,green,,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,red,0.444612286,orange
 ,Venezuela,213,1,red,,1,red
