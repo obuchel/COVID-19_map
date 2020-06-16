@@ -103,7 +103,7 @@ Faroe Islands,Denmark,den_44,0,green,yellow,0,green
 Greenland,Denmark,den_45,0,green,,0,green
 ,Denmark,den_46,0.198186315,yellow,,0.256059357,yellow
 ,Diamond Princess,cruise,0,green,,0,green
-,Djibouti,45,1,red,,0.351778656,yellow
+,Djibouti,45,1,red,yellow,0.351778656,yellow
 ,Dominica,46,0,green,,0,green
 ,Dominican Republic,47,0.875167386,red,,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,red,0.207269296,yellow
@@ -161,7 +161,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Kyrgyzstan,92,0.995176849,red,,0.807823129,red
 ,Laos,98,0,green,,0,green
 ,Latvia,100,0.271794872,yellow,green,0.305982906,yellow
-,Lebanon,99,0.749116608,orange,red,0.427561837,orange
+,Lebanon,99,0.749116608,orange,green,0.427561837,orange
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
 ,Libya,106,0.235294118,yellow,red,0.029411765,green
 ,Liechtenstein,105,0,green,,0,green
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,,0.024691358,green
 ,Pakistan,162,0.981030648,red,,0.924866285,red
 ,Panama,164,0.648118218,orange,,0.755945509,orange
 ,Papua New Guinea,166,0,green,,0,green
-,Paraguay,160,0.221850613,yellow,green,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,,0.95111974,red
 ,Philippines,172,0.761990624,orange,,0.760908763,orange
 ,Poland,163,0.940873016,red,,0.88247012,red
@@ -227,7 +227,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,,0.024691358,green
 ,Sudan,189,0.984379694,red,,0.907367668,red
 ,Suriname,157,0.142857143,yellow,green,0,green
 ,Sweden,190,0.834092544,red,,0.830975785,red
-,Switzerland,192,0.028483625,green,,0.038574443,green
+,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,,0,green
 ,Tanzania,204,0,green,black,0.054104478,green
