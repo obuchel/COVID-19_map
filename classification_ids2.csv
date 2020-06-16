@@ -281,11 +281,11 @@ North Carolina,US,mixed_33,1,red,,0.959843291,red
 Virginia,US,mixed_34,0.951216838,red,,0.924358693,red
 District of Columbia,US,mixed_35,0.688719899,orange,red,0.682636248,orange
 Maryland,US,mixed_36,0.927775197,red,,0.82438458,red
-Delaware,US,mixed_37,0.81006259,red,,0.792007703,red
+Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red
 New Jersey,US,mixed_38,0.314332834,yellow,,0.32120683,yellow
 Connecticut,US,mixed_39,0.500769116,orange,yellow,0.528109959,orange
 Washington,US,mixed_4,0.387110318,yellow,red,0.445785662,orange
-Rhode Island,US,mixed_40,0.516563945,orange,,0.518618387,orange
+Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange
 Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange
 Oregon,US,mixed_42,0.653872515,orange,,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,,0.039497307,green
