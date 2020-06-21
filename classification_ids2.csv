@@ -50,7 +50,7 @@ Northwest Territories,Canada,mixed_46,0,green,,0,green
 Prince Edward Island,Canada,mixed_48,0,green,,0,green
 British Columbia,Canada,mixed_5,0.205621302,yellow,,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,yellow,,0.238172589,yellow
-Saskatchewan,Canada,mixed_9,0.298850575,yellow,yellow,0.313218391,yellow
+Saskatchewan,Canada,mixed_9,0.298850575,yellow,green,0.313218391,yellow
 ,Cape Verde,41,0,green,,0,green
 ,Central African Republic,39,1,red,,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
@@ -103,7 +103,7 @@ Faroe Islands,Denmark,den_44,0,green,yellow,0,green
 Greenland,Denmark,den_45,0,green,,0,green
 ,Denmark,den_46,0.198186315,yellow,,0.256059357,yellow
 ,Diamond Princess,cruise,0,green,,0,green
-,Djibouti,45,1,red,yellow,0.351778656,yellow
+,Djibouti,45,1,red,green,0.351778656,yellow
 ,Dominica,46,0,green,,0,green
 ,Dominican Republic,47,0.875167386,red,,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,red,0.207269296,yellow
@@ -169,7 +169,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Luxembourg,135,0.050570459,green,,0.049337034,green
 ,Madagascar,107,1,red,,0.940677966,red
 ,Malawi,22,0.814814815,red,,1,red
-,Malaysia,120,0.221731449,yellow,,0.231448763,yellow
+,Malaysia,120,0.221731449,yellow,green,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,,0.791252485,red
 ,Mali,112,0.884086444,red,,0.78978389,orange
 ,Malta,116,0.510989011,orange,green,0.35989011,yellow
@@ -258,7 +258,7 @@ Georgia,US,67,0.727813041,orange,red,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,,0.738636364,orange
 Virgin Islands,US,216,0,green,,0.044444444,green
-North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
+North Dakota,US,mixed_10,0.971859986,red,,0.95256167,red
 Michigan,US,mixed_12,0.382199304,yellow,,0.339974551,yellow
 Maine,US,mixed_13,1,red,,0.869001297,red
 Ohio,US,mixed_16,0.677234165,orange,,0.682464757,orange
@@ -305,9 +305,9 @@ Illinois,US,mixed_60,0.840186825,red,,0.851435244,red
 Kentucky,US,mixed_61,0.809572826,red,,0.761451364,orange
 Arkansas,US,mixed_62,0.986377925,red,,0.739892665,orange
 Tennessee,US,mixed_63,0.619669876,orange,,0.607290234,orange
-West Virginia,US,mixed_64,0.794486216,orange,red,0.468671679,orange
+West Virginia,US,mixed_64,0.794486216,orange,green,0.468671679,orange
 Indiana,US,mixed_65,0.743073231,orange,,0.720456694,orange
-Montana,US,mixed_7,0.087719298,green,red,0.055137845,green
+Montana,US,mixed_7,0.087719298,green,,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,,0.444612286,orange
 ,Venezuela,213,1,red,,1,red
 ,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow
