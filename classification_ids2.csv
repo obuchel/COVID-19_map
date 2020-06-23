@@ -258,7 +258,7 @@ Georgia,US,67,0.727813041,orange,red,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,,0.738636364,orange
 Virgin Islands,US,216,0,green,,0.044444444,green
-North Dakota,US,mixed_10,0.971859986,red,,0.95256167,red
+North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
 Michigan,US,mixed_12,0.382199304,yellow,,0.339974551,yellow
 Maine,US,mixed_13,1,red,yellow,0.869001297,red
 Ohio,US,mixed_16,0.677234165,orange,,0.682464757,orange
@@ -279,7 +279,7 @@ Florida,US,mixed_30,0.650033445,orange,red,0.586354515,orange
 South Carolina,US,mixed_32,0.850589441,red,,0.80035879,red
 North Carolina,US,mixed_33,1,red,,0.959843291,red
 Virginia,US,mixed_34,0.951216838,red,,0.924358693,red
-District of Columbia,US,mixed_35,0.688719899,orange,red,0.682636248,orange
+District of Columbia,US,mixed_35,0.688719899,orange,yellow,0.682636248,orange
 Maryland,US,mixed_36,0.927775197,red,,0.82438458,red
 Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red
 New Jersey,US,mixed_38,0.314332834,yellow,,0.32120683,yellow
