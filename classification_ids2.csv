@@ -93,7 +93,7 @@ Shanghai,China,29,0.03373494,green,,0.043373494,green
 ,Congo (Kinshasa),27,0.978839178,red,,0.887290168,red
 ,Costa Rica,38,0.414285714,orange,,0.383673469,yellow
 ,Cote d'Ivoire,86,0.828493648,red,,0.951730419,red
-,Croatia,79,0.046975089,green,green,0.118149466,yellow
+,Croatia,79,0.046975089,green,red,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0,green,,0,green
 ,Cuba,40,0.206439394,yellow,green,0.259469697,yellow
 ,Cyprus,43,0.068965517,green,,0.077961019,green
@@ -153,7 +153,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
 ,Jamaica,89,0.162895928,yellow,green,0.140271493,yellow
 ,Japan,88,0.082915605,green,yellow,0.1247432,yellow
-,Jordan,90,0.397372742,yellow,green,0.367816092,yellow
+,Jordan,90,0.397372742,yellow,red,0.367816092,yellow
 ,Kazakhstan,97,1,red,,0.796377607,red
 ,Kenya,91,1,red,,0.959578207,red
 ,Kosovo,kos_1,0.1,green,green,0.1,green
@@ -161,7 +161,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Kyrgyzstan,92,0.995176849,red,,0.807823129,red
 ,Laos,98,0,green,,0,green
 ,Latvia,100,0.271794872,yellow,green,0.305982906,yellow
-,Lebanon,99,0.749116608,orange,green,0.427561837,orange
+,Lebanon,99,0.749116608,orange,red,0.427561837,orange
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
 ,Libya,106,0.235294118,yellow,red,0.029411765,green
 ,Liechtenstein,105,0,green,,0,green
@@ -171,7 +171,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Malawi,22,0.814814815,red,,1,red
 ,Malaysia,120,0.221731449,yellow,green,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,,0.791252485,red
-,Mali,112,0.884086444,red,yellow,0.78978389,orange
+,Mali,112,0.884086444,red,green,0.78978389,orange
 ,Malta,116,0.510989011,orange,green,0.35989011,yellow
 ,Mauritania,115,1,red,,1,red
 ,Mauritius,114,0,green,,0,green
@@ -179,7 +179,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Moldova,171,0.92122281,red,,0.956745623,red
 ,Monaco,137,0.025316456,green,,0.025316456,green
 ,Mongolia,109,1,red,green,1,red
-,Montenegro,139,0,green,,0,green
+,Montenegro,139,0,green,red,0,green
 ,Morocco,113,0.463264761,orange,,0.662837296,orange
 ,Mozambique,121,0.967741935,red,,1,red
 ,Namibia,217,0.285714286,yellow,green,0,green
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,,0.024691358,green
 ,Pakistan,162,0.981030648,red,,0.924866285,red
 ,Panama,164,0.648118218,orange,,0.755945509,orange
 ,Papua New Guinea,166,0,green,,0,green
-,Paraguay,160,0.221850613,yellow,green,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,red,0.609810479,orange
 ,Peru,161,0.942766316,red,,0.95111974,red
 ,Philippines,172,0.761990624,orange,,0.760908763,orange
 ,Poland,163,0.940873016,red,,0.88247012,red
@@ -217,7 +217,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,,0.024691358,green
 ,Serbia,237,0.21464108,yellow,red,0.203127221,yellow
 ,Seychelles,178,0,green,,0,green
 ,Sierra Leone,184,0.90858209,red,,1,red
-,Singapore,185,0.583467959,orange,,0.723209478,orange
+,Singapore,185,0.583467959,orange,yellow,0.723209478,orange
 ,Slovakia,104,0.066604995,green,,0.081406105,green
 ,Slovenia,183,0.01320132,green,,0.03630363,green
 ,Somalia,186,0.774224806,orange,yellow,0.96195122,red
