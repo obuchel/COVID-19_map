@@ -171,7 +171,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Malawi,22,0.814814815,red,,1,red
 ,Malaysia,120,0.221731449,yellow,green,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,,0.791252485,red
-,Mali,112,0.884086444,red,green,0.78978389,orange
+,Mali,112,0.884086444,red,red,0.78978389,orange
 ,Malta,116,0.510989011,orange,green,0.35989011,yellow
 ,Mauritania,115,1,red,,1,red
 ,Mauritius,114,0,green,,0,green
@@ -220,7 +220,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,,0.024691358,green
 ,Singapore,185,0.583467959,orange,yellow,0.723209478,orange
 ,Slovakia,104,0.066604995,green,,0.081406105,green
 ,Slovenia,183,0.01320132,green,,0.03630363,green
-,Somalia,186,0.774224806,orange,yellow,0.96195122,red
+,Somalia,186,0.774224806,orange,green,0.96195122,red
 ,South Africa,179,0.974855156,red,,1,red
 ,Spain,187,0.14844185,yellow,,0.246193429,yellow
 ,Sri Lanka,25,0.439735099,orange,green,0.401324503,orange
