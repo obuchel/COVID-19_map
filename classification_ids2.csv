@@ -37,7 +37,7 @@ Australian Capital Territory,Australia,mixed_77,0,green,,0,green
 ,Burma,17,0.205555556,yellow,,0.985,red
 ,Burundi,28,1,red,,0.210526316,yellow
 ,Cambodia,24,0.011235955,green,,0,green
-,Cameroon,34,1,red,,0.90545651,red
+,Cameroon,34,1,red,green,0.90545651,red
 Manitoba,Canada,mixed_11,0.012048193,green,,0.03313253,green
 Quebec,Canada,mixed_14,0.631404243,orange,,0.694953577,orange
 New Brunswick,Canada,mixed_15,0.013605442,green,,0,green
@@ -152,8 +152,8 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Israel,84,0.025300601,green,red,0.034819639,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
 ,Jamaica,89,0.162895928,yellow,green,0.140271493,yellow
-,Japan,88,0.082915605,green,yellow,0.1247432,yellow
-,Jordan,90,0.397372742,yellow,red,0.367816092,yellow
+,Japan,88,0.082915605,green,red,0.1247432,yellow
+,Jordan,90,0.397372742,yellow,green,0.367816092,yellow
 ,Kazakhstan,97,1,red,,0.796377607,red
 ,Kenya,91,1,red,,0.959578207,red
 ,Kosovo,kos_1,0.1,green,green,0.1,green
@@ -166,7 +166,7 @@ Martinique,France,fr_72,0.096256684,green,,0.080213904,green
 ,Libya,106,0.235294118,yellow,red,0.029411765,green
 ,Liechtenstein,105,0,green,,0,green
 ,Lithuania,102,0.210109019,yellow,green,0.211100099,yellow
-,Luxembourg,135,0.050570459,green,,0.049337034,green
+,Luxembourg,135,0.050570459,green,yellow,0.049337034,green
 ,Madagascar,107,1,red,,0.940677966,red
 ,Malawi,22,0.814814815,red,,1,red
 ,Malaysia,120,0.221731449,yellow,green,0.231448763,yellow
