@@ -592,8 +592,8 @@ var nn0=nn;
     
     var dd=[];
     d3.csv('classification_ids2.csv', function(dat,i){
-        
-
+        console.log(dat,i);
+dat.Change=dat.color;
         
        
             if (dat.Change!="") {
@@ -604,6 +604,7 @@ var nn0=nn;
      dd.push(dat);
   
     if (i==315) {    
+            console.log(dd);
 mapboxgl.accessToken = 'pk.eyJ1Ijoib2J1Y2hlbCIsImEiOiJjanlrY3diNzIwZDdxM25uN2owN2c5ZHpiIn0.XzMbcbHF6H42u0Uxo1L8lg';
 map = new mapboxgl.Map({
 container: 'map',
@@ -652,6 +653,7 @@ for (var i = 0; i < rad.length; i++) {
    // document.getElementById('#map').style.display = 'block';
 fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces102
 .then(data => {  
+    console.log(data);
     
       data0=data;
    var all_isos=dd.map(function(d){return d.Iso});
