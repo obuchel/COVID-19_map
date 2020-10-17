@@ -95,7 +95,7 @@ Shanghai,China,29,0.03373494,green,green,0.043373494000000005,green
 ,Cote d'Ivoire,86,0.8284936479999999,red,yellow,0.9517304190000001,red
 ,Croatia,79,0.046975089000000005,green,red,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green
-,Cuba,40,0.206439394,yellow,yellow,0.259469697,yellow
+,Cuba,40,0.206439394,yellow,green,0.259469697,yellow
 ,Cyprus,43,0.068965517,green,red,0.077961019,green
 ,Czechia,57,0.205983681,yellow,red,0.152674524,yellow
 \u00c3\u0192\u00e2\u20ac\u00a6land Islands,Denmark,141,0.4,yellow,,0.4,yellow
@@ -156,7 +156,7 @@ Martinique,France,fr_72,0.09625668400000001,green,red,0.080213904,green
 ,Jordan,90,0.39737274200000006,yellow,red,0.36781609200000004,yellow
 ,Kazakhstan,97,1.0,red,yellow,0.796377607,red
 ,Kenya,91,1.0,red,red,0.9595782070000001,red
-,Kosovo,kos_1,0.1,green,yellow,0.1,green
+,Kosovo,kos_1,0.1,green,red,0.1,green
 ,Kuwait,96,0.9577109079999999,red,red,1.0,red
 ,Kyrgyzstan,92,0.995176849,red,yellow,0.8078231290000001,red
 ,Laos,98,0.0,green,green,0.0,green
@@ -166,8 +166,8 @@ Martinique,France,fr_72,0.09625668400000001,green,red,0.080213904,green
 ,Libya,106,0.235294118,yellow,red,0.029411765,green
 ,Liechtenstein,105,0.0,green,green,0.0,green
 ,Lithuania,102,0.21010901899999998,yellow,red,0.21110009899999999,yellow
-,Luxembourg,135,0.050570459000000005,green,yellow,0.049337034,green
-,Madagascar,107,1.0,red,yellow,0.940677966,red
+,Luxembourg,135,0.050570459000000005,green,red,0.049337034,green
+,Madagascar,107,1.0,red,green,0.940677966,red
 ,Malawi,22,0.814814815,red,green,1.0,red
 ,Malaysia,120,0.221731449,yellow,red,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,red,0.791252485,red
@@ -314,6 +314,6 @@ Montana,US,mixed_7,0.087719298,green,red,0.055137845,green
 ,West Bank and Gaza,,0.25130890100000003,yellow,red,0.031413613,green
 ,Western Sahara,236,0.0,green,green,0.0,green
 ,Yemen,221,0.9929824559999999,red,green,0.18028846199999998,yellow
-,Zambia,222,0.798157454,green,red,1.0,red
+,Zambia,222,0.798157454,green,yellow,1.0,red
 ,Zimbabwe,223,0.966666667,red,green,0.7142857140000001,orange
 ,Tajikistan,195,,,yellow,,
