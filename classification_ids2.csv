@@ -37,7 +37,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,green,0.0,green
 ,Burma,17,0.20555555600000003,yellow,red,0.985,red
 ,Burundi,28,1.0,red,green,0.21052631600000002,yellow
 ,Cambodia,24,0.011235955,green,green,0.0,green
-,Cameroon,34,1.0,red,yellow,0.90545651,red
+,Cameroon,34,1.0,red,green,0.90545651,red
 Manitoba,Canada,mixed_11,0.012048193,red,red,0.03313253,green
 Quebec,Canada,mixed_14,0.631404243,red,red,0.694953577,orange
 New Brunswick,Canada,mixed_15,0.013605441999999999,red,green,0.0,green
@@ -90,9 +90,9 @@ Chongqing,China,29,0.0,green,green,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494000000005,green
 ,Colombia,37,0.96199175,red,red,0.962225161,red
 ,Congo (Brazzaville),26,0.877419355,red,green,0.7870967740000001,orange
-,Congo (Kinshasa),27,0.978839178,red,yellow,0.8872901679999999,red
+,Congo (Kinshasa),27,0.978839178,red,green,0.8872901679999999,red
 ,Costa Rica,38,0.41428571399999997,orange,red,0.383673469,yellow
-,Cote d'Ivoire,86,0.8284936479999999,red,yellow,0.9517304190000001,red
+,Cote d'Ivoire,86,0.8284936479999999,red,green,0.9517304190000001,red
 ,Croatia,79,0.046975089000000005,green,red,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green
 ,Cuba,40,0.206439394,yellow,red,0.259469697,yellow
@@ -121,7 +121,7 @@ Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
 French Guiana,France,fr_64,1.0,red,green,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,red,0.0,green
 Guadeloupe,France,fr_66,0.013513513999999999,green,red,0.02027027,green
-Mayotte,France,fr_67,0.757775683,orange,green,0.9198868990000001,red
+Mayotte,France,fr_67,0.757775683,orange,yellow,0.9198868990000001,red
 New Caledonia,France,fr_68,0.0,green,green,0.0,green
 Reunion,France,fr_69,0.047413792999999996,green,red,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
@@ -182,7 +182,7 @@ Martinique,France,fr_72,0.09625668400000001,green,green,0.080213904,green
 ,Montenegro,139,0.0,green,red,0.0,green
 ,Morocco,113,0.463264761,orange,red,0.662837296,orange
 ,Mozambique,121,0.967741935,red,red,1.0,red
-,Namibia,217,0.28571428600000004,yellow,red,0.0,green
+,Namibia,217,0.28571428600000004,yellow,yellow,0.0,green
 ,Nepal,155,0.8828125,red,red,1.0,red
 Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green
 Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green
@@ -191,7 +191,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691357999999997,green,green,0.0246913579
 ,New Zealand,159,0.009327115,green,green,0.01065956,green
 ,Nicaragua,158,0.982591876,red,green,0.857142857,red
 ,Niger,125,0.188679245,yellow,green,0.273584906,yellow
-,Nigeria,152,0.957395498,red,red,0.900321543,red
+,Nigeria,152,0.957395498,red,yellow,0.900321543,red
 ,North Macedonia,111,0.43208751100000004,orange,red,0.388331814,yellow
 ,Norway,154,0.065496153,green,red,0.07772736200000001,green
 ,Oman,117,0.996252129,red,red,0.988056959,red
@@ -234,7 +234,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691357999999997,green,green,0.0246913579
 ,Thailand,194,0.016380016,green,green,0.026208026000000002,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
 ,Togo,198,0.832432432,red,green,0.958333333,red
-,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
+,Trinidad and Tobago,193,0.0,green,red,0.0,green
 ,Tunisia,200,0.042049934000000004,green,red,0.023653088,green
 ,Turkey,201,0.275705896,yellow,red,0.334086289,yellow
 ,Uganda,205,0.281786942,yellow,red,0.9960474309999999,red
