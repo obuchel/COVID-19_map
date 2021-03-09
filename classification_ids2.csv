@@ -88,7 +88,7 @@ Henan,China,29,0.0,green,green,0.0,green
 Sichuan,China,29,0.007827789,green,green,0.0,green
 Chongqing,China,29,0.0,green,green,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494,green
-,Colombia,37,0.96199175,red,red,0.962225161,red
+,Colombia,37,0.96199175,red,yellow,0.962225161,red
 ,Congo (Brazzaville),26,0.877419355,red,red,0.787096774,orange
 ,Congo (Kinshasa),27,0.978839178,red,red,0.887290168,red
 ,Costa Rica,38,0.414285714,orange,red,0.383673469,yellow
@@ -165,7 +165,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
 ,Libya,106,0.235294118,yellow,red,0.029411765,green
 ,Liechtenstein,105,0.0,green,green,0.0,green
-,Lithuania,102,0.210109019,yellow,red,0.211100099,yellow
+,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow
 ,Luxembourg,135,0.050570459,green,red,0.049337034,green
 ,Madagascar,107,1.0,red,yellow,0.940677966,red
 ,Malawi,22,0.814814815,red,yellow,1.0,red
@@ -184,7 +184,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Mozambique,121,0.967741935,red,red,1.0,red
 ,Namibia,217,0.285714286,yellow,red,0.0,green
 ,Nepal,155,0.8828125,red,yellow,1.0,red
-Aruba,Netherlands,dutch_153,0.0,green,yellow,0.0,green
+Aruba,Netherlands,dutch_153,0.0,green,red,0.0,green
 Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green
 Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Netherlands,dutch_156,0.163269959,yellow,red,0.18798158,yellow
@@ -284,8 +284,8 @@ Maryland,US,mixed_36,0.927775197,red,red,0.82438458,red
 Delaware,US,mixed_37,0.81006259,red,red,0.792007703,red
 New Jersey,US,mixed_38,0.314332834,yellow,red,0.32120683,yellow
 Connecticut,US,mixed_39,0.500769116,orange,red,0.528109959,orange
-Washington,US,mixed_4,0.387110318,yellow,red,0.445785662,orange
-Rhode Island,US,mixed_40,0.516563945,orange,red,0.518618387,orange
+Washington,US,mixed_4,0.387110318,yellow,yellow,0.445785662,orange
+Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange
 Massachusetts,US,mixed_41,0.464627434,orange,red,0.4861558,orange
 Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,red,0.039497307,green
@@ -302,8 +302,8 @@ Missouri,US,mixed_58,0.58954197,orange,yellow,0.570473757,orange
 Wisconsin,US,mixed_59,1.0,red,yellow,0.925854953,red
 Idaho,US,mixed_6,0.32386059,yellow,yellow,0.25844504,yellow
 Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red
-Kentucky,US,mixed_61,0.809572826,red,red,0.761451364,orange
-Arkansas,US,mixed_62,0.986377925,red,red,0.739892665,orange
+Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange
+Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange
 Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange
 West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange
 Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange
@@ -313,7 +313,7 @@ Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow
 ,West Bank and Gaza,,0.251308901,yellow,red,0.031413613,green
 ,Western Sahara,236,0.0,green,,0.0,green
-,Yemen,221,0.992982456,red,yellow,0.180288462,yellow
+,Yemen,221,0.992982456,red,red,0.180288462,yellow
 ,Zambia,222,0.798157454,green,red,1.0,red
 ,Zimbabwe,223,0.966666667,red,yellow,0.714285714,orange
 ,Tajikistan,195,,,green,,

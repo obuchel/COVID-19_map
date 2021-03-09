@@ -658,9 +658,12 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
     
       data0=data;
    var all_isos=dd.map(function(d){return d.Iso});
-  
+    let now = new Date();
+  var m=now.getMonth()+1;
+  var d=now.getDate()+1;
+var dd=m+"/"+d+"/2021";  
     
-    d3.selectAll(".time").html("03/07/21");//data0["features"][0]["properties"]["date"]
+    d3.selectAll(".time").html(dd);//data0["features"][0]["properties"]["date"]
     //console.log(data);
     var country_isos=dd.map(function(d){return d.Iso});
    // console.log(country_isos);
