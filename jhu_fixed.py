@@ -63,7 +63,7 @@ focus
 
 # convert "pivoted" data to "long form"
 data = pd.melt(focus, id_vars=['country_province'], var_name='date', value_name='cases')
-
+#print(data)
 # convert date column
 data['date'] = pd.to_datetime(data['date'], format= '%m/%d/%y')
 
@@ -266,7 +266,8 @@ us_states
 
 # pivot data with "country_province" as columns and "positive" (total cases) as values
 us_state_cases = pd.pivot_table(us_states, index = "date", columns = "country_province", values= "positive")
-
+print(us_state_cases["USKansas"])
+print(us_state_cases["USConnecticut"])
 
 # In[30]:
 
