@@ -221,10 +221,10 @@ pivot_cases
 
 ## Adding US states
 
-us_states = pd.read_csv('https://api.covidtracking.com/v1/states/daily.csv')
-
-us_states['date'] = pd.to_datetime(us_states['date'], format= '%Y%m%d')
-
+us_states = pd.read_csv('https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv')
+#date,state,fips,cases,deaths
+us_states['date'] = pd.to_datetime(us_states['date'], format= '%Y-%m-%d')
+us_states['state']="US"+us_states['state']
 
 # In[24]:
 
@@ -252,20 +252,20 @@ state_list
 
 
 # merging full state names onto COVID Tracking Project data
-us_states = us_states.merge(state_list, on='state', how='left')
+#us_states = us_states.merge(state_list, on='state', how='left')
 
 
 # In[28]:
 
 
-us_states
+print(us_states)
 
 
 # In[29]:
 
 
 # pivot data with "country_province" as columns and "positive" (total cases) as values
-us_state_cases = pd.pivot_table(us_states, index = "date", columns = "country_province", values= "positive")
+us_state_cases = pd.pivot_table(us_states, index = "date", columns = "state", values= "cases")
 print(us_state_cases["USKansas"])
 print(us_state_cases["USConnecticut"])
 
