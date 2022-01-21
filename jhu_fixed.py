@@ -98,12 +98,13 @@ pivot_cases
 ## Kosovo correction using European CDC data
 
 # read in data
+'''
 eurocdc = pd.read_csv("https://opendata.ecdc.europa.eu/covid19/casedistribution/csv").dropna()
 print(eurocdc)
 # add date column from year, month & day columns
 eurocdc['date'] = pd.to_datetime(eurocdc["dateRep"])
 print(eurocdc['date'])
-
+'''
 # In[11]:
 
 
@@ -574,7 +575,7 @@ country_total_color = country_total_color.rename(columns = {'cases':'total_cases
 # In[68]:
 
 
-country_total_color
+print(country_total_color)
 
 
 # # Merge latest JHU country/province colors with ECV world map id
