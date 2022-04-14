@@ -584,7 +584,7 @@ print(country_total_color)
 
 
 # read in csv of countries & provinces with id for ECV world map
-worldmap = pd.read_csv('../classification_ids2_jhu.csv')
+worldmap = pd.read_csv('classification_ids2_jhu.csv')
 
 # fill NaN with blank string to create new column combining country & province
 worldmap = worldmap.fillna('')
