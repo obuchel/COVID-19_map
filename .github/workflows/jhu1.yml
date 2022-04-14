@@ -4,8 +4,8 @@
 name: Update jhu fixed1
 
 on:
-  push:
-    branches: [ master ]
+  #push:
+    #branches: [ master ]
   schedule:
     - cron: '05 12 * * *'
 
