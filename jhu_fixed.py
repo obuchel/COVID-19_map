@@ -237,7 +237,7 @@ us_states
 
 
 # read in list of 2-letter state codes with state names
-state_list = pd.read_csv('../us_state_list.csv')
+state_list = pd.read_csv('us_state_list.csv')
 
 # add 'county_province' column for purpose of merging with map IDs later
 state_list['country_province'] = "US" + state_list['state_name']
