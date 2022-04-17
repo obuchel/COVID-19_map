@@ -50,7 +50,7 @@
 48,Prince Edward Island,Canada,mixed_48,0.0,red,red,0.0,green,Cases increasing
 49,British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow,Cases almost under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
-51,Saskatchewan,Canada,mixed_9,0.298850575,red,red,0.313218391,yellow,Cases increasing
+51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
 52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
@@ -108,7 +108,7 @@
 106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
 107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
 108,,Egypt,49,1.0,red,yellow,0.954887218,red,Cases almost under control
-109,,El Salvador,54,1.0,red,yellow,0.971764706,red,Cases almost under control
+109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
 110,,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange,Cases under control
 111,,Eritrea,53,0.0,green,green,0.0,green,Cases under control
 112,,Estonia,52,0.095354523,green,yellow,0.08394458,green,Cases almost under control
@@ -154,7 +154,7 @@
 152,,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow,Cases almost under control
 153,,Japan,88,0.082915605,green,red,0.1247432,yellow,Cases increasing
 154,,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow,Cases almost under control
-155,,Kazakhstan,97,1.0,red,yellow,0.796377607,red,Cases almost under control
+155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
 156,,Kenya,91,1.0,red,green,0.959578207,red,Cases under control
 157,,Kosovo,kos_1,0.1,green,green,0.1,green,Cases under control
 158,,Kuwait,96,0.957710908,red,yellow,1.0,red,Cases almost under control
@@ -164,7 +164,7 @@
 162,,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange,Cases almost under control
 163,,Liberia,103,0.587301587,orange,green,0.507936508,orange,Cases under control
 164,,Libya,106,0.235294118,yellow,green,0.029411765,green,Cases under control
-165,,Liechtenstein,105,0.0,green,yellow,0.0,green,Cases almost under control
+165,,Liechtenstein,105,0.0,green,red,0.0,green,Cases increasing
 166,,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow,Cases almost under control
 167,,Luxembourg,135,0.050570459,green,red,0.049337034,green,Cases increasing
 168,,Madagascar,107,1.0,red,green,0.940677966,red,Cases under control
