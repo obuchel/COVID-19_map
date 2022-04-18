@@ -96,7 +96,7 @@ Shanghai,China,29,0.03373494,green,red,0.043373494,green
 ,Croatia,79,0.046975089,green,yellow,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green
 ,Cuba,40,0.206439394,yellow,yellow,0.259469697,yellow
-,Cyprus,43,0.068965517,green,red,0.077961019,green
+,Cyprus,43,0.068965517,green,yellow,0.077961019,green
 ,Czechia,57,0.205983681,yellow,yellow,0.152674524,yellow
 \u00c3\u0192\u00e2\u20ac\u00a6land Islands,Denmark,141,0.4,yellow,,0.4,yellow
 Faroe Islands,Denmark,den_44,0.0,green,green,0.0,green
@@ -154,7 +154,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow
 ,Japan,88,0.082915605,green,red,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow
-,Kazakhstan,97,1.0,red,green,0.796377607,red
+,Kazakhstan,97,1.0,red,yellow,0.796377607,red
 ,Kenya,91,1.0,red,green,0.959578207,red
 ,Kosovo,kos_1,0.1,green,green,0.1,green
 ,Kuwait,96,0.957710908,red,yellow,1.0,red
@@ -164,7 +164,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
 ,Libya,106,0.235294118,yellow,green,0.029411765,green
-,Liechtenstein,105,0.0,green,red,0.0,green
+,Liechtenstein,105,0.0,green,yellow,0.0,green
 ,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow
 ,Luxembourg,135,0.050570459,green,red,0.049337034,green
 ,Madagascar,107,1.0,red,green,0.940677966,red
@@ -255,7 +255,7 @@ Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
 ,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
-Guam,US,72,0.192592593,yellow,green,0.059259259,green
+Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,yellow,0.738636364,orange
 Virgin Islands,US,216,0.0,green,green,0.044444444,green
 North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
