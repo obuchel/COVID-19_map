@@ -6,7 +6,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Andorra,132,0.010291595,green,yellow,0.030874786,green
 ,Angola,5,0.882352941,red,green,0.5,orange
 ,Antigua and Barbuda,0,0.0,green,green,0.0,green
-,Argentina,7,1.0,red,yellow,0.973554968,red
+,Argentina,7,1.0,red,green,0.973554968,red
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,red,0.0,green
@@ -169,7 +169,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Luxembourg,135,0.050570459,green,red,0.049337034,green
 ,Madagascar,107,1.0,red,green,0.940677966,red
 ,Malawi,22,0.814814815,red,green,1.0,red
-,Malaysia,120,0.221731449,yellow,red,0.231448763,yellow
+,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,yellow,0.791252485,red
 ,Mali,112,0.884086444,red,green,0.78978389,orange
 ,Malta,116,0.510989011,orange,red,0.35989011,yellow
@@ -253,7 +253,7 @@ Isle of Man,United Kingdom,uk_211,0.030100334,green,red,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,red,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
-,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
+,Uruguay,210,0.155902004,yellow,green,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,red,0.738636364,orange
