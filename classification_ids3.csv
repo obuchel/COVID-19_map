@@ -90,7 +90,7 @@
 88,Shanghai,China,29,0.03373494,green,yellow,0.043373494,green,Cases almost under control
 89,,Colombia,37,0.96199175,red,yellow,0.962225161,red,Cases almost under control
 90,,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange,Cases under control
-91,,Congo (Kinshasa),27,0.978839178,red,green,0.887290168,red,Cases under control
+91,,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red,Cases almost under control
 92,,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow,Cases almost under control
 93,,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red,Cases under control
 94,,Croatia,79,0.046975089,green,yellow,0.118149466,yellow,Cases almost under control
@@ -153,7 +153,7 @@
 151,,Italy,85,0.00782979,green,red,0.098445504,green,Cases increasing
 152,,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow,Cases almost under control
 153,,Japan,88,0.082915605,green,red,0.1247432,yellow,Cases increasing
-154,,Jordan,90,0.397372742,yellow,green,0.367816092,yellow,Cases under control
+154,,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow,Cases almost under control
 155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
 156,,Kenya,91,1.0,red,green,0.959578207,red,Cases under control
 157,,Kosovo,kos_1,0.1,green,green,0.1,green,Cases under control
@@ -197,8 +197,8 @@
 195,,Oman,117,0.996252129,red,green,0.988056959,red,Cases under control
 196,,Pakistan,162,0.981030648,red,yellow,0.924866285,red,Cases almost under control
 197,,Panama,164,0.648118218,orange,red,0.755945509,orange,Cases increasing
-198,,Papua New Guinea,166,0.0,green,green,0.0,green,Cases under control
-199,,Paraguay,160,0.221850613,yellow,green,0.609810479,orange,Cases under control
+198,,Papua New Guinea,166,0.0,green,yellow,0.0,green,Cases almost under control
+199,,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange,Cases almost under control
 200,,Peru,161,0.942766316,red,yellow,0.95111974,red,Cases almost under control
 201,,Philippines,172,0.761990624,orange,yellow,0.760908763,orange,Cases almost under control
 202,,Poland,163,0.940873016,red,yellow,0.88247012,red,Cases almost under control
@@ -250,7 +250,7 @@
 248,Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green,Cases under control
 249,Guernsey,United Kingdom,uk_210,,green,yellow,,green,Cases almost under control
 250,Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green,Cases almost under control
-251,Jersey,United Kingdom,uk_212,,green,green,,green,Cases under control
+251,Jersey,United Kingdom,uk_212,,green,yellow,,green,Cases almost under control
 252,Montserrat,United Kingdom,uk_213,0.0,green,red,0.0,green,Cases increasing
 253,,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange,Cases almost under control
 254,,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow,Cases almost under control
@@ -279,11 +279,11 @@
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
-280,District of Columbia,US,mixed_35,0.688719899,orange,yellow,0.682636248,orange,Cases almost under control
+280,District of Columbia,US,mixed_35,0.688719899,orange,red,0.682636248,orange,Cases increasing
 281,Maryland,US,mixed_36,0.927775197,red,yellow,0.82438458,red,Cases almost under control
 282,Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red,Cases almost under control
 283,New Jersey,US,mixed_38,0.314332834,yellow,yellow,0.32120683,yellow,Cases almost under control
-284,Connecticut,US,mixed_39,0.500769116,orange,yellow,0.528109959,orange,Cases almost under control
+284,Connecticut,US,mixed_39,0.500769116,orange,red,0.528109959,orange,Cases increasing
 285,Washington,US,mixed_4,0.387110318,yellow,yellow,0.445785662,orange,Cases almost under control
 286,Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange,Cases almost under control
 287,Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange,Cases almost under control
