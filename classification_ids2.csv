@@ -5,7 +5,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,yellow,0.030874786,green
 ,Angola,5,0.882352941,red,green,0.5,orange
-,Antigua and Barbuda,0,0.0,green,yellow,0.0,green
+,Antigua and Barbuda,0,0.0,green,red,0.0,green
 ,Argentina,7,1.0,red,yellow,0.973554968,red
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
@@ -217,7 +217,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow
 ,Seychelles,178,0.0,green,yellow,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
-,Singapore,185,0.583467959,orange,yellow,0.723209478,orange
+,Singapore,185,0.583467959,orange,green,0.723209478,orange
 ,Slovakia,104,0.066604995,green,yellow,0.081406105,green
 ,Slovenia,183,0.01320132,green,yellow,0.03630363,green
 ,Somalia,186,0.774224806,orange,green,0.96195122,red
@@ -251,7 +251,7 @@ Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green
 Guernsey,United Kingdom,uk_210,,green,yellow,,green
 Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,yellow,,green
-Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
+Montserrat,United Kingdom,uk_213,0.0,green,yellow,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
 ,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
