@@ -104,7 +104,7 @@
 102,,Denmark,den_46,0.198186315,yellow,yellow,0.256059357,yellow,Cases almost under control
 103,,Diamond Princess,cruise,0.0,green,green,0.0,green,Cases under control
 104,,Djibouti,45,1.0,red,green,0.351778656,yellow,Cases under control
-105,,Dominica,46,0.0,green,red,0.0,green,Cases increasing
+105,,Dominica,46,0.0,green,green,0.0,green,Cases under control
 106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
 107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
@@ -151,7 +151,7 @@
 149,,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow,Cases almost under control
 150,,Israel,84,0.025300601,green,yellow,0.034819639,green,Cases almost under control
 151,,Italy,85,0.00782979,green,yellow,0.098445504,green,Cases almost under control
-152,,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow,Cases almost under control
+152,,Jamaica,89,0.162895928,yellow,red,0.140271493,yellow,Cases increasing
 153,,Japan,88,0.082915605,green,red,0.1247432,yellow,Cases increasing
 154,,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow,Cases almost under control
 155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
@@ -182,7 +182,7 @@
 180,,Montenegro,139,0.0,green,yellow,0.0,green,Cases almost under control
 181,,Morocco,113,0.463264761,orange,yellow,0.662837296,orange,Cases almost under control
 182,,Mozambique,121,0.967741935,red,green,1.0,red,Cases under control
-183,,Namibia,217,0.285714286,yellow,yellow,0.0,green,Cases almost under control
+183,,Namibia,217,0.285714286,yellow,red,0.0,green,Cases increasing
 184,,Nepal,155,0.8828125,red,green,1.0,red,Cases under control
 185,Aruba,Netherlands,dutch_153,0.0,green,yellow,0.0,green,Cases almost under control
 186,Curacao,Netherlands,dutch_154,0.0,green,yellow,0.0,green,Cases almost under control
@@ -251,7 +251,7 @@
 249,Guernsey,United Kingdom,uk_210,,green,yellow,,green,Cases almost under control
 250,Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green,Cases almost under control
 251,Jersey,United Kingdom,uk_212,,green,yellow,,green,Cases almost under control
-252,Montserrat,United Kingdom,uk_213,0.0,green,yellow,0.0,green,Cases almost under control
+252,Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green,Cases under control
 253,,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange,Cases almost under control
 254,,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow,Cases almost under control
 255,Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange,Cases almost under control
