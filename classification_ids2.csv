@@ -12,7 +12,7 @@ Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
 South Australia,Australia,mixed_68,0.0,red,red,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,red,0.022988506,green
-New South Wales,Australia,mixed_70,0.015267176,red,red,0.01648855,green
+New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,red,0.139048991,yellow
 Tasmania,Australia,mixed_73,0.011494253,red,red,0.011494253,green
 Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
@@ -85,7 +85,7 @@ Tianjin,China,29,0.015503876,green,green,0.023255814,green
 Hainan,China,29,0.011235955,green,green,0.011235955,green
 Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,green,0.0,green
-Sichuan,China,29,0.007827789,green,red,0.0,green
+Sichuan,China,29,0.007827789,green,green,0.0,green
 Chongqing,China,29,0.0,green,green,0.0,green
 Shanghai,China,29,0.03373494,green,yellow,0.043373494,green
 ,Colombia,37,0.96199175,red,yellow,0.962225161,red
@@ -118,10 +118,10 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Finland,59,0.348885077,yellow,yellow,0.440137221,orange
 Svalbard,Finland,239,0.4,yellow,,0.4,yellow
 Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
-French Guiana,France,fr_64,1.0,red,green,0.974576271,red
+French Guiana,France,fr_64,1.0,red,yellow,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,green,0.0,green
-Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green
-Mayotte,France,fr_67,0.757775683,orange,yellow,0.919886899,red
+Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
+Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
 Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
@@ -141,7 +141,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Guyana,76,0.451612903,orange,yellow,0.758064516,orange
 ,Haiti,77,1.0,red,green,1.0,red
 ,Holy See,238,0.0,green,green,0.0,green
-,Honduras,78,1.0,red,yellow,0.735282339,orange
+,Honduras,78,1.0,red,green,0.735282339,orange
 ,Hungary,80,0.372413793,yellow,yellow,0.366047745,yellow
 ,Iceland,81,0.002073255,green,yellow,0.00138217,green
 ,India,82,0.992660269,red,yellow,0.978469769,red
@@ -151,7 +151,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow
 ,Israel,84,0.025300601,green,yellow,0.034819639,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
-,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow
+,Jamaica,89,0.162895928,yellow,red,0.140271493,yellow
 ,Japan,88,0.082915605,green,red,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow
 ,Kazakhstan,97,1.0,red,green,0.796377607,red
@@ -237,7 +237,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Trinidad and Tobago,193,0.0,green,red,0.0,green
 ,Tunisia,200,0.042049934,green,yellow,0.023653088,green
 ,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow
-,Uganda,205,0.281786942,yellow,green,0.996047431,red
+,Uganda,205,0.281786942,yellow,yellow,0.996047431,red
 ,Ukraine,207,0.811582213,red,green,0.899276112,red
 ,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red
 Falkland Islands (Malvinas),United Kingdom,61,0.0,green,red,1.0,red
@@ -255,7 +255,7 @@ Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
 ,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
-Guam,US,72,0.192592593,yellow,green,0.059259259,green
+Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,red,0.738636364,orange
 Virgin Islands,US,216,0.0,green,red,0.044444444,green
 North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
@@ -311,7 +311,7 @@ Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,green,0.444612286,orange
 ,Venezuela,213,1.0,red,yellow,1.0,red
 ,Vietnam,215,0.313043478,yellow,yellow,0.27826087,yellow
-,West Bank and Gaza,,0.251308901,yellow,yellow,0.031413613,green
+,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green
 ,Western Sahara,236,0.0,green,,0.0,green
 ,Yemen,221,0.992982456,red,green,0.180288462,yellow
 ,Zambia,222,0.798157454,green,yellow,1.0,red
