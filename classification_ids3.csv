@@ -28,7 +28,7 @@
 26,,Benin,18,-0.790123457,green,green,0.609053498,orange,Cases under control
 27,,Bhutan,31,0.571428571,orange,green,1.0,red,Cases under control
 28,,Bolivia,16,1.0,red,yellow,0.970103876,red,Cases almost under control
-29,,Bosnia and Herzegovina,15,0.410334347,orange,green,0.489361702,orange,Cases under control
+29,,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange,Cases almost under control
 30,,Botswana,181,0.631578947,orange,yellow,0.0,green,Cases almost under control
 31,,Brazil,20,0.779605351,orange,yellow,0.940086802,red,Cases almost under control
 32,,Brunei,22,0.0,green,yellow,0.0,green,Cases almost under control
@@ -108,7 +108,7 @@
 106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
 107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
-109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
+109,,El Salvador,54,1.0,red,yellow,0.971764706,red,Cases almost under control
 110,,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange,Cases under control
 111,,Eritrea,53,0.0,green,green,0.0,green,Cases under control
 112,,Estonia,52,0.095354523,green,yellow,0.08394458,green,Cases almost under control
@@ -240,18 +240,18 @@
 238,,Uganda,205,0.281786942,yellow,yellow,0.996047431,red,Cases almost under control
 239,,Ukraine,207,0.811582213,red,green,0.899276112,red,Cases under control
 240,,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red,Cases almost under control
-241,Falkland Islands (Malvinas),United Kingdom,61,0.0,green,red,1.0,red,Cases increasing
+241,Falkland Islands (Malvinas),United Kingdom,61,0.0,green,yellow,1.0,red,Cases almost under control
 242,Anguilla,United Kingdom,127,0.0,green,green,0.083333333,green,Cases under control
 243,British Virgin Islands,United Kingdom,214,0.333333333,yellow,green,0.0,green,Cases under control
 244,Turks and Caicos Islands,United Kingdom,235,0.0,green,green,0.333333333,yellow,Cases under control
 245,Bermuda,United Kingdom,uk_206,0.159090909,yellow,yellow,0.113636364,yellow,Cases almost under control
-246,Cayman Islands,United Kingdom,uk_207,1.0,red,red,0.364864865,yellow,Cases increasing
+246,Cayman Islands,United Kingdom,uk_207,1.0,red,green,0.364864865,yellow,Cases under control
 247,Channel Islands,United Kingdom,uk_208,0.042682927,green,green,0.036585366,green,Cases under control
 248,Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green,Cases under control
 249,Guernsey,United Kingdom,uk_210,,green,yellow,,green,Cases almost under control
 250,Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green,Cases almost under control
 251,Jersey,United Kingdom,uk_212,,green,yellow,,green,Cases almost under control
-252,Montserrat,United Kingdom,uk_213,0.0,green,yellow,0.0,green,Cases almost under control
+252,Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green,Cases under control
 253,,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange,Cases almost under control
 254,,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow,Cases almost under control
 255,Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange,Cases almost under control
@@ -264,7 +264,7 @@
 262,Ohio,US,mixed_16,0.677234165,orange,yellow,0.682464757,orange,Cases almost under control
 263,New Hampshire,US,mixed_17,0.788359788,orange,yellow,0.741798942,orange,Cases almost under control
 264,New York,US,mixed_18,0.191947522,yellow,yellow,0.218826993,yellow,Cases almost under control
-265,Vermont,US,mixed_19,0.061617458,green,green,0.057766367,green,Cases under control
+265,Vermont,US,mixed_19,0.061617458,green,yellow,0.057766367,green,Cases almost under control
 266,Minnesota,US,mixed_2,0.975758984,red,yellow,0.929884968,red,Cases almost under control
 267,Pennsylvania,US,mixed_20,0.541889653,orange,yellow,0.575719929,orange,Cases almost under control
 268,Arizona,US,mixed_21,0.916698078,red,yellow,0.93215228,red,Cases almost under control
