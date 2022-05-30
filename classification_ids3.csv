@@ -54,7 +54,7 @@
 52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
-55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
+55,,Chile,32,0.767441321,orange,red,0.984805748,red,Cases increasing
 56,Tibet,China,29,0.0,green,green,0.0,green,Cases under control
 57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
 58,Inner Mongolia,China,29,0.108108108,yellow,green,0.162162162,yellow,Cases under control
@@ -71,7 +71,7 @@
 69,Macau,China,29,0.0,green,green,0.0,green,Cases under control
 70,Yunnan,China,29,0.0,green,green,0.0,green,Cases under control
 71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
-72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
+72,Beijing,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 73,Fujian,China,29,0.0,green,green,0.0,green,Cases under control
 74,Jiangsu,China,29,0.0,green,green,0.0,green,Cases under control
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
@@ -92,7 +92,7 @@
 90,,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange,Cases under control
 91,,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red,Cases almost under control
 92,,Costa Rica,38,0.414285714,orange,red,0.383673469,yellow,Cases increasing
-93,,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red,Cases under control
+93,,Cote d'Ivoire,86,0.828493648,red,yellow,0.951730419,red,Cases almost under control
 94,,Croatia,79,0.046975089,green,yellow,0.118149466,yellow,Cases almost under control
 95,Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green,
 96,,Cuba,40,0.206439394,yellow,yellow,0.259469697,yellow,Cases almost under control
@@ -157,7 +157,7 @@
 155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
 156,,Kenya,91,1.0,red,yellow,0.959578207,red,Cases almost under control
 157,,Kosovo,kos_1,0.1,green,green,0.1,green,Cases under control
-158,,Kuwait,96,0.957710908,red,yellow,1.0,red,Cases almost under control
+158,,Kuwait,96,0.957710908,red,green,1.0,red,Cases under control
 159,,Kyrgyzstan,92,0.995176849,red,green,0.807823129,red,Cases under control
 160,,Laos,98,0.0,green,yellow,0.0,green,Cases almost under control
 161,,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow,Cases almost under control
@@ -182,7 +182,7 @@
 180,,Montenegro,139,0.0,green,yellow,0.0,green,Cases almost under control
 181,,Morocco,113,0.463264761,orange,yellow,0.662837296,orange,Cases almost under control
 182,,Mozambique,121,0.967741935,red,green,1.0,red,Cases under control
-183,,Namibia,217,0.285714286,yellow,red,0.0,green,Cases increasing
+183,,Namibia,217,0.285714286,yellow,yellow,0.0,green,Cases almost under control
 184,,Nepal,155,0.8828125,red,green,1.0,red,Cases under control
 185,Aruba,Netherlands,dutch_153,0.0,green,yellow,0.0,green,Cases almost under control
 186,Curacao,Netherlands,dutch_154,0.0,green,yellow,0.0,green,Cases almost under control
