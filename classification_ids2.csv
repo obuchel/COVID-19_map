@@ -5,7 +5,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,yellow,0.030874786,green
 ,Angola,5,0.882352941,red,yellow,0.5,orange
-,Antigua and Barbuda,0,0.0,green,yellow,0.0,green
+,Antigua and Barbuda,0,0.0,green,red,0.0,green
 ,Argentina,7,1.0,red,yellow,0.973554968,red
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
@@ -185,7 +185,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Namibia,217,0.285714286,yellow,yellow,0.0,green
 ,Nepal,155,0.8828125,red,green,1.0,red
 Aruba,Netherlands,dutch_153,0.0,green,yellow,0.0,green
-Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green
+Curacao,Netherlands,dutch_154,0.0,green,yellow,0.0,green
 Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Netherlands,dutch_156,0.163269959,yellow,yellow,0.18798158,yellow
 ,New Zealand,159,0.009327115,green,red,0.01065956,green
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,red,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,yellow,0.0,green
-,Paraguay,160,0.221850613,yellow,green,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,yellow,0.95111974,red
 ,Philippines,172,0.761990624,orange,yellow,0.760908763,orange
 ,Poland,163,0.940873016,red,yellow,0.88247012,red
@@ -208,7 +208,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
 ,Rwanda,175,0.333333333,yellow,green,0.193236715,yellow
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
-,Saint Lucia,188,0.0,green,yellow,0.0,green
+,Saint Lucia,188,0.0,green,red,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
