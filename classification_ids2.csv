@@ -108,7 +108,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
-,El Salvador,54,1.0,red,green,0.971764706,red
+,El Salvador,54,1.0,red,yellow,0.971764706,red
 ,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange
 ,Eritrea,53,0.0,green,green,0.0,green
 ,Estonia,52,0.095354523,green,yellow,0.08394458,green
@@ -132,7 +132,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Gambia,65,0.25,yellow,green,0.4,orange
 ,Georgia,geo_67,0.444759207,orange,green,0.430594901,orange
 ,Germany,71,0.007927007,green,yellow,0.069932103,green
-,Ghana,68,0.393254801,yellow,green,0.704695821,orange
+,Ghana,68,0.393254801,yellow,yellow,0.704695821,orange
 ,Greece,73,0.141695703,yellow,yellow,0.173635308,yellow
 ,Grenada,69,0.090909091,green,yellow,0.090909091,green
 ,Guatemala,74,1.0,red,yellow,0.946202532,red
@@ -151,8 +151,8 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow
 ,Israel,84,0.025300601,green,yellow,0.034819639,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
-,Jamaica,89,0.162895928,yellow,red,0.140271493,yellow
-,Japan,88,0.082915605,green,red,0.1247432,yellow
+,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow
+,Japan,88,0.082915605,green,yellow,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow
 ,Kazakhstan,97,1.0,red,green,0.796377607,red
 ,Kenya,91,1.0,red,yellow,0.959578207,red
@@ -206,9 +206,9 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Qatar,168,0.964229249,red,yellow,0.977652167,red
 ,Romania,170,0.498699877,orange,yellow,0.606541672,orange
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
-,Rwanda,175,0.333333333,yellow,green,0.193236715,yellow
+,Rwanda,175,0.333333333,yellow,yellow,0.193236715,yellow
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
-,Saint Lucia,188,0.0,green,red,0.0,green
+,Saint Lucia,188,0.0,green,yellow,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
@@ -257,7 +257,7 @@ Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,red,0.738636364,orange
-Virgin Islands,US,216,0.0,green,yellow,0.044444444,green
+Virgin Islands,US,216,0.0,green,red,0.044444444,green
 North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
 Michigan,US,mixed_12,0.382199304,yellow,yellow,0.339974551,yellow
 Maine,US,mixed_13,1.0,red,yellow,0.869001297,red
