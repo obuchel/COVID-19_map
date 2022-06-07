@@ -4,8 +4,8 @@ province,country,id,value,color,Change,value_old,color_old
 ,Albania,3,0.483568075,orange,yellow,0.469483568,orange
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,yellow,0.030874786,green
-,Angola,5,0.882352941,red,yellow,0.5,orange
-,Antigua and Barbuda,0,0.0,green,red,0.0,green
+,Angola,5,0.882352941,red,green,0.5,orange
+,Antigua and Barbuda,0,0.0,green,yellow,0.0,green
 ,Argentina,7,1.0,red,yellow,0.973554968,red
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
@@ -13,7 +13,7 @@ Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
 South Australia,Australia,mixed_68,0.0,red,red,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
-Victoria,Australia,mixed_72,0.108789625,red,red,0.139048991,yellow
+Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
 Tasmania,Australia,mixed_73,0.011494253,red,red,0.011494253,green
 Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
 ,Austria,56,0.062619896,green,yellow,0.06563442,green
@@ -35,7 +35,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
 ,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange
 ,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow
 ,Burma,17,0.205555556,yellow,green,0.985,red
-,Burundi,28,1.0,red,green,0.210526316,yellow
+,Burundi,28,1.0,red,yellow,0.210526316,yellow
 ,Cambodia,24,0.011235955,green,green,0.0,green
 ,Cameroon,34,1.0,red,green,0.90545651,red
 Manitoba,Canada,mixed_11,0.012048193,red,yellow,0.03313253,green
@@ -206,9 +206,9 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Qatar,168,0.964229249,red,yellow,0.977652167,red
 ,Romania,170,0.498699877,orange,yellow,0.606541672,orange
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
-,Rwanda,175,0.333333333,yellow,yellow,0.193236715,yellow
+,Rwanda,175,0.333333333,yellow,green,0.193236715,yellow
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
-,Saint Lucia,188,0.0,green,yellow,0.0,green
+,Saint Lucia,188,0.0,green,red,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
@@ -237,7 +237,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Trinidad and Tobago,193,0.0,green,red,0.0,green
 ,Tunisia,200,0.042049934,green,yellow,0.023653088,green
 ,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow
-,Uganda,205,0.281786942,yellow,green,0.996047431,red
+,Uganda,205,0.281786942,yellow,yellow,0.996047431,red
 ,Ukraine,207,0.811582213,red,green,0.899276112,red
 ,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red
 Falkland Islands (Malvinas),United Kingdom,61,0.0,green,green,1.0,red
