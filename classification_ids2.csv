@@ -6,7 +6,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Andorra,132,0.010291595,green,yellow,0.030874786,green
 ,Angola,5,0.882352941,red,green,0.5,orange
 ,Antigua and Barbuda,0,0.0,green,green,0.0,green
-,Argentina,7,1.0,red,yellow,0.973554968,red
+,Argentina,7,1.0,red,green,0.973554968,red
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,red,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
@@ -132,7 +132,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Gambia,65,0.25,yellow,green,0.4,orange
 ,Georgia,geo_67,0.444759207,orange,green,0.430594901,orange
 ,Germany,71,0.007927007,green,yellow,0.069932103,green
-,Ghana,68,0.393254801,yellow,yellow,0.704695821,orange
+,Ghana,68,0.393254801,yellow,green,0.704695821,orange
 ,Greece,73,0.141695703,yellow,yellow,0.173635308,yellow
 ,Grenada,69,0.090909091,green,yellow,0.090909091,green
 ,Guatemala,74,1.0,red,red,0.946202532,red
@@ -167,7 +167,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Liechtenstein,105,0.0,green,green,0.0,green
 ,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow
 ,Luxembourg,135,0.050570459,green,yellow,0.049337034,green
-,Madagascar,107,1.0,red,green,0.940677966,red
+,Madagascar,107,1.0,red,yellow,0.940677966,red
 ,Malawi,22,0.814814815,red,green,1.0,red
 ,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,green,0.791252485,red
