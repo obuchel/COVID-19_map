@@ -172,7 +172,7 @@
 170,,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow,Cases almost under control
 171,,Maldives,118,0.684890656,orange,green,0.791252485,red,Cases under control
 172,,Mali,112,0.884086444,red,green,0.78978389,orange,Cases under control
-173,,Malta,116,0.510989011,orange,yellow,0.35989011,yellow,Cases almost under control
+173,,Malta,116,0.510989011,orange,red,0.35989011,yellow,Cases increasing
 174,,Mauritania,115,1.0,red,green,1.0,red,Cases under control
 175,,Mauritius,114,0.0,green,yellow,0.0,green,Cases almost under control
 176,,Mexico,119,0.73620021,orange,yellow,0.953647125,red,Cases almost under control
@@ -204,7 +204,7 @@
 202,,Poland,163,0.940873016,red,yellow,0.88247012,red,Cases almost under control
 203,,Portugal,165,0.276244846,yellow,red,0.259372027,yellow,Cases increasing
 204,,Qatar,168,0.964229249,red,yellow,0.977652167,red,Cases almost under control
-205,,Romania,170,0.498699877,orange,yellow,0.606541672,orange,Cases almost under control
+205,,Romania,170,0.498699877,orange,green,0.606541672,orange,Cases under control
 206,,Russia,174,0.826711405,red,yellow,0.919878761,red,Cases almost under control
 207,,Rwanda,175,0.333333333,yellow,yellow,0.193236715,yellow,Cases almost under control
 208,,Saint Kitts and Nevis,177,0.0,green,green,0.0,green,Cases under control
@@ -234,7 +234,7 @@
 232,,Thailand,194,0.016380016,green,yellow,0.026208026,green,Cases almost under control
 233,,Timor-Leste,228,0.0,green,green,0.0,green,Cases under control
 234,,Togo,198,0.832432432,red,green,0.958333333,red,Cases under control
-235,,Trinidad and Tobago,193,0.0,green,red,0.0,green,Cases increasing
+235,,Trinidad and Tobago,193,0.0,green,yellow,0.0,green,Cases almost under control
 236,,Tunisia,200,0.042049934,green,yellow,0.023653088,green,Cases almost under control
 237,,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow,Cases almost under control
 238,,Uganda,205,0.281786942,yellow,yellow,0.996047431,red,Cases almost under control
