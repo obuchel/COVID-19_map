@@ -19,23 +19,23 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
 ,Austria,56,0.062619896,green,yellow,0.06563442,green
 ,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red
 ,Bahamas,12,0.125,yellow,yellow,0.142857143,yellow
-,Bahrain,9,0.931350892,red,yellow,0.928294574,red
+,Bahrain,9,0.931350892,red,red,0.928294574,red
 ,Bangladesh,13,0.983424995,red,yellow,0.992572833,red
 ,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
 ,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
-,Belize,14,0.0,green,yellow,0.0,green
+,Belize,14,0.0,green,red,0.0,green
 ,Benin,18,-0.790123457,green,yellow,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
 ,Bolivia,16,1.0,red,yellow,0.970103876,red
 ,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange
 ,Botswana,181,0.631578947,orange,yellow,0.0,green
-,Brazil,20,0.779605351,orange,yellow,0.940086802,red
+,Brazil,20,0.779605351,orange,red,0.940086802,red
 ,Brunei,22,0.0,green,yellow,0.0,green
 ,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange
 ,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow
 ,Burma,17,0.205555556,yellow,green,0.985,red
-,Burundi,28,1.0,red,yellow,0.210526316,yellow
+,Burundi,28,1.0,red,green,0.210526316,yellow
 ,Cambodia,24,0.011235955,green,green,0.0,green
 ,Cameroon,34,1.0,red,green,0.90545651,red
 Manitoba,Canada,mixed_11,0.012048193,red,yellow,0.03313253,green
@@ -108,7 +108,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
-,El Salvador,54,1.0,red,green,0.971764706,red
+,El Salvador,54,1.0,red,red,0.971764706,red
 ,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange
 ,Eritrea,53,0.0,green,green,0.0,green
 ,Estonia,52,0.095354523,green,yellow,0.08394458,green
@@ -123,7 +123,7 @@ French Polynesia,France,fr_65,0.0,green,green,0.0,green
 Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
 Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
-Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
+Reunion,France,fr_69,0.047413793,green,green,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
 St Martin,France,fr_71,0.047619048,green,green,0.047619048,green
 Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
@@ -132,8 +132,8 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Gambia,65,0.25,yellow,green,0.4,orange
 ,Georgia,geo_67,0.444759207,orange,yellow,0.430594901,orange
 ,Germany,71,0.007927007,green,red,0.069932103,green
-,Ghana,68,0.393254801,yellow,red,0.704695821,orange
-,Greece,73,0.141695703,yellow,yellow,0.173635308,yellow
+,Ghana,68,0.393254801,yellow,yellow,0.704695821,orange
+,Greece,73,0.141695703,yellow,red,0.173635308,yellow
 ,Grenada,69,0.090909091,green,green,0.090909091,green
 ,Guatemala,74,1.0,red,red,0.946202532,red
 ,Guinea,75,0.849012776,red,green,0.801393728,red
@@ -150,7 +150,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Iraq,87,0.939810427,red,yellow,1.0,red
 ,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow
 ,Israel,84,0.025300601,green,yellow,0.034819639,green
-,Italy,85,0.00782979,green,yellow,0.098445504,green
+,Italy,85,0.00782979,green,red,0.098445504,green
 ,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow
 ,Japan,88,0.082915605,green,yellow,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,yellow,0.367816092,yellow
@@ -177,7 +177,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Mauritius,114,0.0,green,green,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
 ,Moldova,171,0.92122281,red,yellow,0.956745623,red
-,Monaco,137,0.025316456,green,green,0.025316456,green
+,Monaco,137,0.025316456,green,yellow,0.025316456,green
 ,Mongolia,109,1.0,red,green,1.0,red
 ,Montenegro,139,0.0,green,yellow,0.0,green
 ,Morocco,113,0.463264761,orange,yellow,0.662837296,orange
@@ -215,7 +215,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red
 ,Senegal,182,0.864185111,red,green,0.966229839,red
 ,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow
-,Seychelles,178,0.0,green,yellow,0.0,green
+,Seychelles,178,0.0,green,green,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
 ,Singapore,185,0.583467959,orange,red,0.723209478,orange
 ,Slovakia,104,0.066604995,green,yellow,0.081406105,green
@@ -236,7 +236,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Togo,198,0.832432432,red,green,0.958333333,red
 ,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
 ,Tunisia,200,0.042049934,green,yellow,0.023653088,green
-,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow
+,Turkey,201,0.275705896,yellow,green,0.334086289,yellow
 ,Uganda,205,0.281786942,yellow,yellow,0.996047431,red
 ,Ukraine,207,0.811582213,red,green,0.899276112,red
 ,United Arab Emirates,227,0.968371177,red,red,0.976868709,red
@@ -257,7 +257,7 @@ Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,red,0.738636364,orange
-Virgin Islands,US,216,0.0,green,green,0.044444444,green
+Virgin Islands,US,216,0.0,green,yellow,0.044444444,green
 North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red
 Michigan,US,mixed_12,0.382199304,yellow,yellow,0.339974551,yellow
 Maine,US,mixed_13,1.0,red,yellow,0.869001297,red
@@ -290,7 +290,7 @@ Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange
 Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,red,0.039497307,green
 Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red
-Wyoming,US,mixed_50,0.512658228,orange,red,0.483122363,orange
+Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange
 Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange
 Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange
 South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red
