@@ -128,7 +128,7 @@ Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
 St Martin,France,fr_71,0.047619048,green,green,0.047619048,green
 Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,France,fr_73,0.04406919,green,red,0.048789176,green
-,Gabon,66,0.909559244,red,green,0.871765382,red
+,Gabon,66,0.909559244,red,yellow,0.871765382,red
 ,Gambia,65,0.25,yellow,green,0.4,orange
 ,Georgia,geo_67,0.444759207,orange,yellow,0.430594901,orange
 ,Germany,71,0.007927007,green,red,0.069932103,green
@@ -168,7 +168,7 @@ Martinique,France,fr_72,0.096256684,green,red,0.080213904,green
 ,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow
 ,Luxembourg,135,0.050570459,green,red,0.049337034,green
 ,Madagascar,107,1.0,red,yellow,0.940677966,red
-,Malawi,22,0.814814815,red,yellow,1.0,red
+,Malawi,22,0.814814815,red,green,1.0,red
 ,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow
 ,Maldives,118,0.684890656,orange,yellow,0.791252485,red
 ,Mali,112,0.884086444,red,green,0.78978389,orange
@@ -207,10 +207,10 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Romania,170,0.498699877,orange,yellow,0.606541672,orange
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
 ,Rwanda,175,0.333333333,yellow,yellow,0.193236715,yellow
-,Saint Kitts and Nevis,177,0.0,green,yellow,0.0,green
+,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
 ,Saint Lucia,188,0.0,green,yellow,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
-,San Marino,234,0.123493976,yellow,yellow,0.189759036,yellow
+,San Marino,234,0.123493976,yellow,red,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
 ,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red
 ,Senegal,182,0.864185111,red,green,0.966229839,red
