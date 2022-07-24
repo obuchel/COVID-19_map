@@ -51,7 +51,7 @@ Prince Edward Island,Canada,mixed_48,0.0,red,red,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
 Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
-,Cape Verde,41,0.0,green,yellow,0.0,green
+,Cape Verde,41,0.0,green,green,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
 ,Chile,32,0.767441321,orange,yellow,0.984805748,red
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
-,Paraguay,160,0.221850613,yellow,green,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,red,0.609810479,orange
 ,Peru,161,0.942766316,red,red,0.95111974,red
 ,Philippines,172,0.761990624,orange,yellow,0.760908763,orange
 ,Poland,163,0.940873016,red,yellow,0.88247012,red
@@ -315,5 +315,5 @@ Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Western Sahara,236,0.0,green,,0.0,green
 ,Yemen,221,0.992982456,red,green,0.180288462,yellow
 ,Zambia,222,0.798157454,green,yellow,1.0,red
-,Zimbabwe,223,0.966666667,red,green,0.714285714,orange
+,Zimbabwe,223,0.966666667,red,yellow,0.714285714,orange
 ,Tajikistan,195,,,green,,
