@@ -18,7 +18,7 @@
 16,Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green,Cases increasing
 17,,Austria,56,0.062619896,green,red,0.06563442,green,Cases increasing
 18,,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red,Cases almost under control
-19,,Bahamas,12,0.125,yellow,yellow,0.142857143,yellow,Cases almost under control
+19,,Bahamas,12,0.125,yellow,green,0.142857143,yellow,Cases under control
 20,,Bahrain,9,0.931350892,red,yellow,0.928294574,red,Cases almost under control
 21,,Bangladesh,13,0.983424995,red,yellow,0.992572833,red,Cases almost under control
 22,,Barbados,10,0.135135135,yellow,red,0.148648649,yellow,Cases increasing
@@ -51,7 +51,7 @@
 49,British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow,Cases almost under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
 51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
-52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
+52,,Cape Verde,41,0.0,green,yellow,0.0,green,Cases almost under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
 55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
@@ -167,7 +167,7 @@
 165,,Liechtenstein,105,0.0,green,green,0.0,green,Cases under control
 166,,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow,Cases almost under control
 167,,Luxembourg,135,0.050570459,green,red,0.049337034,green,Cases increasing
-168,,Madagascar,107,1.0,red,yellow,0.940677966,red,Cases almost under control
+168,,Madagascar,107,1.0,red,green,0.940677966,red,Cases under control
 169,,Malawi,22,0.814814815,red,yellow,1.0,red,Cases almost under control
 170,,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow,Cases almost under control
 171,,Maldives,118,0.684890656,orange,yellow,0.791252485,red,Cases almost under control
@@ -204,7 +204,7 @@
 202,,Poland,163,0.940873016,red,yellow,0.88247012,red,Cases almost under control
 203,,Portugal,165,0.276244846,yellow,yellow,0.259372027,yellow,Cases almost under control
 204,,Qatar,168,0.964229249,red,red,0.977652167,red,Cases increasing
-205,,Romania,170,0.498699877,orange,yellow,0.606541672,orange,Cases almost under control
+205,,Romania,170,0.498699877,orange,red,0.606541672,orange,Cases increasing
 206,,Russia,174,0.826711405,red,yellow,0.919878761,red,Cases almost under control
 207,,Rwanda,175,0.333333333,yellow,yellow,0.193236715,yellow,Cases almost under control
 208,,Saint Kitts and Nevis,177,0.0,green,green,0.0,green,Cases under control
@@ -214,7 +214,7 @@
 212,,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green,Cases under control
 213,,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red,Cases almost under control
 214,,Senegal,182,0.864185111,red,yellow,0.966229839,red,Cases almost under control
-215,,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow,Cases almost under control
+215,,Serbia,237,0.21464108,yellow,red,0.203127221,yellow,Cases increasing
 216,,Seychelles,178,0.0,green,green,0.0,green,Cases under control
 217,,Sierra Leone,184,0.90858209,red,green,1.0,red,Cases under control
 218,,Singapore,185,0.583467959,orange,red,0.723209478,orange,Cases increasing
