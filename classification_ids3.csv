@@ -1,5 +1,5 @@
 ,province,country,id,value,color,Change,value_old,color_old,Change1
-0,"""Korea","South""",95,0.033081783,green,yellow,0.041067041,green,Cases almost under control
+0,"""Korea","South""",95,0.033081783,green,red,0.041067041,green,Cases increasing
 1,,Afghanistan,30,1.0,red,yellow,0.979708722,red,Cases almost under control
 2,,Albania,3,0.483568075,orange,red,0.469483568,orange,Cases increasing
 3,,Algeria,1,0.953362256,red,yellow,0.952472002,red,Cases almost under control
@@ -18,7 +18,7 @@
 16,Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green,Cases increasing
 17,,Austria,56,0.062619896,green,red,0.06563442,green,Cases increasing
 18,,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red,Cases almost under control
-19,,Bahamas,12,0.125,yellow,green,0.142857143,yellow,Cases under control
+19,,Bahamas,12,0.125,yellow,yellow,0.142857143,yellow,Cases almost under control
 20,,Bahrain,9,0.931350892,red,yellow,0.928294574,red,Cases almost under control
 21,,Bangladesh,13,0.983424995,red,yellow,0.992572833,red,Cases almost under control
 22,,Barbados,10,0.135135135,yellow,red,0.148648649,yellow,Cases increasing
@@ -76,7 +76,7 @@
 74,Jiangsu,China,29,0.0,green,green,0.0,green,Cases under control
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
-77,Guangxi,China,29,0.0,green,red,0.0,green,Cases increasing
+77,Guangxi,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
 79,Guangdong,China,29,0.002430134,green,green,0.001215067,green,Cases under control
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
@@ -85,7 +85,7 @@
 83,Hainan,China,29,0.011235955,green,green,0.011235955,green,Cases under control
 84,Hunan,China,29,0.0,green,green,0.0,green,Cases under control
 85,Henan,China,29,0.0,green,green,0.0,green,Cases under control
-86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
+86,Sichuan,China,29,0.007827789,green,green,0.0,green,Cases under control
 87,Chongqing,China,29,0.0,green,green,0.0,green,Cases under control
 88,Shanghai,China,29,0.03373494,green,green,0.043373494,green,Cases under control
 89,,Colombia,37,0.96199175,red,yellow,0.962225161,red,Cases almost under control
@@ -199,7 +199,7 @@
 197,,Panama,164,0.648118218,orange,yellow,0.755945509,orange,Cases almost under control
 198,,Papua New Guinea,166,0.0,green,green,0.0,green,Cases under control
 199,,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange,Cases almost under control
-200,,Peru,161,0.942766316,red,yellow,0.95111974,red,Cases almost under control
+200,,Peru,161,0.942766316,red,red,0.95111974,red,Cases increasing
 201,,Philippines,172,0.761990624,orange,yellow,0.760908763,orange,Cases almost under control
 202,,Poland,163,0.940873016,red,yellow,0.88247012,red,Cases almost under control
 203,,Portugal,165,0.276244846,yellow,yellow,0.259372027,yellow,Cases almost under control
@@ -309,7 +309,7 @@
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
 309,,Uzbekistan,211,0.465760322,orange,yellow,0.444612286,orange,Cases almost under control
-310,,Venezuela,213,1.0,red,red,1.0,red,Cases increasing
+310,,Venezuela,213,1.0,red,yellow,1.0,red,Cases almost under control
 311,,Vietnam,215,0.313043478,yellow,yellow,0.27826087,yellow,Cases almost under control
 312,,West Bank and Gaza,,0.251308901,yellow,yellow,0.031413613,green,Cases almost under control
 313,,Western Sahara,236,0.0,green,,0.0,green,
