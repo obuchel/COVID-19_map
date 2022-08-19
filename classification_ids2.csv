@@ -10,12 +10,12 @@ province,country,id,value,color,Change,value_old,color_old
 ,Armenia,4,0.99913119,red,yellow,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
-South Australia,Australia,mixed_68,0.0,red,red,0.0,green
+South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
 Tasmania,Australia,mixed_73,0.011494253,red,red,0.011494253,green
-Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
+Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Austria,56,0.062619896,green,yellow,0.06563442,green
 ,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
@@ -78,7 +78,7 @@ Anhui,China,29,0.0,green,green,0.0,green
 Liaoning,China,29,0.01459854,green,green,0.04379562,green
 Guangxi,China,29,0.0,green,green,0.0,green
 Shandong,China,29,0.0,green,green,0.0,green
-Guangdong,China,29,0.002430134,green,yellow,0.001215067,green
+Guangdong,China,29,0.002430134,green,green,0.001215067,green
 Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
@@ -115,13 +115,13 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Eswatini,220,0.448863636,orange,green,0.534090909,orange
 ,Ethiopia,55,1.0,red,yellow,0.870629371,red
 ,Fiji,60,0.0,green,green,0.0,green
-,Finland,59,0.348885077,yellow,red,0.440137221,orange
+,Finland,59,0.348885077,yellow,yellow,0.440137221,orange
 Svalbard,Finland,239,0.4,yellow,,0.4,yellow
 Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
 French Guiana,France,fr_64,1.0,red,yellow,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,yellow,0.0,green
 Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
-Mayotte,France,fr_67,0.757775683,orange,yellow,0.919886899,red
+Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
 Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
@@ -181,7 +181,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Mongolia,109,1.0,red,yellow,1.0,red
 ,Montenegro,139,0.0,green,red,0.0,green
 ,Morocco,113,0.463264761,orange,yellow,0.662837296,orange
-,Mozambique,121,0.967741935,red,yellow,1.0,red
+,Mozambique,121,0.967741935,red,green,1.0,red
 ,Namibia,217,0.285714286,yellow,green,0.0,green
 ,Nepal,155,0.8828125,red,yellow,1.0,red
 Aruba,Netherlands,dutch_153,0.0,green,yellow,0.0,green
@@ -208,7 +208,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
 ,Rwanda,175,0.333333333,yellow,green,0.193236715,yellow
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
-,Saint Lucia,188,0.0,green,green,0.0,green
+,Saint Lucia,188,0.0,green,yellow,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
