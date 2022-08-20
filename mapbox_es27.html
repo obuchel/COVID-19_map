@@ -660,7 +660,7 @@ fetch('update38.json').then(res => res.json()) //ne_10m_admin_1_states_provinces
    var all_isos=dd.map(function(d){return d.Iso});
     let now = new Date();
   var m=now.getMonth()+1;
-  var d0=now.getDate()+1;
+  var d0=now.getDate();
   var y0=now.getYear()+1900; 
   
 var dd1=m+"/"+d0+"/"+y0;  
