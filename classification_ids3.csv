@@ -31,7 +31,7 @@
 29,,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange,Cases almost under control
 30,,Botswana,181,0.631578947,orange,green,0.0,green,Cases under control
 31,,Brazil,20,0.779605351,orange,yellow,0.940086802,red,Cases almost under control
-32,,Brunei,22,0.0,green,green,0.0,green,Cases under control
+32,,Brunei,22,0.0,green,yellow,0.0,green,Cases almost under control
 33,,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange,Cases almost under control
 34,,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow,Cases under control
 35,,Burma,17,0.205555556,yellow,green,0.985,red,Cases under control
@@ -78,7 +78,7 @@
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
 77,Guangxi,China,29,0.0,green,green,0.0,green,Cases under control
 78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
-79,Guangdong,China,29,0.002430134,green,green,0.001215067,green,Cases under control
+79,Guangdong,China,29,0.002430134,green,yellow,0.001215067,green,Cases almost under control
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
@@ -119,7 +119,7 @@
 117,Svalbard,Finland,239,0.4,yellow,,0.4,yellow,
 118,Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green,Cases under control
 119,French Guiana,France,fr_64,1.0,red,green,0.974576271,red,Cases under control
-120,French Polynesia,France,fr_65,0.0,green,yellow,0.0,green,Cases almost under control
+120,French Polynesia,France,fr_65,0.0,green,green,0.0,green,Cases under control
 121,Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green,Cases under control
 122,Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red,Cases under control
 123,New Caledonia,France,fr_68,0.0,green,yellow,0.0,green,Cases almost under control
@@ -138,7 +138,7 @@
 136,,Guatemala,74,1.0,red,red,0.946202532,red,Cases increasing
 137,,Guinea,75,0.849012776,red,green,0.801393728,red,Cases under control
 138,,Guinea-Bissau,167,0.500875657,orange,green,0.719789842,orange,Cases under control
-139,,Guyana,76,0.451612903,orange,yellow,0.758064516,orange,Cases almost under control
+139,,Guyana,76,0.451612903,orange,green,0.758064516,orange,Cases under control
 140,,Haiti,77,1.0,red,red,1.0,red,Cases increasing
 141,,Holy See,238,0.0,green,green,0.0,green,Cases under control
 142,,Honduras,78,1.0,red,yellow,0.735282339,orange,Cases almost under control
@@ -176,7 +176,7 @@
 174,,Mauritania,115,1.0,red,green,1.0,red,Cases under control
 175,,Mauritius,114,0.0,green,yellow,0.0,green,Cases almost under control
 176,,Mexico,119,0.73620021,orange,yellow,0.953647125,red,Cases almost under control
-177,,Moldova,171,0.92122281,red,green,0.956745623,red,Cases under control
+177,,Moldova,171,0.92122281,red,red,0.956745623,red,Cases increasing
 178,,Monaco,137,0.025316456,green,green,0.025316456,green,Cases under control
 179,,Mongolia,109,1.0,red,yellow,1.0,red,Cases almost under control
 180,,Montenegro,139,0.0,green,yellow,0.0,green,Cases almost under control
@@ -192,7 +192,7 @@
 190,,Nicaragua,158,0.982591876,red,green,0.857142857,red,Cases under control
 191,,Niger,125,0.188679245,yellow,green,0.273584906,yellow,Cases under control
 192,,Nigeria,152,0.957395498,red,yellow,0.900321543,red,Cases almost under control
-193,,North Macedonia,111,0.432087511,orange,red,0.388331814,yellow,Cases increasing
+193,,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow,Cases almost under control
 194,,Norway,154,0.065496153,green,yellow,0.077727362,green,Cases almost under control
 195,,Oman,117,0.996252129,red,yellow,0.988056959,red,Cases almost under control
 196,,Pakistan,162,0.981030648,red,yellow,0.924866285,red,Cases almost under control
@@ -213,7 +213,7 @@
 211,,San Marino,234,0.123493976,yellow,green,0.189759036,yellow,Cases under control
 212,,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green,Cases under control
 213,,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red,Cases almost under control
-214,,Senegal,182,0.864185111,red,green,0.966229839,red,Cases under control
+214,,Senegal,182,0.864185111,red,yellow,0.966229839,red,Cases almost under control
 215,,Serbia,237,0.21464108,yellow,red,0.203127221,yellow,Cases increasing
 216,,Seychelles,178,0.0,green,green,0.0,green,Cases under control
 217,,Sierra Leone,184,0.90858209,red,green,1.0,red,Cases under control
@@ -248,8 +248,8 @@
 246,Cayman Islands,United Kingdom,uk_207,1.0,red,yellow,0.364864865,yellow,Cases almost under control
 247,Channel Islands,United Kingdom,uk_208,0.042682927,green,green,0.036585366,green,Cases under control
 248,Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green,Cases under control
-249,Guernsey,United Kingdom,uk_210,,green,yellow,,green,Cases almost under control
-250,Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green,Cases under control
+249,Guernsey,United Kingdom,uk_210,,green,green,,green,Cases under control
+250,Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green,Cases almost under control
 251,Jersey,United Kingdom,uk_212,,green,yellow,,green,Cases almost under control
 252,Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green,Cases under control
 253,,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange,Cases almost under control
@@ -274,7 +274,7 @@
 272,Alaska,US,mixed_25,0.152671756,yellow,yellow,0.095419847,green,Cases almost under control
 273,Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow,Cases almost under control
 274,Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red,Cases almost under control
-275,Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red,Cases almost under control
+275,Alabama,US,mixed_29,0.975671406,red,red,0.862616034,red,Cases increasing
 276,Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange,Cases almost under control
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
@@ -304,7 +304,7 @@
 302,Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red,Cases almost under control
 303,Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange,Cases almost under control
 304,Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange,Cases almost under control
-305,Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange,Cases almost under control
+305,Tennessee,US,mixed_63,0.619669876,orange,red,0.607290234,orange,Cases increasing
 306,West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange,Cases almost under control
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
