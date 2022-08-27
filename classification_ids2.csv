@@ -1,7 +1,7 @@
 province,country,id,value,color,Change,value_old,color_old
 """Korea","South""",95,0.033081783,green,red,0.041067041,green
 ,Afghanistan,30,1.0,red,yellow,0.979708722,red
-,Albania,3,0.483568075,orange,red,0.469483568,orange
+,Albania,3,0.483568075,orange,yellow,0.469483568,orange
 ,Algeria,1,0.953362256,red,yellow,0.952472002,red
 ,Andorra,132,0.010291595,green,green,0.030874786,green
 ,Angola,5,0.882352941,red,green,0.5,orange
@@ -36,8 +36,8 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow
 ,Burma,17,0.205555556,yellow,green,0.985,red
 ,Burundi,28,1.0,red,yellow,0.210526316,yellow
-,Cambodia,24,0.011235955,green,yellow,0.0,green
-,Cameroon,34,1.0,red,green,0.90545651,red
+,Cambodia,24,0.011235955,green,green,0.0,green
+,Cameroon,34,1.0,red,yellow,0.90545651,red
 Manitoba,Canada,mixed_11,0.012048193,red,yellow,0.03313253,green
 Quebec,Canada,mixed_14,0.631404243,red,yellow,0.694953577,orange
 New Brunswick,Canada,mixed_15,0.013605442,red,yellow,0.0,green
@@ -50,7 +50,7 @@ Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green
 Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
-Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
+Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
 ,Cape Verde,41,0.0,green,green,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
@@ -85,7 +85,7 @@ Tianjin,China,29,0.015503876,green,green,0.023255814,green
 Hainan,China,29,0.011235955,green,red,0.011235955,green
 Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,green,0.0,green
-Sichuan,China,29,0.007827789,green,green,0.0,green
+Sichuan,China,29,0.007827789,green,red,0.0,green
 Chongqing,China,29,0.0,green,green,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Colombia,37,0.96199175,red,yellow,0.962225161,red
@@ -118,8 +118,8 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Finland,59,0.348885077,yellow,yellow,0.440137221,orange
 Svalbard,Finland,239,0.4,yellow,,0.4,yellow
 Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
-French Guiana,France,fr_64,1.0,red,green,0.974576271,red
-French Polynesia,France,fr_65,0.0,green,yellow,0.0,green
+French Guiana,France,fr_64,1.0,red,yellow,0.974576271,red
+French Polynesia,France,fr_65,0.0,green,green,0.0,green
 Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green
 Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
@@ -174,7 +174,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Mali,112,0.884086444,red,green,0.78978389,orange
 ,Malta,116,0.510989011,orange,yellow,0.35989011,yellow
 ,Mauritania,115,1.0,red,green,1.0,red
-,Mauritius,114,0.0,green,yellow,0.0,green
+,Mauritius,114,0.0,green,green,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
 ,Moldova,171,0.92122281,red,red,0.956745623,red
 ,Monaco,137,0.025316456,green,green,0.025316456,green
@@ -205,7 +205,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Portugal,165,0.276244846,yellow,yellow,0.259372027,yellow
 ,Qatar,168,0.964229249,red,yellow,0.977652167,red
 ,Romania,170,0.498699877,orange,yellow,0.606541672,orange
-,Russia,174,0.826711405,red,yellow,0.919878761,red
+,Russia,174,0.826711405,red,red,0.919878761,red
 ,Rwanda,175,0.333333333,yellow,green,0.193236715,yellow
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
 ,Saint Lucia,188,0.0,green,yellow,0.0,green
@@ -213,7 +213,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
 ,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red
-,Senegal,182,0.864185111,red,yellow,0.966229839,red
+,Senegal,182,0.864185111,red,green,0.966229839,red
 ,Serbia,237,0.21464108,yellow,red,0.203127221,yellow
 ,Seychelles,178,0.0,green,green,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
