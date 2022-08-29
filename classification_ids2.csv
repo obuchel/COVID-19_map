@@ -34,7 +34,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Brunei,22,0.0,green,yellow,0.0,green
 ,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange
 ,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow
-,Burma,17,0.205555556,yellow,green,0.985,red
+,Burma,17,0.205555556,yellow,yellow,0.985,red
 ,Burundi,28,1.0,red,yellow,0.210526316,yellow
 ,Cambodia,24,0.011235955,green,green,0.0,green
 ,Cameroon,34,1.0,red,yellow,0.90545651,red
@@ -82,7 +82,7 @@ Guangdong,China,29,0.002430134,green,yellow,0.001215067,green
 Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
-Hainan,China,29,0.011235955,green,red,0.011235955,green
+Hainan,China,29,0.011235955,green,yellow,0.011235955,green
 Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,green,0.0,green
 Sichuan,China,29,0.007827789,green,red,0.0,green
@@ -157,7 +157,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Kazakhstan,97,1.0,red,yellow,0.796377607,red
 ,Kenya,91,1.0,red,green,0.959578207,red
 ,Kosovo,kos_1,0.1,green,yellow,0.1,green
-,Kuwait,96,0.957710908,red,yellow,1.0,red
+,Kuwait,96,0.957710908,red,green,1.0,red
 ,Kyrgyzstan,92,0.995176849,red,yellow,0.807823129,red
 ,Laos,98,0.0,green,yellow,0.0,green
 ,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow
