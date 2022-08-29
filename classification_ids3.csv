@@ -34,7 +34,7 @@
 32,,Brunei,22,0.0,green,yellow,0.0,green,Cases almost under control
 33,,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange,Cases almost under control
 34,,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow,Cases under control
-35,,Burma,17,0.205555556,yellow,green,0.985,red,Cases under control
+35,,Burma,17,0.205555556,yellow,yellow,0.985,red,Cases almost under control
 36,,Burundi,28,1.0,red,yellow,0.210526316,yellow,Cases almost under control
 37,,Cambodia,24,0.011235955,green,green,0.0,green,Cases under control
 38,,Cameroon,34,1.0,red,yellow,0.90545651,red,Cases almost under control
@@ -82,7 +82,7 @@
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
-83,Hainan,China,29,0.011235955,green,red,0.011235955,green,Cases increasing
+83,Hainan,China,29,0.011235955,green,yellow,0.011235955,green,Cases almost under control
 84,Hunan,China,29,0.0,green,green,0.0,green,Cases under control
 85,Henan,China,29,0.0,green,green,0.0,green,Cases under control
 86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
@@ -157,7 +157,7 @@
 155,,Kazakhstan,97,1.0,red,yellow,0.796377607,red,Cases almost under control
 156,,Kenya,91,1.0,red,green,0.959578207,red,Cases under control
 157,,Kosovo,kos_1,0.1,green,yellow,0.1,green,Cases almost under control
-158,,Kuwait,96,0.957710908,red,yellow,1.0,red,Cases almost under control
+158,,Kuwait,96,0.957710908,red,green,1.0,red,Cases under control
 159,,Kyrgyzstan,92,0.995176849,red,yellow,0.807823129,red,Cases almost under control
 160,,Laos,98,0.0,green,yellow,0.0,green,Cases almost under control
 161,,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow,Cases almost under control
