@@ -21,7 +21,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
 ,Bahrain,9,0.931350892,red,yellow,0.928294574,red
 ,Bangladesh,13,0.983424995,red,yellow,0.992572833,red
-,Barbados,10,0.135135135,yellow,red,0.148648649,yellow
+,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
 ,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
 ,Belize,14,0.0,green,yellow,0.0,green
@@ -31,7 +31,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange
 ,Botswana,181,0.631578947,orange,green,0.0,green
 ,Brazil,20,0.779605351,orange,yellow,0.940086802,red
-,Brunei,22,0.0,green,yellow,0.0,green
+,Brunei,22,0.0,green,green,0.0,green
 ,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange
 ,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow
 ,Burma,17,0.205555556,yellow,yellow,0.985,red
@@ -78,7 +78,7 @@ Anhui,China,29,0.0,green,green,0.0,green
 Liaoning,China,29,0.01459854,green,green,0.04379562,green
 Guangxi,China,29,0.0,green,green,0.0,green
 Shandong,China,29,0.0,green,green,0.0,green
-Guangdong,China,29,0.002430134,green,yellow,0.001215067,green
+Guangdong,China,29,0.002430134,green,red,0.001215067,green
 Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
@@ -113,7 +113,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Eritrea,53,0.0,green,green,0.0,green
 ,Estonia,52,0.095354523,green,yellow,0.08394458,green
 ,Eswatini,220,0.448863636,orange,green,0.534090909,orange
-,Ethiopia,55,1.0,red,yellow,0.870629371,red
+,Ethiopia,55,1.0,red,green,0.870629371,red
 ,Fiji,60,0.0,green,green,0.0,green
 ,Finland,59,0.348885077,yellow,yellow,0.440137221,orange
 Svalbard,Finland,239,0.4,yellow,,0.4,yellow
@@ -162,7 +162,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Laos,98,0.0,green,yellow,0.0,green
 ,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow
 ,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange
-,Liberia,103,0.587301587,orange,green,0.507936508,orange
+,Liberia,103,0.587301587,orange,yellow,0.507936508,orange
 ,Libya,106,0.235294118,yellow,green,0.029411765,green
 ,Liechtenstein,105,0.0,green,green,0.0,green
 ,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow
@@ -176,7 +176,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Mauritania,115,1.0,red,green,1.0,red
 ,Mauritius,114,0.0,green,yellow,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
-,Moldova,171,0.92122281,red,red,0.956745623,red
+,Moldova,171,0.92122281,red,yellow,0.956745623,red
 ,Monaco,137,0.025316456,green,green,0.025316456,green
 ,Mongolia,109,1.0,red,yellow,1.0,red
 ,Montenegro,139,0.0,green,yellow,0.0,green
@@ -190,7 +190,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Netherlands,dutch_156,0.163269959,yellow,yellow,0.18798158,yellow
 ,New Zealand,159,0.009327115,green,yellow,0.01065956,green
 ,Nicaragua,158,0.982591876,red,green,0.857142857,red
-,Niger,125,0.188679245,yellow,green,0.273584906,yellow
+,Niger,125,0.188679245,yellow,red,0.273584906,yellow
 ,Nigeria,152,0.957395498,red,yellow,0.900321543,red
 ,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
@@ -213,7 +213,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
 ,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red
-,Senegal,182,0.864185111,red,yellow,0.966229839,red
+,Senegal,182,0.864185111,red,green,0.966229839,red
 ,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow
 ,Seychelles,178,0.0,green,yellow,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
@@ -245,11 +245,11 @@ Anguilla,United Kingdom,127,0.0,green,green,0.083333333,green
 British Virgin Islands,United Kingdom,214,0.333333333,yellow,yellow,0.0,green
 Turks and Caicos Islands,United Kingdom,235,0.0,green,green,0.333333333,yellow
 Bermuda,United Kingdom,uk_206,0.159090909,yellow,green,0.113636364,yellow
-Cayman Islands,United Kingdom,uk_207,1.0,red,yellow,0.364864865,yellow
+Cayman Islands,United Kingdom,uk_207,1.0,red,green,0.364864865,yellow
 Channel Islands,United Kingdom,uk_208,0.042682927,green,green,0.036585366,green
 Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green
 Guernsey,United Kingdom,uk_210,,green,green,,green
-Isle of Man,United Kingdom,uk_211,0.030100334,green,yellow,0.040133779,green
+Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,yellow,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
@@ -304,7 +304,7 @@ Idaho,US,mixed_6,0.32386059,yellow,yellow,0.25844504,yellow
 Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red
 Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange
 Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange
-Tennessee,US,mixed_63,0.619669876,orange,red,0.607290234,orange
+Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange
 West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange
 Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange
 Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
