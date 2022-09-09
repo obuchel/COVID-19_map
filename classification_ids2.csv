@@ -82,7 +82,7 @@ Guangdong,China,29,0.002430134,green,red,0.001215067,green
 Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
-Hainan,China,29,0.011235955,green,yellow,0.011235955,green
+Hainan,China,29,0.011235955,green,green,0.011235955,green
 Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,green,0.0,green
 Sichuan,China,29,0.007827789,green,red,0.0,green
@@ -180,7 +180,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Monaco,137,0.025316456,green,green,0.025316456,green
 ,Mongolia,109,1.0,red,yellow,1.0,red
 ,Montenegro,139,0.0,green,yellow,0.0,green
-,Morocco,113,0.463264761,orange,yellow,0.662837296,orange
+,Morocco,113,0.463264761,orange,green,0.662837296,orange
 ,Mozambique,121,0.967741935,red,green,1.0,red
 ,Namibia,217,0.285714286,yellow,green,0.0,green
 ,Nepal,155,0.8828125,red,yellow,1.0,red
@@ -252,7 +252,7 @@ Guernsey,United Kingdom,uk_210,,green,green,,green
 Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,yellow,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
-,United Kingdom,uk_214,0.48142412,orange,green,0.638964176,orange
+,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
 ,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,yellow,0.059259259,green
