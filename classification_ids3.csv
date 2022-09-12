@@ -55,7 +55,7 @@
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
 55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
-56,Tibet,China,29,0.0,green,red,0.0,green,Cases increasing
+56,Tibet,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
 58,Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow,Cases increasing
 59,Jilin,China,29,0.315384615,yellow,green,0.507692308,orange,Cases under control
