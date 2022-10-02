@@ -78,7 +78,7 @@
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
 77,Guangxi,China,29,0.0,green,green,0.0,green,Cases under control
 78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
-79,Guangdong,China,29,0.002430134,green,yellow,0.001215067,green,Cases almost under control
+79,Guangdong,China,29,0.002430134,green,red,0.001215067,green,Cases increasing
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
@@ -105,7 +105,7 @@
 103,,Diamond Princess,cruise,0.0,green,green,0.0,green,Cases under control
 104,,Djibouti,45,1.0,red,green,0.351778656,yellow,Cases under control
 105,,Dominica,46,0.0,green,red,0.0,green,Cases increasing
-106,,Dominican Republic,47,0.875167386,red,green,0.916083916,red,Cases under control
+106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
 107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
 109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
@@ -233,10 +233,10 @@
 231,,Tanzania,204,0.0,green,green,0.054104478,green,Cases under control
 232,,Thailand,194,0.016380016,green,yellow,0.026208026,green,Cases almost under control
 233,,Timor-Leste,228,0.0,green,green,0.0,green,Cases under control
-234,,Togo,198,0.832432432,red,yellow,0.958333333,red,Cases almost under control
+234,,Togo,198,0.832432432,red,green,0.958333333,red,Cases under control
 235,,Trinidad and Tobago,193,0.0,green,yellow,0.0,green,Cases almost under control
 236,,Tunisia,200,0.042049934,green,yellow,0.023653088,green,Cases almost under control
-237,,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow,Cases almost under control
+237,,Turkey,201,0.275705896,yellow,green,0.334086289,yellow,Cases under control
 238,,Uganda,205,0.281786942,yellow,green,0.996047431,red,Cases under control
 239,,Ukraine,207,0.811582213,red,yellow,0.899276112,red,Cases almost under control
 240,,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red,Cases almost under control
