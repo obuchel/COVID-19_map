@@ -78,7 +78,7 @@ Anhui,China,29,0.0,green,green,0.0,green
 Liaoning,China,29,0.01459854,green,green,0.04379562,green
 Guangxi,China,29,0.0,green,green,0.0,green
 Shandong,China,29,0.0,green,green,0.0,green
-Guangdong,China,29,0.002430134,green,yellow,0.001215067,green
+Guangdong,China,29,0.002430134,green,red,0.001215067,green
 Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
@@ -105,7 +105,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Diamond Princess,cruise,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,red,0.0,green
-,Dominican Republic,47,0.875167386,red,green,0.916083916,red
+,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
@@ -233,10 +233,10 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
 ,Thailand,194,0.016380016,green,yellow,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
-,Togo,198,0.832432432,red,yellow,0.958333333,red
+,Togo,198,0.832432432,red,green,0.958333333,red
 ,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
 ,Tunisia,200,0.042049934,green,yellow,0.023653088,green
-,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow
+,Turkey,201,0.275705896,yellow,green,0.334086289,yellow
 ,Uganda,205,0.281786942,yellow,green,0.996047431,red
 ,Ukraine,207,0.811582213,red,yellow,0.899276112,red
 ,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red
