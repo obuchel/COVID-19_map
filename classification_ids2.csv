@@ -59,13 +59,13 @@ Tibet,China,29,0.0,green,green,0.0,green
 Qinghai,China,29,0.0,green,green,0.0,green
 Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
-Xinjiang,China,29,0.0,green,yellow,0.0,green
+Xinjiang,China,29,0.0,green,red,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
 Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green
 Heilongjiang,China,29,0.0,green,green,0.002967359,green
 Shaanxi,China,29,0.0,green,green,0.0,green
 Zhejiang,China,29,0.0,green,green,0.0,green
-Shanxi,China,29,0.0,green,green,0.0,green
+Shanxi,China,29,0.0,green,red,0.0,green
 Ningxia,China,29,0.0,green,green,0.0,green
 Hebei,China,29,0.0,green,green,0.0,green
 Macau,China,29,0.0,green,green,0.0,green
@@ -105,7 +105,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Diamond Princess,cruise,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
-,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
+,Dominican Republic,47,0.875167386,red,green,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
@@ -120,19 +120,19 @@ Svalbard,Finland,239,0.4,yellow,,0.4,yellow
 Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
 French Guiana,France,fr_64,1.0,red,green,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,green,0.0,green
-Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green
+Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
 Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,green,0.0,green
 Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
 St Martin,France,fr_71,0.047619048,green,green,0.047619048,green
-Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
+Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,France,fr_73,0.04406919,green,yellow,0.048789176,green
 ,Gabon,66,0.909559244,red,green,0.871765382,red
 ,Gambia,65,0.25,yellow,green,0.4,orange
 ,Georgia,geo_67,0.444759207,orange,green,0.430594901,orange
 ,Germany,71,0.007927007,green,red,0.069932103,green
-,Ghana,68,0.393254801,yellow,green,0.704695821,orange
+,Ghana,68,0.393254801,yellow,yellow,0.704695821,orange
 ,Greece,73,0.141695703,yellow,yellow,0.173635308,yellow
 ,Grenada,69,0.090909091,green,green,0.090909091,green
 ,Guatemala,74,1.0,red,yellow,0.946202532,red
@@ -143,7 +143,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Holy See,238,0.0,green,green,0.0,green
 ,Honduras,78,1.0,red,yellow,0.735282339,orange
 ,Hungary,80,0.372413793,yellow,yellow,0.366047745,yellow
-,Iceland,81,0.002073255,green,yellow,0.00138217,green
+,Iceland,81,0.002073255,green,green,0.00138217,green
 ,India,82,0.992660269,red,yellow,0.978469769,red
 ,Indonesia,224,0.954872739,red,yellow,0.980160858,red
 ,Iran,83,0.691829145,orange,yellow,0.565981997,orange
@@ -195,7 +195,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,green,0.988056959,red
-,Pakistan,162,0.981030648,red,yellow,0.924866285,red
+,Pakistan,162,0.981030648,red,green,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
 ,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
@@ -253,7 +253,7 @@ Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,red,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
-,Uruguay,210,0.155902004,yellow,green,0.200445434,yellow
+,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,yellow,0.738636364,orange
