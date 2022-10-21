@@ -106,7 +106,7 @@
 104,,Djibouti,45,1.0,red,green,0.351778656,yellow,Cases under control
 105,,Dominica,46,0.0,green,green,0.0,green,Cases under control
 106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
-107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
+107,,Ecuador,48,0.307443736,yellow,green,0.207269296,yellow,Cases under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
 109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
 110,,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange,Cases under control
@@ -227,7 +227,7 @@
 225,,Sudan,189,0.984379694,red,green,0.907367668,red,Cases under control
 226,,Suriname,157,0.142857143,yellow,green,0.0,green,Cases under control
 227,,Sweden,190,0.834092544,red,yellow,0.830975785,red,Cases almost under control
-228,,Switzerland,192,0.028483625,green,green,0.038574443,green,Cases under control
+228,,Switzerland,192,0.028483625,green,yellow,0.038574443,green,Cases almost under control
 229,,Syria,191,0.575,orange,green,0.6,orange,Cases under control
 230,,Taiwan*,245,0.005333333,green,red,0.0,green,Cases increasing
 231,,Tanzania,204,0.0,green,green,0.054104478,green,Cases under control
@@ -289,7 +289,7 @@
 287,Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange,Cases almost under control
 288,Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red,Cases almost under control
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
-290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
+290,Utah,US,mixed_49,0.961381476,red,green,0.889481947,red,Cases under control
 291,Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange,Cases almost under control
 292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
