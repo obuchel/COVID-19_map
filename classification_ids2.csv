@@ -106,7 +106,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
 ,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
-,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
+,Ecuador,48,0.307443736,yellow,green,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
 ,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange
@@ -227,7 +227,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Sudan,189,0.984379694,red,green,0.907367668,red
 ,Suriname,157,0.142857143,yellow,green,0.0,green
 ,Sweden,190,0.834092544,red,yellow,0.830975785,red
-,Switzerland,192,0.028483625,green,green,0.038574443,green
+,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
@@ -289,7 +289,7 @@ Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange
 Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange
 Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green
-Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red
+Utah,US,mixed_49,0.961381476,red,green,0.889481947,red
 Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange
 Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange
 Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange
