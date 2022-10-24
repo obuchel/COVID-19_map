@@ -21,7 +21,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
 ,Bahrain,9,0.931350892,red,yellow,0.928294574,red
 ,Bangladesh,13,0.983424995,red,yellow,0.992572833,red
-,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow
+,Barbados,10,0.135135135,yellow,green,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
 ,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
 ,Belize,14,0.0,green,green,0.0,green
@@ -92,7 +92,7 @@ Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange
 ,Congo (Kinshasa),27,0.978839178,red,green,0.887290168,red
 ,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow
-,Cote d'Ivoire,86,0.828493648,red,yellow,0.951730419,red
+,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red
 ,Croatia,79,0.046975089,green,yellow,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green
 ,Cuba,40,0.206439394,yellow,green,0.259469697,yellow
@@ -105,7 +105,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Diamond Princess,cruise,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
-,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
+,Dominican Republic,47,0.875167386,red,green,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
@@ -188,7 +188,7 @@ Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green
 Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green
 Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Netherlands,dutch_156,0.163269959,yellow,yellow,0.18798158,yellow
-,New Zealand,159,0.009327115,green,yellow,0.01065956,green
+,New Zealand,159,0.009327115,green,green,0.01065956,green
 ,Nicaragua,158,0.982591876,red,green,0.857142857,red
 ,Niger,125,0.188679245,yellow,green,0.273584906,yellow
 ,Nigeria,152,0.957395498,red,green,0.900321543,red
@@ -231,7 +231,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
-,Thailand,194,0.016380016,green,green,0.026208026,green
+,Thailand,194,0.016380016,green,yellow,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
 ,Togo,198,0.832432432,red,green,0.958333333,red
 ,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
