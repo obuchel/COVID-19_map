@@ -1,16 +1,16 @@
 province,country,id,value,color,Change,value_old,color_old
 """Korea","South""",95,0.033081783,green,yellow,0.041067041,green
 ,Afghanistan,30,1.0,red,yellow,0.979708722,red
-,Albania,3,0.483568075,orange,green,0.469483568,orange
+,Albania,3,0.483568075,orange,yellow,0.469483568,orange
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,green,0.030874786,green
 ,Angola,5,0.882352941,red,green,0.5,orange
 ,Antigua and Barbuda,0,0.0,green,green,0.0,green
 ,Argentina,7,1.0,red,yellow,0.973554968,red
 ,Armenia,4,0.99913119,red,yellow,0.981223697,red
-Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
-Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
-South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
+Western Australia,Australia,mixed_66,0.015929204,red,green,0.007079646,green
+Northern Territory,Australia,mixed_67,0.0,red,green,0.0,green
+South Australia,Australia,mixed_68,0.0,red,green,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
@@ -27,7 +27,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Belize,14,0.0,green,green,0.0,green
 ,Benin,18,-0.790123457,green,green,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
-,Bolivia,16,1.0,red,yellow,0.970103876,red
+,Bolivia,16,1.0,red,green,0.970103876,red
 ,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange
 ,Botswana,181,0.631578947,orange,green,0.0,green
 ,Brazil,20,0.779605351,orange,yellow,0.940086802,red
@@ -57,7 +57,7 @@ Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
 ,Chile,32,0.767441321,orange,yellow,0.984805748,red
 Tibet,China,29,0.0,green,green,0.0,green
 Qinghai,China,29,0.0,green,green,0.0,green
-Inner Mongolia,China,29,0.108108108,yellow,yellow,0.162162162,yellow
+Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
 Xinjiang,China,29,0.0,green,green,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
@@ -72,7 +72,7 @@ Macau,China,29,0.0,green,green,0.0,green
 Yunnan,China,29,0.0,green,green,0.0,green
 Guizhou,China,29,0.0,green,green,0.0,green
 Beijing,China,29,0.0,green,green,0.0,green
-Fujian,China,29,0.0,green,green,0.0,green
+Fujian,China,29,0.0,green,yellow,0.0,green
 Jiangsu,China,29,0.0,green,green,0.0,green
 Anhui,China,29,0.0,green,green,0.0,green
 Liaoning,China,29,0.01459854,green,green,0.04379562,green
@@ -195,7 +195,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,green,0.988056959,red
-,Pakistan,162,0.981030648,red,green,0.924866285,red
+,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
 ,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
@@ -210,7 +210,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Saint Kitts and Nevis,177,0.0,green,green,0.0,green
 ,Saint Lucia,188,0.0,green,green,0.0,green
 ,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green
-,San Marino,234,0.123493976,yellow,green,0.189759036,yellow
+,San Marino,234,0.123493976,yellow,yellow,0.189759036,yellow
 ,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green
 ,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red
 ,Senegal,182,0.864185111,red,green,0.966229839,red
@@ -227,7 +227,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Sudan,189,0.984379694,red,green,0.907367668,red
 ,Suriname,157,0.142857143,yellow,green,0.0,green
 ,Sweden,190,0.834092544,red,yellow,0.830975785,red
-,Switzerland,192,0.028483625,green,red,0.038574443,green
+,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
@@ -296,7 +296,7 @@ Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange
 South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red
 Nebraska,US,mixed_54,0.688282805,orange,green,0.608919583,orange
 Kansas,US,mixed_55,0.509575354,orange,yellow,0.484096586,orange
-Oklahoma,US,mixed_56,0.867132867,red,green,0.767585356,orange
+Oklahoma,US,mixed_56,0.867132867,red,yellow,0.767585356,orange
 Iowa,US,mixed_57,0.64544676,orange,yellow,0.64573223,orange
 Missouri,US,mixed_58,0.58954197,orange,yellow,0.570473757,orange
 Wisconsin,US,mixed_59,1.0,red,yellow,0.925854953,red
