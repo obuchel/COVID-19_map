@@ -27,7 +27,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Belize,14,0.0,green,green,0.0,green
 ,Benin,18,-0.790123457,green,green,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
-,Bolivia,16,1.0,red,green,0.970103876,red
+,Bolivia,16,1.0,red,yellow,0.970103876,red
 ,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange
 ,Botswana,181,0.631578947,orange,green,0.0,green
 ,Brazil,20,0.779605351,orange,yellow,0.940086802,red
@@ -51,7 +51,7 @@ Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
 Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
-,Cape Verde,41,0.0,green,green,0.0,green
+,Cape Verde,41,0.0,green,yellow,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
 ,Chile,32,0.767441321,orange,yellow,0.984805748,red
@@ -85,7 +85,7 @@ Tianjin,China,29,0.015503876,green,green,0.023255814,green
 Hainan,China,29,0.011235955,green,green,0.011235955,green
 Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,yellow,0.0,green
-Sichuan,China,29,0.007827789,green,yellow,0.0,green
+Sichuan,China,29,0.007827789,green,green,0.0,green
 Chongqing,China,29,0.0,green,red,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Colombia,37,0.96199175,red,yellow,0.962225161,red
@@ -157,7 +157,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Kazakhstan,97,1.0,red,yellow,0.796377607,red
 ,Kenya,91,1.0,red,yellow,0.959578207,red
 ,Kosovo,kos_1,0.1,green,green,0.1,green
-,Kuwait,96,0.957710908,red,yellow,1.0,red
+,Kuwait,96,0.957710908,red,green,1.0,red
 ,Kyrgyzstan,92,0.995176849,red,green,0.807823129,red
 ,Laos,98,0.0,green,green,0.0,green
 ,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow
@@ -217,7 +217,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow
 ,Seychelles,178,0.0,green,yellow,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
-,Singapore,185,0.583467959,orange,red,0.723209478,orange
+,Singapore,185,0.583467959,orange,yellow,0.723209478,orange
 ,Slovakia,104,0.066604995,green,yellow,0.081406105,green
 ,Slovenia,183,0.01320132,green,yellow,0.03630363,green
 ,Somalia,186,0.774224806,orange,green,0.96195122,red
