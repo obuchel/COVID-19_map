@@ -10,7 +10,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Armenia,4,0.99913119,red,yellow,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
-South Australia,Australia,mixed_68,0.0,red,green,0.0,green
+South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
@@ -59,7 +59,7 @@ Tibet,China,29,0.0,green,green,0.0,green
 Qinghai,China,29,0.0,green,green,0.0,green
 Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
-Xinjiang,China,29,0.0,green,yellow,0.0,green
+Xinjiang,China,29,0.0,green,red,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
 Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green
 Heilongjiang,China,29,0.0,green,green,0.002967359,green
@@ -96,7 +96,7 @@ Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Croatia,79,0.046975089,green,yellow,0.118149466,yellow
 Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green
 ,Cuba,40,0.206439394,yellow,green,0.259469697,yellow
-,Cyprus,43,0.068965517,green,green,0.077961019,green
+,Cyprus,43,0.068965517,green,yellow,0.077961019,green
 ,Czechia,57,0.205983681,yellow,yellow,0.152674524,yellow
 \u00c3\u0192\u00e2\u20ac\u00a6land Islands,Denmark,141,0.4,yellow,,0.4,yellow
 Faroe Islands,Denmark,den_44,0.0,green,green,0.0,green
