@@ -3,7 +3,7 @@
 1,,Afghanistan,30,1.0,red,yellow,0.979708722,red,Cases almost under control
 2,,Albania,3,0.483568075,orange,green,0.469483568,orange,Cases under control
 3,,Algeria,1,0.953362256,red,green,0.952472002,red,Cases under control
-4,,Andorra,132,0.010291595,green,green,0.030874786,green,Cases under control
+4,,Andorra,132,0.010291595,green,yellow,0.030874786,green,Cases almost under control
 5,,Angola,5,0.882352941,red,green,0.5,orange,Cases under control
 6,,Antigua and Barbuda,0,0.0,green,green,0.0,green,Cases under control
 7,,Argentina,7,1.0,red,yellow,0.973554968,red,Cases almost under control
@@ -31,7 +31,7 @@
 29,,Bosnia and Herzegovina,15,0.410334347,orange,yellow,0.489361702,orange,Cases almost under control
 30,,Botswana,181,0.631578947,orange,green,0.0,green,Cases under control
 31,,Brazil,20,0.779605351,orange,yellow,0.940086802,red,Cases almost under control
-32,,Brunei,22,0.0,green,red,0.0,green,Cases increasing
+32,,Brunei,22,0.0,green,yellow,0.0,green,Cases almost under control
 33,,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange,Cases almost under control
 34,,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow,Cases under control
 35,,Burma,17,0.205555556,yellow,yellow,0.985,red,Cases almost under control
@@ -47,7 +47,7 @@
 45,Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,yellow,-0.006153846,green,Cases almost under control
 46,Nova Scotia,Canada,mixed_45,0.076470588,red,yellow,0.095588235,green,Cases almost under control
 47,Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green,Cases under control
-48,Prince Edward Island,Canada,mixed_48,0.0,red,green,0.0,green,Cases under control
+48,Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green,Cases almost under control
 49,British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow,Cases almost under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
 51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
@@ -63,7 +63,7 @@
 61,Gansu,China,29,0.0,green,green,0.0,green,Cases under control
 62,Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green,Cases almost under control
 63,Heilongjiang,China,29,0.0,green,green,0.002967359,green,Cases under control
-64,Shaanxi,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+64,Shaanxi,China,29,0.0,green,red,0.0,green,Cases increasing
 65,Zhejiang,China,29,0.0,green,green,0.0,green,Cases under control
 66,Shanxi,China,29,0.0,green,red,0.0,green,Cases increasing
 67,Ningxia,China,29,0.0,green,green,0.0,green,Cases under control
@@ -89,7 +89,7 @@
 87,Chongqing,China,29,0.0,green,red,0.0,green,Cases increasing
 88,Shanghai,China,29,0.03373494,green,green,0.043373494,green,Cases under control
 89,,Colombia,37,0.96199175,red,yellow,0.962225161,red,Cases almost under control
-90,,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange,Cases under control
+90,,Congo (Brazzaville),26,0.877419355,red,yellow,0.787096774,orange,Cases almost under control
 91,,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red,Cases almost under control
 92,,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow,Cases almost under control
 93,,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red,Cases under control
@@ -106,7 +106,7 @@
 104,,Djibouti,45,1.0,red,green,0.351778656,yellow,Cases under control
 105,,Dominica,46,0.0,green,green,0.0,green,Cases under control
 106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
-107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
+107,,Ecuador,48,0.307443736,yellow,green,0.207269296,yellow,Cases under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
 109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
 110,,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange,Cases under control
@@ -192,7 +192,7 @@
 190,,Nicaragua,158,0.982591876,red,green,0.857142857,red,Cases under control
 191,,Niger,125,0.188679245,yellow,green,0.273584906,yellow,Cases under control
 192,,Nigeria,152,0.957395498,red,green,0.900321543,red,Cases under control
-193,,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow,Cases almost under control
+193,,North Macedonia,111,0.432087511,orange,green,0.388331814,yellow,Cases under control
 194,,Norway,154,0.065496153,green,yellow,0.077727362,green,Cases almost under control
 195,,Oman,117,0.996252129,red,yellow,0.988056959,red,Cases almost under control
 196,,Pakistan,162,0.981030648,red,yellow,0.924866285,red,Cases almost under control
