@@ -10,7 +10,7 @@ province,country,id,value,color,Change,value_old,color_old
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green
-South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
+South Australia,Australia,mixed_68,0.0,red,red,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
@@ -38,7 +38,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Burundi,28,1.0,red,green,0.210526316,yellow
 ,Cambodia,24,0.011235955,green,green,0.0,green
 ,Cameroon,34,1.0,red,green,0.90545651,red
-Manitoba,Canada,mixed_11,0.012048193,red,yellow,0.03313253,green
+Manitoba,Canada,mixed_11,0.012048193,red,green,0.03313253,green
 Quebec,Canada,mixed_14,0.631404243,red,yellow,0.694953577,orange
 New Brunswick,Canada,mixed_15,0.013605442,red,yellow,0.0,green
 Yukon,Canada,mixed_26,0.0,red,green,0.0,green
@@ -89,8 +89,8 @@ Sichuan,China,29,0.007827789,green,red,0.0,green
 Chongqing,China,29,0.0,green,red,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Colombia,37,0.96199175,red,yellow,0.962225161,red
-,Congo (Brazzaville),26,0.877419355,red,yellow,0.787096774,orange
-,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red
+,Congo (Brazzaville),26,0.877419355,red,red,0.787096774,orange
+,Congo (Kinshasa),27,0.978839178,red,green,0.887290168,red
 ,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow
 ,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red
 ,Croatia,79,0.046975089,green,yellow,0.118149466,yellow
@@ -113,7 +113,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Eritrea,53,0.0,green,green,0.0,green
 ,Estonia,52,0.095354523,green,yellow,0.08394458,green
 ,Eswatini,220,0.448863636,orange,green,0.534090909,orange
-,Ethiopia,55,1.0,red,green,0.870629371,red
+,Ethiopia,55,1.0,red,yellow,0.870629371,red
 ,Fiji,60,0.0,green,green,0.0,green
 ,Finland,59,0.348885077,yellow,yellow,0.440137221,orange
 Svalbard,Finland,239,0.4,yellow,,0.4,yellow
@@ -121,7 +121,7 @@ Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
 French Guiana,France,fr_64,1.0,red,yellow,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,green,0.0,green
 Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
-Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red
+Mayotte,France,fr_67,0.757775683,orange,yellow,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
 Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
@@ -174,7 +174,7 @@ Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green
 ,Mali,112,0.884086444,red,green,0.78978389,orange
 ,Malta,116,0.510989011,orange,green,0.35989011,yellow
 ,Mauritania,115,1.0,red,green,1.0,red
-,Mauritius,114,0.0,green,yellow,0.0,green
+,Mauritius,114,0.0,green,green,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
 ,Moldova,171,0.92122281,red,yellow,0.956745623,red
 ,Monaco,137,0.025316456,green,green,0.025316456,green
@@ -192,7 +192,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Nicaragua,158,0.982591876,red,green,0.857142857,red
 ,Niger,125,0.188679245,yellow,green,0.273584906,yellow
 ,Nigeria,152,0.957395498,red,green,0.900321543,red
-,North Macedonia,111,0.432087511,orange,green,0.388331814,yellow
+,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,yellow,0.988056959,red
 ,Pakistan,162,0.981030648,red,yellow,0.924866285,red
@@ -291,7 +291,7 @@ Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red
 Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green
 Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red
 Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange
-Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange
+Nevada,US,mixed_51,0.740825688,orange,green,0.695609436,orange
 Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange
 South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red
 Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange
