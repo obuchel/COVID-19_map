@@ -10,7 +10,7 @@
 8,,Armenia,4,0.99913119,red,green,0.981223697,red,Cases under control
 9,Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green,Cases almost under control
 10,Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green,Cases almost under control
-11,South Australia,Australia,mixed_68,0.0,red,red,0.0,green,Cases increasing
+11,South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green,Cases almost under control
 12,Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green,Cases almost under control
 13,New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green,Cases almost under control
 14,Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow,Cases almost under control
@@ -73,7 +73,7 @@
 71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
 72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
 73,Fujian,China,29,0.0,green,yellow,0.0,green,Cases almost under control
-74,Jiangsu,China,29,0.0,green,green,0.0,green,Cases under control
+74,Jiangsu,China,29,0.0,green,red,0.0,green,Cases increasing
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
 77,Guangxi,China,29,0.0,green,green,0.0,green,Cases under control
@@ -96,7 +96,7 @@
 94,,Croatia,79,0.046975089,green,yellow,0.118149466,yellow,Cases almost under control
 95,Diamond Princess,Cruise Ship,cruise,0.0,green,,0.0,green,
 96,,Cuba,40,0.206439394,yellow,green,0.259469697,yellow,Cases under control
-97,,Cyprus,43,0.068965517,green,red,0.077961019,green,Cases increasing
+97,,Cyprus,43,0.068965517,green,yellow,0.077961019,green,Cases almost under control
 98,,Czechia,57,0.205983681,yellow,yellow,0.152674524,yellow,Cases almost under control
 99,\u00c3\u0192\u00e2\u20ac\u00a6land Islands,Denmark,141,0.4,yellow,,0.4,yellow,
 100,Faroe Islands,Denmark,den_44,0.0,green,green,0.0,green,Cases under control
