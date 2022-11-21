@@ -72,7 +72,7 @@
 70,Yunnan,China,29,0.0,green,red,0.0,green,Cases increasing
 71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
 72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
-73,Fujian,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+73,Fujian,China,29,0.0,green,red,0.0,green,Cases increasing
 74,Jiangsu,China,29,0.0,green,red,0.0,green,Cases increasing
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
@@ -167,7 +167,7 @@
 165,,Liechtenstein,105,0.0,green,green,0.0,green,Cases under control
 166,,Lithuania,102,0.210109019,yellow,yellow,0.211100099,yellow,Cases almost under control
 167,,Luxembourg,135,0.050570459,green,yellow,0.049337034,green,Cases almost under control
-168,,Madagascar,107,1.0,red,green,0.940677966,red,Cases under control
+168,,Madagascar,107,1.0,red,yellow,0.940677966,red,Cases almost under control
 169,,Malawi,22,0.814814815,red,green,1.0,red,Cases under control
 170,,Malaysia,120,0.221731449,yellow,yellow,0.231448763,yellow,Cases almost under control
 171,,Maldives,118,0.684890656,orange,green,0.791252485,red,Cases under control
@@ -231,7 +231,7 @@
 229,,Syria,191,0.575,orange,green,0.6,orange,Cases under control
 230,,Taiwan*,245,0.005333333,green,red,0.0,green,Cases increasing
 231,,Tanzania,204,0.0,green,yellow,0.054104478,green,Cases almost under control
-232,,Thailand,194,0.016380016,green,yellow,0.026208026,green,Cases almost under control
+232,,Thailand,194,0.016380016,green,green,0.026208026,green,Cases under control
 233,,Timor-Leste,228,0.0,green,green,0.0,green,Cases under control
 234,,Togo,198,0.832432432,red,green,0.958333333,red,Cases under control
 235,,Trinidad and Tobago,193,0.0,green,green,0.0,green,Cases under control
