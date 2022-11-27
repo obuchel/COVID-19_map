@@ -59,7 +59,7 @@ Tibet,China,29,0.0,green,green,0.0,green
 Qinghai,China,29,0.0,green,green,0.0,green
 Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
-Xinjiang,China,29,0.0,green,yellow,0.0,green
+Xinjiang,China,29,0.0,green,green,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
 Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green
 Heilongjiang,China,29,0.0,green,red,0.002967359,green
@@ -157,9 +157,9 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Kazakhstan,97,1.0,red,green,0.796377607,red
 ,Kenya,91,1.0,red,yellow,0.959578207,red
 ,Kosovo,kos_1,0.1,green,green,0.1,green
-,Kuwait,96,0.957710908,red,green,1.0,red
+,Kuwait,96,0.957710908,red,yellow,1.0,red
 ,Kyrgyzstan,92,0.995176849,red,green,0.807823129,red
-,Laos,98,0.0,green,green,0.0,green
+,Laos,98,0.0,green,yellow,0.0,green
 ,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow
 ,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
