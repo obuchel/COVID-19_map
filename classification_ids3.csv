@@ -59,7 +59,7 @@
 57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
 58,Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow,Cases increasing
 59,Jilin,China,29,0.315384615,yellow,green,0.507692308,orange,Cases under control
-60,Xinjiang,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+60,Xinjiang,China,29,0.0,green,green,0.0,green,Cases under control
 61,Gansu,China,29,0.0,green,green,0.0,green,Cases under control
 62,Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green,Cases almost under control
 63,Heilongjiang,China,29,0.0,green,red,0.002967359,green,Cases increasing
@@ -157,9 +157,9 @@
 155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
 156,,Kenya,91,1.0,red,yellow,0.959578207,red,Cases almost under control
 157,,Kosovo,kos_1,0.1,green,green,0.1,green,Cases under control
-158,,Kuwait,96,0.957710908,red,green,1.0,red,Cases under control
+158,,Kuwait,96,0.957710908,red,yellow,1.0,red,Cases almost under control
 159,,Kyrgyzstan,92,0.995176849,red,green,0.807823129,red,Cases under control
-160,,Laos,98,0.0,green,green,0.0,green,Cases under control
+160,,Laos,98,0.0,green,yellow,0.0,green,Cases almost under control
 161,,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow,Cases almost under control
 162,,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange,Cases almost under control
 163,,Liberia,103,0.587301587,orange,green,0.507936508,orange,Cases under control
