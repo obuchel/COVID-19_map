@@ -14,7 +14,7 @@
 12,Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green,Cases almost under control
 13,New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green,Cases almost under control
 14,Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow,Cases almost under control
-15,Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green,Cases almost under control
+15,Tasmania,Australia,mixed_73,0.011494253,red,red,0.011494253,green,Cases increasing
 16,Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green,Cases increasing
 17,,Austria,56,0.062619896,green,yellow,0.06563442,green,Cases almost under control
 18,,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red,Cases almost under control
@@ -51,7 +51,7 @@
 49,British Columbia,Canada,mixed_5,0.205621302,red,green,0.187130178,yellow,Cases under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
 51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
-52,,Cape Verde,41,0.0,green,yellow,0.0,green,Cases almost under control
+52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
 55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
@@ -59,7 +59,7 @@
 57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
 58,Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow,Cases increasing
 59,Jilin,China,29,0.315384615,yellow,green,0.507692308,orange,Cases under control
-60,Xinjiang,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+60,Xinjiang,China,29,0.0,green,green,0.0,green,Cases under control
 61,Gansu,China,29,0.0,green,green,0.0,green,Cases under control
 62,Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green,Cases almost under control
 63,Heilongjiang,China,29,0.0,green,red,0.002967359,green,Cases increasing
@@ -70,7 +70,7 @@
 68,Hebei,China,29,0.0,green,red,0.0,green,Cases increasing
 69,Macau,China,29,0.0,green,green,0.0,green,Cases under control
 70,Yunnan,China,29,0.0,green,red,0.0,green,Cases increasing
-71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
+71,Guizhou,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
 73,Fujian,China,29,0.0,green,red,0.0,green,Cases increasing
 74,Jiangsu,China,29,0.0,green,yellow,0.0,green,Cases almost under control
@@ -80,7 +80,7 @@
 78,Shandong,China,29,0.0,green,red,0.0,green,Cases increasing
 79,Guangdong,China,29,0.002430134,green,red,0.001215067,green,Cases increasing
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
-81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
+81,Hubei,China,29,2.69e-05,green,yellow,0.000161481,green,Cases almost under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
 83,Hainan,China,29,0.011235955,green,green,0.011235955,green,Cases under control
 84,Hunan,China,29,0.0,green,red,0.0,green,Cases increasing
@@ -88,7 +88,7 @@
 86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
 87,Chongqing,China,29,0.0,green,red,0.0,green,Cases increasing
 88,Shanghai,China,29,0.03373494,green,yellow,0.043373494,green,Cases almost under control
-89,,Colombia,37,0.96199175,red,green,0.962225161,red,Cases under control
+89,,Colombia,37,0.96199175,red,yellow,0.962225161,red,Cases almost under control
 90,,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange,Cases under control
 91,,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red,Cases almost under control
 92,,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow,Cases almost under control
@@ -275,7 +275,7 @@
 273,Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow,Cases almost under control
 274,Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red,Cases almost under control
 275,Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red,Cases almost under control
-276,Florida,US,mixed_30,0.650033445,orange,green,0.586354515,orange,Cases under control
+276,Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange,Cases almost under control
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
