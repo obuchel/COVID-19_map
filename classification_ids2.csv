@@ -70,7 +70,7 @@ Ningxia,China,29,0.0,green,green,0.0,green
 Hebei,China,29,0.0,green,green,0.0,green
 Macau,China,29,0.0,green,green,0.0,green
 Yunnan,China,29,0.0,green,red,0.0,green
-Guizhou,China,29,0.0,green,yellow,0.0,green
+Guizhou,China,29,0.0,green,red,0.0,green
 Beijing,China,29,0.0,green,red,0.0,green
 Fujian,China,29,0.0,green,red,0.0,green
 Jiangsu,China,29,0.0,green,red,0.0,green
@@ -123,7 +123,7 @@ French Polynesia,France,fr_65,0.0,green,yellow,0.0,green
 Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green
 Mayotte,France,fr_67,0.757775683,orange,yellow,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
-Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
+Reunion,France,fr_69,0.047413793,green,green,0.07112069,green
 Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green
 St Martin,France,fr_71,0.047619048,green,green,0.047619048,green
 Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
@@ -254,7 +254,7 @@ Jersey,United Kingdom,uk_212,,green,yellow,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
 ,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
-Georgia,US,67,0.727813041,orange,green,0.655452972,orange
+Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,yellow,0.738636364,orange
 Virgin Islands,US,216,0.0,green,yellow,0.044444444,green
