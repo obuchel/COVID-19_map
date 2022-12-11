@@ -65,7 +65,7 @@
 63,Heilongjiang,China,29,0.0,green,red,0.002967359,green,Cases increasing
 64,Shaanxi,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 65,Zhejiang,China,29,0.0,green,red,0.0,green,Cases increasing
-66,Shanxi,China,29,0.0,green,red,0.0,green,Cases increasing
+66,Shanxi,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 67,Ningxia,China,29,0.0,green,green,0.0,green,Cases under control
 68,Hebei,China,29,0.0,green,green,0.0,green,Cases under control
 69,Macau,China,29,0.0,green,green,0.0,green,Cases under control
@@ -83,7 +83,7 @@
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
 83,Hainan,China,29,0.011235955,green,yellow,0.011235955,green,Cases almost under control
-84,Hunan,China,29,0.0,green,red,0.0,green,Cases increasing
+84,Hunan,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 85,Henan,China,29,0.0,green,red,0.0,green,Cases increasing
 86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
 87,Chongqing,China,29,0.0,green,red,0.0,green,Cases increasing
@@ -105,7 +105,7 @@
 103,,Diamond Princess,cruise,0.0,green,green,0.0,green,Cases under control
 104,,Djibouti,45,1.0,red,green,0.351778656,yellow,Cases under control
 105,,Dominica,46,0.0,green,green,0.0,green,Cases under control
-106,,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red,Cases almost under control
+106,,Dominican Republic,47,0.875167386,red,green,0.916083916,red,Cases under control
 107,,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow,Cases almost under control
 108,,Egypt,49,1.0,red,green,0.954887218,red,Cases under control
 109,,El Salvador,54,1.0,red,green,0.971764706,red,Cases under control
@@ -198,7 +198,7 @@
 196,,Pakistan,162,0.981030648,red,yellow,0.924866285,red,Cases almost under control
 197,,Panama,164,0.648118218,orange,yellow,0.755945509,orange,Cases almost under control
 198,,Papua New Guinea,166,0.0,green,yellow,0.0,green,Cases almost under control
-199,,Paraguay,160,0.221850613,yellow,red,0.609810479,orange,Cases increasing
+199,,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange,Cases almost under control
 200,,Peru,161,0.942766316,red,yellow,0.95111974,red,Cases almost under control
 201,,Philippines,172,0.761990624,orange,yellow,0.760908763,orange,Cases almost under control
 202,,Poland,163,0.940873016,red,yellow,0.88247012,red,Cases almost under control
