@@ -65,7 +65,7 @@ Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green
 Heilongjiang,China,29,0.0,green,red,0.002967359,green
 Shaanxi,China,29,0.0,green,yellow,0.0,green
 Zhejiang,China,29,0.0,green,red,0.0,green
-Shanxi,China,29,0.0,green,red,0.0,green
+Shanxi,China,29,0.0,green,yellow,0.0,green
 Ningxia,China,29,0.0,green,green,0.0,green
 Hebei,China,29,0.0,green,green,0.0,green
 Macau,China,29,0.0,green,green,0.0,green
@@ -83,7 +83,7 @@ Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
 Hainan,China,29,0.011235955,green,yellow,0.011235955,green
-Hunan,China,29,0.0,green,red,0.0,green
+Hunan,China,29,0.0,green,yellow,0.0,green
 Henan,China,29,0.0,green,red,0.0,green
 Sichuan,China,29,0.007827789,green,red,0.0,green
 Chongqing,China,29,0.0,green,red,0.0,green
@@ -105,7 +105,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Diamond Princess,cruise,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
-,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
+,Dominican Republic,47,0.875167386,red,green,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,yellow,0.0,green
-,Paraguay,160,0.221850613,yellow,red,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,yellow,0.95111974,red
 ,Philippines,172,0.761990624,orange,yellow,0.760908763,orange
 ,Poland,163,0.940873016,red,yellow,0.88247012,red
