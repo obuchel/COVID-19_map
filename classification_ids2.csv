@@ -24,7 +24,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,red,0.0,green
 ,Barbados,10,0.135135135,yellow,green,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
 ,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
-,Belize,14,0.0,green,green,0.0,green
+,Belize,14,0.0,green,yellow,0.0,green
 ,Benin,18,-0.790123457,green,green,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
 ,Bolivia,16,1.0,red,yellow,0.970103876,red
@@ -47,10 +47,10 @@ Nunavut,Canada,mixed_43,0.0,red,green,0.0,green
 Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,yellow,-0.006153846,green
 Nova Scotia,Canada,mixed_45,0.076470588,red,yellow,0.095588235,green
 Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green
-Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green
+Prince Edward Island,Canada,mixed_48,0.0,red,green,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
-Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
+Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
 ,Cape Verde,41,0.0,green,green,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
@@ -61,14 +61,14 @@ Inner Mongolia,China,29,0.108108108,yellow,red,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
 Xinjiang,China,29,0.0,green,green,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
-Hong Kong,China,29,0.03622393,green,yellow,0.024149286,green
+Hong Kong,China,29,0.03622393,green,red,0.024149286,green
 Heilongjiang,China,29,0.0,green,red,0.002967359,green
-Shaanxi,China,29,0.0,green,yellow,0.0,green
+Shaanxi,China,29,0.0,green,green,0.0,green
 Zhejiang,China,29,0.0,green,red,0.0,green
-Shanxi,China,29,0.0,green,yellow,0.0,green
+Shanxi,China,29,0.0,green,green,0.0,green
 Ningxia,China,29,0.0,green,green,0.0,green
 Hebei,China,29,0.0,green,green,0.0,green
-Macau,China,29,0.0,green,green,0.0,green
+Macau,China,29,0.0,green,red,0.0,green
 Yunnan,China,29,0.0,green,red,0.0,green
 Guizhou,China,29,0.0,green,red,0.0,green
 Beijing,China,29,0.0,green,red,0.0,green
@@ -83,7 +83,7 @@ Jiangxi,China,29,0.0,green,green,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,green,0.023255814,green
 Hainan,China,29,0.011235955,green,yellow,0.011235955,green
-Hunan,China,29,0.0,green,yellow,0.0,green
+Hunan,China,29,0.0,green,green,0.0,green
 Henan,China,29,0.0,green,red,0.0,green
 Sichuan,China,29,0.007827789,green,red,0.0,green
 Chongqing,China,29,0.0,green,red,0.0,green
@@ -120,7 +120,7 @@ Svalbard,Finland,239,0.4,yellow,,0.4,yellow
 Saint Pierre and Miquelon,France,232,0.0,green,green,0.0,green
 French Guiana,France,fr_64,1.0,red,green,0.974576271,red
 French Polynesia,France,fr_65,0.0,green,yellow,0.0,green
-Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green
+Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green
 Mayotte,France,fr_67,0.757775683,orange,yellow,0.919886899,red
 New Caledonia,France,fr_68,0.0,green,yellow,0.0,green
 Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green
@@ -141,13 +141,13 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Guyana,76,0.451612903,orange,green,0.758064516,orange
 ,Haiti,77,1.0,red,green,1.0,red
 ,Holy See,238,0.0,green,green,0.0,green
-,Honduras,78,1.0,red,green,0.735282339,orange
+,Honduras,78,1.0,red,yellow,0.735282339,orange
 ,Hungary,80,0.372413793,yellow,yellow,0.366047745,yellow
 ,Iceland,81,0.002073255,green,green,0.00138217,green
 ,India,82,0.992660269,red,yellow,0.978469769,red
 ,Indonesia,224,0.954872739,red,yellow,0.980160858,red
 ,Iran,83,0.691829145,orange,yellow,0.565981997,orange
-,Iraq,87,0.939810427,red,yellow,1.0,red
+,Iraq,87,0.939810427,red,green,1.0,red
 ,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow
 ,Israel,84,0.025300601,green,yellow,0.034819639,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
@@ -177,11 +177,11 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Mauritius,114,0.0,green,yellow,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
 ,Moldova,171,0.92122281,red,yellow,0.956745623,red
-,Monaco,137,0.025316456,green,yellow,0.025316456,green
+,Monaco,137,0.025316456,green,green,0.025316456,green
 ,Mongolia,109,1.0,red,yellow,1.0,red
 ,Montenegro,139,0.0,green,yellow,0.0,green
 ,Morocco,113,0.463264761,orange,yellow,0.662837296,orange
-,Mozambique,121,0.967741935,red,green,1.0,red
+,Mozambique,121,0.967741935,red,yellow,1.0,red
 ,Namibia,217,0.285714286,yellow,green,0.0,green
 ,Nepal,155,0.8828125,red,green,1.0,red
 Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green
@@ -195,8 +195,8 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,green,0.988056959,red
-,Pakistan,162,0.981030648,red,yellow,0.924866285,red
-,Panama,164,0.648118218,orange,yellow,0.755945509,orange
+,Pakistan,162,0.981030648,red,green,0.924866285,red
+,Panama,164,0.648118218,orange,green,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,yellow,0.0,green
 ,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,yellow,0.95111974,red
@@ -311,7 +311,7 @@ Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,yellow,0.444612286,orange
 ,Venezuela,213,1.0,red,yellow,1.0,red
 ,Vietnam,215,0.313043478,yellow,yellow,0.27826087,yellow
-,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green
+,West Bank and Gaza,,0.251308901,yellow,yellow,0.031413613,green
 ,Western Sahara,236,0.0,green,,0.0,green
 ,Yemen,221,0.992982456,red,green,0.180288462,yellow
 ,Zambia,222,0.798157454,green,green,1.0,red
