@@ -6,7 +6,7 @@
 4,,Andorra,132,0.010291595,green,yellow,0.030874786,green,Cases almost under control
 5,,Angola,5,0.882352941,red,green,0.5,orange,Cases under control
 6,,Antigua and Barbuda,0,0.0,green,green,0.0,green,Cases under control
-7,,Argentina,7,1.0,red,yellow,0.973554968,red,Cases almost under control
+7,,Argentina,7,1.0,red,green,0.973554968,red,Cases under control
 8,,Armenia,4,0.99913119,red,green,0.981223697,red,Cases under control
 9,Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green,Cases almost under control
 10,Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green,Cases almost under control
@@ -71,20 +71,20 @@
 69,Macau,China,29,0.0,green,red,0.0,green,Cases increasing
 70,Yunnan,China,29,0.0,green,green,0.0,green,Cases under control
 71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
-72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
-73,Fujian,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+72,Beijing,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+73,Fujian,China,29,0.0,green,green,0.0,green,Cases under control
 74,Jiangsu,China,29,0.0,green,green,0.0,green,Cases under control
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
 77,Guangxi,China,29,0.0,green,green,0.0,green,Cases under control
 78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
-79,Guangdong,China,29,0.002430134,green,red,0.001215067,green,Cases increasing
+79,Guangdong,China,29,0.002430134,green,yellow,0.001215067,green,Cases almost under control
 80,Jiangxi,China,29,0.0,green,green,0.0,green,Cases under control
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,green,0.023255814,green,Cases under control
 83,Hainan,China,29,0.011235955,green,yellow,0.011235955,green,Cases almost under control
 84,Hunan,China,29,0.0,green,green,0.0,green,Cases under control
-85,Henan,China,29,0.0,green,yellow,0.0,green,Cases almost under control
+85,Henan,China,29,0.0,green,green,0.0,green,Cases under control
 86,Sichuan,China,29,0.007827789,green,yellow,0.0,green,Cases almost under control
 87,Chongqing,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 88,Shanghai,China,29,0.03373494,green,green,0.043373494,green,Cases under control
