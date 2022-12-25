@@ -57,18 +57,18 @@ Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
 ,Chile,32,0.767441321,orange,yellow,0.984805748,red
 Tibet,China,29,0.0,green,green,0.0,green
 Qinghai,China,29,0.0,green,green,0.0,green
-Inner Mongolia,China,29,0.108108108,yellow,yellow,0.162162162,yellow
+Inner Mongolia,China,29,0.108108108,yellow,green,0.162162162,yellow
 Jilin,China,29,0.315384615,yellow,green,0.507692308,orange
 Xinjiang,China,29,0.0,green,green,0.0,green
 Gansu,China,29,0.0,green,green,0.0,green
 Hong Kong,China,29,0.03622393,green,red,0.024149286,green
 Heilongjiang,China,29,0.0,green,green,0.002967359,green
 Shaanxi,China,29,0.0,green,green,0.0,green
-Zhejiang,China,29,0.0,green,red,0.0,green
+Zhejiang,China,29,0.0,green,yellow,0.0,green
 Shanxi,China,29,0.0,green,green,0.0,green
 Ningxia,China,29,0.0,green,green,0.0,green
 Hebei,China,29,0.0,green,green,0.0,green
-Macau,China,29,0.0,green,red,0.0,green
+Macau,China,29,0.0,green,yellow,0.0,green
 Yunnan,China,29,0.0,green,red,0.0,green
 Guizhou,China,29,0.0,green,green,0.0,green
 Beijing,China,29,0.0,green,red,0.0,green
@@ -77,14 +77,14 @@ Jiangsu,China,29,0.0,green,green,0.0,green
 Anhui,China,29,0.0,green,green,0.0,green
 Liaoning,China,29,0.01459854,green,green,0.04379562,green
 Guangxi,China,29,0.0,green,green,0.0,green
-Shandong,China,29,0.0,green,red,0.0,green
+Shandong,China,29,0.0,green,green,0.0,green
 Guangdong,China,29,0.002430134,green,red,0.001215067,green
 Jiangxi,China,29,0.0,green,red,0.0,green
 Hubei,China,29,2.69e-05,green,green,0.000161481,green
 Tianjin,China,29,0.015503876,green,red,0.023255814,green
-Hainan,China,29,0.011235955,green,yellow,0.011235955,green
+Hainan,China,29,0.011235955,green,green,0.011235955,green
 Hunan,China,29,0.0,green,red,0.0,green
-Henan,China,29,0.0,green,red,0.0,green
+Henan,China,29,0.0,green,yellow,0.0,green
 Sichuan,China,29,0.007827789,green,red,0.0,green
 Chongqing,China,29,0.0,green,red,0.0,green
 Shanghai,China,29,0.03373494,green,yellow,0.043373494,green
@@ -229,7 +229,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Sweden,190,0.834092544,red,yellow,0.830975785,red
 ,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
-,Taiwan*,245,0.005333333,green,yellow,0.0,green
+,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
 ,Thailand,194,0.016380016,green,yellow,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
