@@ -57,18 +57,18 @@
 55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
 56,Tibet,China,29,0.0,green,green,0.0,green,Cases under control
 57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
-58,Inner Mongolia,China,29,0.108108108,yellow,yellow,0.162162162,yellow,Cases almost under control
+58,Inner Mongolia,China,29,0.108108108,yellow,green,0.162162162,yellow,Cases under control
 59,Jilin,China,29,0.315384615,yellow,green,0.507692308,orange,Cases under control
 60,Xinjiang,China,29,0.0,green,green,0.0,green,Cases under control
 61,Gansu,China,29,0.0,green,green,0.0,green,Cases under control
 62,Hong Kong,China,29,0.03622393,green,red,0.024149286,green,Cases increasing
 63,Heilongjiang,China,29,0.0,green,green,0.002967359,green,Cases under control
 64,Shaanxi,China,29,0.0,green,green,0.0,green,Cases under control
-65,Zhejiang,China,29,0.0,green,red,0.0,green,Cases increasing
+65,Zhejiang,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 66,Shanxi,China,29,0.0,green,green,0.0,green,Cases under control
 67,Ningxia,China,29,0.0,green,green,0.0,green,Cases under control
 68,Hebei,China,29,0.0,green,green,0.0,green,Cases under control
-69,Macau,China,29,0.0,green,red,0.0,green,Cases increasing
+69,Macau,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 70,Yunnan,China,29,0.0,green,red,0.0,green,Cases increasing
 71,Guizhou,China,29,0.0,green,green,0.0,green,Cases under control
 72,Beijing,China,29,0.0,green,red,0.0,green,Cases increasing
@@ -77,14 +77,14 @@
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
 76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
 77,Guangxi,China,29,0.0,green,green,0.0,green,Cases under control
-78,Shandong,China,29,0.0,green,red,0.0,green,Cases increasing
+78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
 79,Guangdong,China,29,0.002430134,green,red,0.001215067,green,Cases increasing
 80,Jiangxi,China,29,0.0,green,red,0.0,green,Cases increasing
 81,Hubei,China,29,2.69e-05,green,green,0.000161481,green,Cases under control
 82,Tianjin,China,29,0.015503876,green,red,0.023255814,green,Cases increasing
-83,Hainan,China,29,0.011235955,green,yellow,0.011235955,green,Cases almost under control
+83,Hainan,China,29,0.011235955,green,green,0.011235955,green,Cases under control
 84,Hunan,China,29,0.0,green,red,0.0,green,Cases increasing
-85,Henan,China,29,0.0,green,red,0.0,green,Cases increasing
+85,Henan,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
 87,Chongqing,China,29,0.0,green,red,0.0,green,Cases increasing
 88,Shanghai,China,29,0.03373494,green,yellow,0.043373494,green,Cases almost under control
@@ -229,7 +229,7 @@
 227,,Sweden,190,0.834092544,red,yellow,0.830975785,red,Cases almost under control
 228,,Switzerland,192,0.028483625,green,yellow,0.038574443,green,Cases almost under control
 229,,Syria,191,0.575,orange,green,0.6,orange,Cases under control
-230,,Taiwan*,245,0.005333333,green,yellow,0.0,green,Cases almost under control
+230,,Taiwan*,245,0.005333333,green,red,0.0,green,Cases increasing
 231,,Tanzania,204,0.0,green,green,0.054104478,green,Cases under control
 232,,Thailand,194,0.016380016,green,yellow,0.026208026,green,Cases almost under control
 233,,Timor-Leste,228,0.0,green,green,0.0,green,Cases under control
