@@ -27,7 +27,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,green,0.0,green
 ,Belize,14,0.0,green,yellow,0.0,green
 ,Benin,18,-0.790123457,green,green,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
-,Bolivia,16,1.0,red,red,0.970103876,red
+,Bolivia,16,1.0,red,yellow,0.970103876,red
 ,Bosnia and Herzegovina,15,0.410334347,orange,green,0.489361702,orange
 ,Botswana,181,0.631578947,orange,yellow,0.0,green
 ,Brazil,20,0.779605351,orange,yellow,0.940086802,red
@@ -159,7 +159,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Kosovo,kos_1,0.1,green,green,0.1,green
 ,Kuwait,96,0.957710908,red,green,1.0,red
 ,Kyrgyzstan,92,0.995176849,red,green,0.807823129,red
-,Laos,98,0.0,green,yellow,0.0,green
+,Laos,98,0.0,green,green,0.0,green
 ,Latvia,100,0.271794872,yellow,yellow,0.305982906,yellow
 ,Lebanon,99,0.749116608,orange,yellow,0.427561837,orange
 ,Liberia,103,0.587301587,orange,green,0.507936508,orange
@@ -195,7 +195,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,North Macedonia,111,0.432087511,orange,yellow,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,green,0.988056959,red
-,Pakistan,162,0.981030648,red,green,0.924866285,red
+,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
 ,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
@@ -225,18 +225,18 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Spain,187,0.14844185,yellow,yellow,0.246193429,yellow
 ,Sri Lanka,25,0.439735099,orange,green,0.401324503,orange
 ,Sudan,189,0.984379694,red,green,0.907367668,red
-,Suriname,157,0.142857143,yellow,green,0.0,green
+,Suriname,157,0.142857143,yellow,yellow,0.0,green
 ,Sweden,190,0.834092544,red,yellow,0.830975785,red
 ,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,yellow,0.054104478,green
-,Thailand,194,0.016380016,green,yellow,0.026208026,green
+,Thailand,194,0.016380016,green,green,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
 ,Togo,198,0.832432432,red,green,0.958333333,red
 ,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
 ,Tunisia,200,0.042049934,green,green,0.023653088,green
-,Turkey,201,0.275705896,yellow,green,0.334086289,yellow
+,Turkey,201,0.275705896,yellow,yellow,0.334086289,yellow
 ,Uganda,205,0.281786942,yellow,yellow,0.996047431,red
 ,Ukraine,207,0.811582213,red,yellow,0.899276112,red
 ,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red
