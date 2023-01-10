@@ -21,7 +21,7 @@
 19,,Bahamas,12,0.125,yellow,green,0.142857143,yellow,Cases under control
 20,,Bahrain,9,0.931350892,red,yellow,0.928294574,red,Cases almost under control
 21,,Bangladesh,13,0.983424995,red,green,0.992572833,red,Cases under control
-22,,Barbados,10,0.135135135,yellow,green,0.148648649,yellow,Cases under control
+22,,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow,Cases almost under control
 23,,Belarus,101,0.94486361,red,green,0.953617516,red,Cases under control
 24,,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow,Cases almost under control
 25,,Belize,14,0.0,green,yellow,0.0,green,Cases almost under control
@@ -38,36 +38,36 @@
 36,,Burundi,28,1.0,red,yellow,0.210526316,yellow,Cases almost under control
 37,,Cambodia,24,0.011235955,green,green,0.0,green,Cases under control
 38,,Cameroon,34,1.0,red,green,0.90545651,red,Cases under control
-39,Manitoba,Canada,mixed_11,0.012048193,red,green,0.03313253,green,Cases under control
+39,Manitoba,Canada,mixed_11,0.012048193,red,yellow,0.03313253,green,Cases almost under control
 40,Quebec,Canada,mixed_14,0.631404243,red,yellow,0.694953577,orange,Cases almost under control
-41,New Brunswick,Canada,mixed_15,0.013605442,red,green,0.0,green,Cases under control
+41,New Brunswick,Canada,mixed_15,0.013605442,red,yellow,0.0,green,Cases almost under control
 42,Yukon,Canada,mixed_26,0.0,red,green,0.0,green,Cases under control
 43,Ontario,Canada,mixed_3,0.565010929,red,yellow,0.507575187,orange,Cases almost under control
 44,Nunavut,Canada,mixed_43,0.0,red,green,0.0,green,Cases under control
-45,Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,green,-0.006153846,green,Cases under control
-46,Nova Scotia,Canada,mixed_45,0.076470588,red,green,0.095588235,green,Cases under control
+45,Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,yellow,-0.006153846,green,Cases almost under control
+46,Nova Scotia,Canada,mixed_45,0.076470588,red,yellow,0.095588235,green,Cases almost under control
 47,Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green,Cases under control
 48,Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green,Cases almost under control
 49,British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow,Cases almost under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
-51,Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow,Cases under control
+51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
 52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
 55,,Chile,32,0.767441321,orange,yellow,0.984805748,red,Cases almost under control
 56,Tibet,China,29,0.0,green,green,0.0,green,Cases under control
-57,Qinghai,China,29,0.0,green,green,0.0,green,Cases under control
-58,Inner Mongolia,China,29,0.108108108,yellow,green,0.162162162,yellow,Cases under control
-59,Jilin,China,29,0.315384615,yellow,green,0.507692308,orange,Cases under control
+57,Qinghai,China,29,0.0,green,red,0.0,green,Cases increasing
+58,Inner Mongolia,China,29,0.108108108,yellow,yellow,0.162162162,yellow,Cases almost under control
+59,Jilin,China,29,0.315384615,yellow,yellow,0.507692308,orange,Cases almost under control
 60,Xinjiang,China,29,0.0,green,red,0.0,green,Cases increasing
 61,Gansu,China,29,0.0,green,green,0.0,green,Cases under control
 62,Hong Kong,China,29,0.03622393,green,red,0.024149286,green,Cases increasing
-63,Heilongjiang,China,29,0.0,green,yellow,0.002967359,green,Cases almost under control
+63,Heilongjiang,China,29,0.0,green,red,0.002967359,green,Cases increasing
 64,Shaanxi,China,29,0.0,green,red,0.0,green,Cases increasing
-65,Zhejiang,China,29,0.0,green,green,0.0,green,Cases under control
+65,Zhejiang,China,29,0.0,green,red,0.0,green,Cases increasing
 66,Shanxi,China,29,0.0,green,red,0.0,green,Cases increasing
 67,Ningxia,China,29,0.0,green,red,0.0,green,Cases increasing
-68,Hebei,China,29,0.0,green,green,0.0,green,Cases under control
+68,Hebei,China,29,0.0,green,yellow,0.0,green,Cases almost under control
 69,Macau,China,29,0.0,green,red,0.0,green,Cases increasing
 70,Yunnan,China,29,0.0,green,red,0.0,green,Cases increasing
 71,Guizhou,China,29,0.0,green,red,0.0,green,Cases increasing
@@ -75,16 +75,16 @@
 73,Fujian,China,29,0.0,green,red,0.0,green,Cases increasing
 74,Jiangsu,China,29,0.0,green,green,0.0,green,Cases under control
 75,Anhui,China,29,0.0,green,green,0.0,green,Cases under control
-76,Liaoning,China,29,0.01459854,green,green,0.04379562,green,Cases under control
+76,Liaoning,China,29,0.01459854,green,red,0.04379562,green,Cases increasing
 77,Guangxi,China,29,0.0,green,red,0.0,green,Cases increasing
-78,Shandong,China,29,0.0,green,green,0.0,green,Cases under control
+78,Shandong,China,29,0.0,green,red,0.0,green,Cases increasing
 79,Guangdong,China,29,0.002430134,green,red,0.001215067,green,Cases increasing
 80,Jiangxi,China,29,0.0,green,red,0.0,green,Cases increasing
 81,Hubei,China,29,2.69e-05,green,yellow,0.000161481,green,Cases almost under control
 82,Tianjin,China,29,0.015503876,green,red,0.023255814,green,Cases increasing
 83,Hainan,China,29,0.011235955,green,green,0.011235955,green,Cases under control
 84,Hunan,China,29,0.0,green,red,0.0,green,Cases increasing
-85,Henan,China,29,0.0,green,green,0.0,green,Cases under control
+85,Henan,China,29,0.0,green,red,0.0,green,Cases increasing
 86,Sichuan,China,29,0.007827789,green,red,0.0,green,Cases increasing
 87,Chongqing,China,29,0.0,green,red,0.0,green,Cases increasing
 88,Shanghai,China,29,0.03373494,green,yellow,0.043373494,green,Cases almost under control
@@ -181,7 +181,7 @@
 179,,Mongolia,109,1.0,red,yellow,1.0,red,Cases almost under control
 180,,Montenegro,139,0.0,green,yellow,0.0,green,Cases almost under control
 181,,Morocco,113,0.463264761,orange,yellow,0.662837296,orange,Cases almost under control
-182,,Mozambique,121,0.967741935,red,green,1.0,red,Cases under control
+182,,Mozambique,121,0.967741935,red,yellow,1.0,red,Cases almost under control
 183,,Namibia,217,0.285714286,yellow,green,0.0,green,Cases under control
 184,,Nepal,155,0.8828125,red,green,1.0,red,Cases under control
 185,Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green,Cases under control
@@ -210,7 +210,7 @@
 208,,Saint Kitts and Nevis,177,0.0,green,green,0.0,green,Cases under control
 209,,Saint Lucia,188,0.0,green,green,0.0,green,Cases under control
 210,,Saint Vincent and the Grenadines,212,0.090909091,green,green,0.0,green,Cases under control
-211,,San Marino,234,0.123493976,yellow,yellow,0.189759036,yellow,Cases almost under control
+211,,San Marino,234,0.123493976,yellow,green,0.189759036,yellow,Cases under control
 212,,Sao Tome and Principe,199,0.177884615,yellow,green,0.0,green,Cases under control
 213,,Saudi Arabia,176,0.97597069,red,yellow,0.981556729,red,Cases almost under control
 214,,Senegal,182,0.864185111,red,green,0.966229839,red,Cases under control
@@ -231,13 +231,13 @@
 229,,Syria,191,0.575,orange,green,0.6,orange,Cases under control
 230,,Taiwan*,245,0.005333333,green,red,0.0,green,Cases increasing
 231,,Tanzania,204,0.0,green,green,0.054104478,green,Cases under control
-232,,Thailand,194,0.016380016,green,yellow,0.026208026,green,Cases almost under control
+232,,Thailand,194,0.016380016,green,green,0.026208026,green,Cases under control
 233,,Timor-Leste,228,0.0,green,green,0.0,green,Cases under control
 234,,Togo,198,0.832432432,red,green,0.958333333,red,Cases under control
 235,,Trinidad and Tobago,193,0.0,green,yellow,0.0,green,Cases almost under control
 236,,Tunisia,200,0.042049934,green,green,0.023653088,green,Cases under control
 237,,Turkey,201,0.275705896,yellow,green,0.334086289,yellow,Cases under control
-238,,Uganda,205,0.281786942,yellow,green,0.996047431,red,Cases under control
+238,,Uganda,205,0.281786942,yellow,yellow,0.996047431,red,Cases almost under control
 239,,Ukraine,207,0.811582213,red,yellow,0.899276112,red,Cases almost under control
 240,,United Arab Emirates,227,0.968371177,red,yellow,0.976868709,red,Cases almost under control
 241,Falkland Islands (Malvinas),United Kingdom,61,0.0,green,green,1.0,red,Cases under control
