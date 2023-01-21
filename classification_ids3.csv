@@ -11,7 +11,7 @@
 9,Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green,Cases almost under control
 10,Northern Territory,Australia,mixed_67,0.0,red,yellow,0.0,green,Cases almost under control
 11,South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green,Cases almost under control
-12,Queensland,Australia,mixed_69,0.016283525,red,green,0.022988506,green,Cases under control
+12,Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green,Cases almost under control
 13,New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green,Cases almost under control
 14,Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow,Cases almost under control
 15,Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green,Cases almost under control
@@ -248,9 +248,9 @@
 246,Cayman Islands,United Kingdom,uk_207,1.0,red,green,0.364864865,yellow,Cases under control
 247,Channel Islands,United Kingdom,uk_208,0.042682927,green,green,0.036585366,green,Cases under control
 248,Gibraltar,United Kingdom,uk_209,0.045751634,green,green,0.026143791,green,Cases under control
-249,Guernsey,United Kingdom,uk_210,,green,yellow,,green,Cases almost under control
+249,Guernsey,United Kingdom,uk_210,,green,green,,green,Cases under control
 250,Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green,Cases under control
-251,Jersey,United Kingdom,uk_212,,green,yellow,,green,Cases almost under control
+251,Jersey,United Kingdom,uk_212,,green,green,,green,Cases under control
 252,Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green,Cases under control
 253,,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange,Cases almost under control
 254,,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow,Cases almost under control
@@ -275,7 +275,7 @@
 273,Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow,Cases almost under control
 274,Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red,Cases almost under control
 275,Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red,Cases almost under control
-276,Florida,US,mixed_30,0.650033445,orange,green,0.586354515,orange,Cases under control
+276,Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange,Cases almost under control
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
@@ -304,7 +304,7 @@
 302,Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red,Cases almost under control
 303,Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange,Cases almost under control
 304,Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange,Cases almost under control
-305,Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange,Cases almost under control
+305,Tennessee,US,mixed_63,0.619669876,orange,red,0.607290234,orange,Cases increasing
 306,West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange,Cases almost under control
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
