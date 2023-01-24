@@ -1,6 +1,6 @@
 province,country,id,value,color,Change,value_old,color_old
 """Korea","South""",95,0.033081783,green,yellow,0.041067041,green
-,Afghanistan,30,1.0,red,yellow,0.979708722,red
+,Afghanistan,30,1.0,red,green,0.979708722,red
 ,Albania,3,0.483568075,orange,green,0.469483568,orange
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,green,0.030874786,green
@@ -44,13 +44,13 @@ New Brunswick,Canada,mixed_15,0.013605442,red,yellow,0.0,green
 Yukon,Canada,mixed_26,0.0,red,green,0.0,green
 Ontario,Canada,mixed_3,0.565010929,red,yellow,0.507575187,orange
 Nunavut,Canada,mixed_43,0.0,red,green,0.0,green
-Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,green,-0.006153846,green
+Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,yellow,-0.006153846,green
 Nova Scotia,Canada,mixed_45,0.076470588,red,yellow,0.095588235,green
 Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green
 Prince Edward Island,Canada,mixed_48,0.0,red,yellow,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
-Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
+Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
 ,Cape Verde,41,0.0,green,green,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
@@ -90,7 +90,7 @@ Chongqing,China,29,0.0,green,green,0.0,green
 Shanghai,China,29,0.03373494,green,green,0.043373494,green
 ,Colombia,37,0.96199175,red,yellow,0.962225161,red
 ,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange
-,Congo (Kinshasa),27,0.978839178,red,yellow,0.887290168,red
+,Congo (Kinshasa),27,0.978839178,red,green,0.887290168,red
 ,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow
 ,Cote d'Ivoire,86,0.828493648,red,green,0.951730419,red
 ,Croatia,79,0.046975089,green,yellow,0.118149466,yellow
@@ -106,7 +106,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
 ,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
-,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
+,Ecuador,48,0.307443736,yellow,green,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
 ,Equatorial Guinea,51,0.973604061,red,green,0.566727605,orange
@@ -174,21 +174,21 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Mali,112,0.884086444,red,green,0.78978389,orange
 ,Malta,116,0.510989011,orange,green,0.35989011,yellow
 ,Mauritania,115,1.0,red,yellow,1.0,red
-,Mauritius,114,0.0,green,green,0.0,green
+,Mauritius,114,0.0,green,yellow,0.0,green
 ,Mexico,119,0.73620021,orange,yellow,0.953647125,red
 ,Moldova,171,0.92122281,red,yellow,0.956745623,red
 ,Monaco,137,0.025316456,green,green,0.025316456,green
 ,Mongolia,109,1.0,red,green,1.0,red
 ,Montenegro,139,0.0,green,yellow,0.0,green
 ,Morocco,113,0.463264761,orange,green,0.662837296,orange
-,Mozambique,121,0.967741935,red,yellow,1.0,red
+,Mozambique,121,0.967741935,red,green,1.0,red
 ,Namibia,217,0.285714286,yellow,green,0.0,green
 ,Nepal,155,0.8828125,red,green,1.0,red
 Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green
 Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green
 Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Netherlands,dutch_156,0.163269959,yellow,yellow,0.18798158,yellow
-,New Zealand,159,0.009327115,green,green,0.01065956,green
+,New Zealand,159,0.009327115,green,yellow,0.01065956,green
 ,Nicaragua,158,0.982591876,red,green,0.857142857,red
 ,Niger,125,0.188679245,yellow,green,0.273584906,yellow
 ,Nigeria,152,0.957395498,red,green,0.900321543,red
@@ -231,7 +231,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Syria,191,0.575,orange,green,0.6,orange
 ,Taiwan*,245,0.005333333,green,red,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
-,Thailand,194,0.016380016,green,green,0.026208026,green
+,Thailand,194,0.016380016,green,yellow,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
 ,Togo,198,0.832432432,red,green,0.958333333,red
 ,Trinidad and Tobago,193,0.0,green,yellow,0.0,green
