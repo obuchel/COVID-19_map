@@ -88,7 +88,7 @@
 86,Sichuan,China,29,0.007827789,green,green,0.0,green,Cases under control
 87,Chongqing,China,29,0.0,green,green,0.0,green,Cases under control
 88,Shanghai,China,29,0.03373494,green,green,0.043373494,green,Cases under control
-89,,Colombia,37,0.96199175,red,green,0.962225161,red,Cases under control
+89,,Colombia,37,0.96199175,red,yellow,0.962225161,red,Cases almost under control
 90,,Congo (Brazzaville),26,0.877419355,red,green,0.787096774,orange,Cases under control
 91,,Congo (Kinshasa),27,0.978839178,red,green,0.887290168,red,Cases under control
 92,,Costa Rica,38,0.414285714,orange,yellow,0.383673469,yellow,Cases almost under control
@@ -273,13 +273,13 @@
 271,Texas,US,mixed_24,0.908200538,red,yellow,0.944783797,red,Cases almost under control
 272,Alaska,US,mixed_25,0.152671756,yellow,yellow,0.095419847,green,Cases almost under control
 273,Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow,Cases almost under control
-274,Mississippi,US,mixed_28,0.94511427,red,green,0.86665467,red,Cases under control
+274,Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red,Cases almost under control
 275,Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red,Cases almost under control
 276,Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange,Cases almost under control
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
-280,District of Columbia,US,mixed_35,0.688719899,orange,yellow,0.682636248,orange,Cases almost under control
+280,District of Columbia,US,mixed_35,0.688719899,orange,green,0.682636248,orange,Cases under control
 281,Maryland,US,mixed_36,0.927775197,red,yellow,0.82438458,red,Cases almost under control
 282,Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red,Cases almost under control
 283,New Jersey,US,mixed_38,0.314332834,yellow,yellow,0.32120683,yellow,Cases almost under control
@@ -291,7 +291,7 @@
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
 290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
 291,Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange,Cases almost under control
-292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
+292,Nevada,US,mixed_51,0.740825688,orange,green,0.695609436,orange,Cases under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
 294,South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red,Cases almost under control
 295,Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange,Cases almost under control
@@ -308,7 +308,7 @@
 306,West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange,Cases almost under control
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
-309,,Uzbekistan,211,0.465760322,orange,yellow,0.444612286,orange,Cases almost under control
+309,,Uzbekistan,211,0.465760322,orange,green,0.444612286,orange,Cases under control
 310,,Venezuela,213,1.0,red,yellow,1.0,red,Cases almost under control
 311,,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow,Cases under control
 312,,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green,Cases under control
