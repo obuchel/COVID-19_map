@@ -123,7 +123,7 @@
 121,Guadeloupe,France,fr_66,0.013513514,green,yellow,0.02027027,green,Cases almost under control
 122,Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red,Cases under control
 123,New Caledonia,France,fr_68,0.0,green,green,0.0,green,Cases under control
-124,Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green,Cases almost under control
+124,Reunion,France,fr_69,0.047413793,green,green,0.07112069,green,Cases under control
 125,Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green,Cases under control
 126,St Martin,France,fr_71,0.047619048,green,green,0.047619048,green,Cases under control
 127,Martinique,France,fr_72,0.096256684,green,yellow,0.080213904,green,Cases almost under control
@@ -138,7 +138,7 @@
 136,,Guatemala,74,1.0,red,yellow,0.946202532,red,Cases almost under control
 137,,Guinea,75,0.849012776,red,green,0.801393728,red,Cases under control
 138,,Guinea-Bissau,167,0.500875657,orange,green,0.719789842,orange,Cases under control
-139,,Guyana,76,0.451612903,orange,yellow,0.758064516,orange,Cases almost under control
+139,,Guyana,76,0.451612903,orange,green,0.758064516,orange,Cases under control
 140,,Haiti,77,1.0,red,green,1.0,red,Cases under control
 141,,Holy See,238,0.0,green,green,0.0,green,Cases under control
 142,,Honduras,78,1.0,red,yellow,0.735282339,orange,Cases almost under control
@@ -275,11 +275,11 @@
 273,Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow,Cases almost under control
 274,Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red,Cases almost under control
 275,Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red,Cases almost under control
-276,Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange,Cases almost under control
+276,Florida,US,mixed_30,0.650033445,orange,green,0.586354515,orange,Cases under control
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
-280,District of Columbia,US,mixed_35,0.688719899,orange,green,0.682636248,orange,Cases under control
+280,District of Columbia,US,mixed_35,0.688719899,orange,yellow,0.682636248,orange,Cases almost under control
 281,Maryland,US,mixed_36,0.927775197,red,yellow,0.82438458,red,Cases almost under control
 282,Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red,Cases almost under control
 283,New Jersey,US,mixed_38,0.314332834,yellow,yellow,0.32120683,yellow,Cases almost under control
@@ -291,7 +291,7 @@
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
 290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
 291,Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange,Cases almost under control
-292,Nevada,US,mixed_51,0.740825688,orange,green,0.695609436,orange,Cases under control
+292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
 294,South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red,Cases almost under control
 295,Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange,Cases almost under control
@@ -304,7 +304,7 @@
 302,Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red,Cases almost under control
 303,Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange,Cases almost under control
 304,Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange,Cases almost under control
-305,Tennessee,US,mixed_63,0.619669876,orange,red,0.607290234,orange,Cases increasing
+305,Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange,Cases almost under control
 306,West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange,Cases almost under control
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
