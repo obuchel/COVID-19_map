@@ -309,7 +309,7 @@
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
 309,,Uzbekistan,211,0.465760322,orange,yellow,0.444612286,orange,Cases almost under control
-310,,Venezuela,213,1.0,red,yellow,1.0,red,Cases almost under control
+310,,Venezuela,213,1.0,red,green,1.0,red,Cases under control
 311,,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow,Cases under control
 312,,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green,Cases under control
 313,,Western Sahara,236,0.0,green,,0.0,green,
