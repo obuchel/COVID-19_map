@@ -15,7 +15,7 @@
 13,New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green,Cases almost under control
 14,Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow,Cases almost under control
 15,Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green,Cases almost under control
-16,Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green,Cases almost under control
+16,Australian Capital Territory,Australia,mixed_77,0.0,red,green,0.0,green,Cases under control
 17,,Austria,56,0.062619896,green,yellow,0.06563442,green,Cases almost under control
 18,,Azerbaijan,2,0.972868217,red,yellow,0.992311389,red,Cases almost under control
 19,,Bahamas,12,0.125,yellow,green,0.142857143,yellow,Cases under control
@@ -130,7 +130,7 @@
 128,,France,fr_73,0.04406919,green,yellow,0.048789176,green,Cases almost under control
 129,,Gabon,66,0.909559244,red,green,0.871765382,red,Cases under control
 130,,Gambia,65,0.25,yellow,green,0.4,orange,Cases under control
-131,,Georgia,geo_67,0.444759207,orange,green,0.430594901,orange,Cases under control
+131,,Georgia,geo_67,0.444759207,orange,yellow,0.430594901,orange,Cases almost under control
 132,,Germany,71,0.007927007,green,yellow,0.069932103,green,Cases almost under control
 133,,Ghana,68,0.393254801,yellow,green,0.704695821,orange,Cases under control
 134,,Greece,73,0.141695703,yellow,green,0.173635308,yellow,Cases under control
@@ -225,7 +225,7 @@
 223,,Spain,187,0.14844185,yellow,yellow,0.246193429,yellow,Cases almost under control
 224,,Sri Lanka,25,0.439735099,orange,green,0.401324503,orange,Cases under control
 225,,Sudan,189,0.984379694,red,green,0.907367668,red,Cases under control
-226,,Suriname,157,0.142857143,yellow,green,0.0,green,Cases under control
+226,,Suriname,157,0.142857143,yellow,yellow,0.0,green,Cases almost under control
 227,,Sweden,190,0.834092544,red,yellow,0.830975785,red,Cases almost under control
 228,,Switzerland,192,0.028483625,green,yellow,0.038574443,green,Cases almost under control
 229,,Syria,191,0.575,orange,green,0.6,orange,Cases under control
@@ -279,19 +279,19 @@
 277,South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red,Cases almost under control
 278,North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red,Cases almost under control
 279,Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red,Cases almost under control
-280,District of Columbia,US,mixed_35,0.688719899,orange,yellow,0.682636248,orange,Cases almost under control
+280,District of Columbia,US,mixed_35,0.688719899,orange,green,0.682636248,orange,Cases under control
 281,Maryland,US,mixed_36,0.927775197,red,yellow,0.82438458,red,Cases almost under control
 282,Delaware,US,mixed_37,0.81006259,red,yellow,0.792007703,red,Cases almost under control
 283,New Jersey,US,mixed_38,0.314332834,yellow,yellow,0.32120683,yellow,Cases almost under control
 284,Connecticut,US,mixed_39,0.500769116,orange,yellow,0.528109959,orange,Cases almost under control
-285,Washington,US,mixed_4,0.387110318,yellow,green,0.445785662,orange,Cases under control
+285,Washington,US,mixed_4,0.387110318,yellow,yellow,0.445785662,orange,Cases almost under control
 286,Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange,Cases almost under control
-287,Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange,Cases almost under control
+287,Massachusetts,US,mixed_41,0.464627434,orange,green,0.4861558,orange,Cases under control
 288,Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red,Cases almost under control
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
 290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
 291,Wyoming,US,mixed_50,0.512658228,orange,green,0.483122363,orange,Cases under control
-292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
+292,Nevada,US,mixed_51,0.740825688,orange,green,0.695609436,orange,Cases under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
 294,South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red,Cases almost under control
 295,Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange,Cases almost under control
