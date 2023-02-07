@@ -35,7 +35,7 @@
 33,,Bulgaria,21,0.563526361,orange,yellow,0.623163354,orange,Cases almost under control
 34,,Burkina Faso,209,0.216545012,yellow,green,0.272506083,yellow,Cases under control
 35,,Burma,17,0.205555556,yellow,green,0.985,red,Cases under control
-36,,Burundi,28,1.0,red,yellow,0.210526316,yellow,Cases almost under control
+36,,Burundi,28,1.0,red,green,0.210526316,yellow,Cases under control
 37,,Cambodia,24,0.011235955,green,green,0.0,green,Cases under control
 38,,Cameroon,34,1.0,red,green,0.90545651,red,Cases under control
 39,Manitoba,Canada,mixed_11,0.012048193,red,green,0.03313253,green,Cases under control
@@ -50,7 +50,7 @@
 48,Prince Edward Island,Canada,mixed_48,0.0,red,green,0.0,green,Cases under control
 49,British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow,Cases almost under control
 50,Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow,Cases almost under control
-51,Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow,Cases under control
+51,Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow,Cases almost under control
 52,,Cape Verde,41,0.0,green,green,0.0,green,Cases under control
 53,,Central African Republic,39,1.0,red,green,0.894849785,red,Cases under control
 54,,Chad,35,0.877224199,red,green,0.877224199,red,Cases under control
@@ -123,7 +123,7 @@
 121,Guadeloupe,France,fr_66,0.013513514,green,green,0.02027027,green,Cases under control
 122,Mayotte,France,fr_67,0.757775683,orange,green,0.919886899,red,Cases under control
 123,New Caledonia,France,fr_68,0.0,green,green,0.0,green,Cases under control
-124,Reunion,France,fr_69,0.047413793,green,yellow,0.07112069,green,Cases almost under control
+124,Reunion,France,fr_69,0.047413793,green,green,0.07112069,green,Cases under control
 125,Saint Barthelemy,France,fr_70,0.0,green,green,0.0,green,Cases under control
 126,St Martin,France,fr_71,0.047619048,green,green,0.047619048,green,Cases under control
 127,Martinique,France,fr_72,0.096256684,green,green,0.080213904,green,Cases under control
@@ -154,7 +154,7 @@
 152,,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow,Cases almost under control
 153,,Japan,88,0.082915605,green,yellow,0.1247432,yellow,Cases almost under control
 154,,Jordan,90,0.397372742,yellow,green,0.367816092,yellow,Cases under control
-155,,Kazakhstan,97,1.0,red,yellow,0.796377607,red,Cases almost under control
+155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
 156,,Kenya,91,1.0,red,green,0.959578207,red,Cases under control
 157,,Kosovo,kos_1,0.1,green,green,0.1,green,Cases under control
 158,,Kuwait,96,0.957710908,red,green,1.0,red,Cases under control
@@ -174,28 +174,28 @@
 172,,Mali,112,0.884086444,red,green,0.78978389,orange,Cases under control
 173,,Malta,116,0.510989011,orange,green,0.35989011,yellow,Cases under control
 174,,Mauritania,115,1.0,red,green,1.0,red,Cases under control
-175,,Mauritius,114,0.0,green,green,0.0,green,Cases under control
+175,,Mauritius,114,0.0,green,yellow,0.0,green,Cases almost under control
 176,,Mexico,119,0.73620021,orange,yellow,0.953647125,red,Cases almost under control
 177,,Moldova,171,0.92122281,red,yellow,0.956745623,red,Cases almost under control
 178,,Monaco,137,0.025316456,green,green,0.025316456,green,Cases under control
 179,,Mongolia,109,1.0,red,green,1.0,red,Cases under control
 180,,Montenegro,139,0.0,green,yellow,0.0,green,Cases almost under control
 181,,Morocco,113,0.463264761,orange,green,0.662837296,orange,Cases under control
-182,,Mozambique,121,0.967741935,red,green,1.0,red,Cases under control
-183,,Namibia,217,0.285714286,yellow,yellow,0.0,green,Cases almost under control
+182,,Mozambique,121,0.967741935,red,yellow,1.0,red,Cases almost under control
+183,,Namibia,217,0.285714286,yellow,green,0.0,green,Cases under control
 184,,Nepal,155,0.8828125,red,green,1.0,red,Cases under control
 185,Aruba,Netherlands,dutch_153,0.0,green,green,0.0,green,Cases under control
 186,Curacao,Netherlands,dutch_154,0.0,green,green,0.0,green,Cases under control
 187,Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green,Cases under control
 188,,Netherlands,dutch_156,0.163269959,yellow,yellow,0.18798158,yellow,Cases almost under control
-189,,New Zealand,159,0.009327115,green,green,0.01065956,green,Cases under control
+189,,New Zealand,159,0.009327115,green,yellow,0.01065956,green,Cases almost under control
 190,,Nicaragua,158,0.982591876,red,green,0.857142857,red,Cases under control
 191,,Niger,125,0.188679245,yellow,green,0.273584906,yellow,Cases under control
 192,,Nigeria,152,0.957395498,red,green,0.900321543,red,Cases under control
 193,,North Macedonia,111,0.432087511,orange,green,0.388331814,yellow,Cases under control
 194,,Norway,154,0.065496153,green,yellow,0.077727362,green,Cases almost under control
-195,,Oman,117,0.996252129,red,yellow,0.988056959,red,Cases almost under control
-196,,Pakistan,162,0.981030648,red,yellow,0.924866285,red,Cases almost under control
+195,,Oman,117,0.996252129,red,green,0.988056959,red,Cases under control
+196,,Pakistan,162,0.981030648,red,green,0.924866285,red,Cases under control
 197,,Panama,164,0.648118218,orange,yellow,0.755945509,orange,Cases almost under control
 198,,Papua New Guinea,166,0.0,green,green,0.0,green,Cases under control
 199,,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange,Cases almost under control
@@ -309,8 +309,8 @@
 307,Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange,Cases almost under control
 308,Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green,Cases almost under control
 309,,Uzbekistan,211,0.465760322,orange,green,0.444612286,orange,Cases under control
-310,,Venezuela,213,1.0,red,yellow,1.0,red,Cases almost under control
-311,,Vietnam,215,0.313043478,yellow,yellow,0.27826087,yellow,Cases almost under control
+310,,Venezuela,213,1.0,red,green,1.0,red,Cases under control
+311,,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow,Cases under control
 312,,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green,Cases under control
 313,,Western Sahara,236,0.0,green,,0.0,green,
 314,,Yemen,221,0.992982456,red,green,0.180288462,yellow,Cases under control
