@@ -261,11 +261,11 @@
 259,North Dakota,US,mixed_10,0.971859986,red,yellow,0.95256167,red,Cases almost under control
 260,Michigan,US,mixed_12,0.382199304,yellow,yellow,0.339974551,yellow,Cases almost under control
 261,Maine,US,mixed_13,1.0,red,yellow,0.869001297,red,Cases almost under control
-262,Ohio,US,mixed_16,0.677234165,orange,green,0.682464757,orange,Cases under control
+262,Ohio,US,mixed_16,0.677234165,orange,yellow,0.682464757,orange,Cases almost under control
 263,New Hampshire,US,mixed_17,0.788359788,orange,yellow,0.741798942,orange,Cases almost under control
 264,New York,US,mixed_18,0.191947522,yellow,yellow,0.218826993,yellow,Cases almost under control
 265,Vermont,US,mixed_19,0.061617458,green,yellow,0.057766367,green,Cases almost under control
-266,Minnesota,US,mixed_2,0.975758984,red,green,0.929884968,red,Cases under control
+266,Minnesota,US,mixed_2,0.975758984,red,yellow,0.929884968,red,Cases almost under control
 267,Pennsylvania,US,mixed_20,0.541889653,orange,yellow,0.575719929,orange,Cases almost under control
 268,Arizona,US,mixed_21,0.916698078,red,yellow,0.93215228,red,Cases almost under control
 269,California,US,mixed_22,0.967137139,red,yellow,0.924269289,red,Cases almost under control
@@ -285,23 +285,23 @@
 283,New Jersey,US,mixed_38,0.314332834,yellow,yellow,0.32120683,yellow,Cases almost under control
 284,Connecticut,US,mixed_39,0.500769116,orange,yellow,0.528109959,orange,Cases almost under control
 285,Washington,US,mixed_4,0.387110318,yellow,yellow,0.445785662,orange,Cases almost under control
-286,Rhode Island,US,mixed_40,0.516563945,orange,green,0.518618387,orange,Cases under control
+286,Rhode Island,US,mixed_40,0.516563945,orange,yellow,0.518618387,orange,Cases almost under control
 287,Massachusetts,US,mixed_41,0.464627434,orange,yellow,0.4861558,orange,Cases almost under control
 288,Oregon,US,mixed_42,0.653872515,orange,yellow,0.814941741,red,Cases almost under control
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
-290,Utah,US,mixed_49,0.961381476,red,green,0.889481947,red,Cases under control
+290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
 291,Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange,Cases almost under control
 292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
 294,South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red,Cases almost under control
 295,Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange,Cases almost under control
 296,Kansas,US,mixed_55,0.509575354,orange,yellow,0.484096586,orange,Cases almost under control
-297,Oklahoma,US,mixed_56,0.867132867,red,green,0.767585356,orange,Cases under control
+297,Oklahoma,US,mixed_56,0.867132867,red,yellow,0.767585356,orange,Cases almost under control
 298,Iowa,US,mixed_57,0.64544676,orange,yellow,0.64573223,orange,Cases almost under control
 299,Missouri,US,mixed_58,0.58954197,orange,yellow,0.570473757,orange,Cases almost under control
 300,Wisconsin,US,mixed_59,1.0,red,yellow,0.925854953,red,Cases almost under control
 301,Idaho,US,mixed_6,0.32386059,yellow,yellow,0.25844504,yellow,Cases almost under control
-302,Illinois,US,mixed_60,0.840186825,red,green,0.851435244,red,Cases under control
+302,Illinois,US,mixed_60,0.840186825,red,yellow,0.851435244,red,Cases almost under control
 303,Kentucky,US,mixed_61,0.809572826,red,yellow,0.761451364,orange,Cases almost under control
 304,Arkansas,US,mixed_62,0.986377925,red,yellow,0.739892665,orange,Cases almost under control
 305,Tennessee,US,mixed_63,0.619669876,orange,yellow,0.607290234,orange,Cases almost under control
