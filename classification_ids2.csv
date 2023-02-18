@@ -1,6 +1,6 @@
 province,country,id,value,color,Change,value_old,color_old
 """Korea","South""",95,0.033081783,green,yellow,0.041067041,green
-,Afghanistan,30,1.0,red,yellow,0.979708722,red
+,Afghanistan,30,1.0,red,green,0.979708722,red
 ,Albania,3,0.483568075,orange,green,0.469483568,orange
 ,Algeria,1,0.953362256,red,green,0.952472002,red
 ,Andorra,132,0.010291595,green,green,0.030874786,green
@@ -10,12 +10,12 @@ province,country,id,value,color,Change,value_old,color_old
 ,Armenia,4,0.99913119,red,green,0.981223697,red
 Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,green,0.0,green
-South Australia,Australia,mixed_68,0.0,red,green,0.0,green
+South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
 Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
-Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green
-Australian Capital Territory,Australia,mixed_77,0.0,red,green,0.0,green
+Tasmania,Australia,mixed_73,0.011494253,red,green,0.011494253,green
+Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Austria,56,0.062619896,green,yellow,0.06563442,green
 ,Azerbaijan,2,0.972868217,red,green,0.992311389,red
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
@@ -23,7 +23,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,green,0.0,green
 ,Bangladesh,13,0.983424995,red,green,0.992572833,red
 ,Barbados,10,0.135135135,yellow,green,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
-,Belgium,128,0.185588827,yellow,green,0.251437238,yellow
+,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
 ,Belize,14,0.0,green,green,0.0,green
 ,Benin,18,-0.790123457,green,green,0.609053498,orange
 ,Bhutan,31,0.571428571,orange,green,1.0,red
@@ -105,7 +105,7 @@ Greenland,Denmark,den_45,0.0,green,green,0.0,green
 ,Diamond Princess,cruise,0.0,green,green,0.0,green
 ,Djibouti,45,1.0,red,green,0.351778656,yellow
 ,Dominica,46,0.0,green,green,0.0,green
-,Dominican Republic,47,0.875167386,red,yellow,0.916083916,red
+,Dominican Republic,47,0.875167386,red,green,0.916083916,red
 ,Ecuador,48,0.307443736,yellow,yellow,0.207269296,yellow
 ,Egypt,49,1.0,red,green,0.954887218,red
 ,El Salvador,54,1.0,red,green,0.971764706,red
@@ -198,7 +198,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Pakistan,162,0.981030648,red,yellow,0.924866285,red
 ,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
-,Paraguay,160,0.221850613,yellow,green,0.609810479,orange
+,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,yellow,0.95111974,red
 ,Philippines,172,0.761990624,orange,yellow,0.760908763,orange
 ,Poland,163,0.940873016,red,yellow,0.88247012,red
@@ -275,7 +275,7 @@ Alaska,US,mixed_25,0.152671756,yellow,yellow,0.095419847,green
 Louisiana,US,mixed_27,0.323194454,yellow,yellow,0.260203721,yellow
 Mississippi,US,mixed_28,0.94511427,red,yellow,0.86665467,red
 Alabama,US,mixed_29,0.975671406,red,yellow,0.862616034,red
-Florida,US,mixed_30,0.650033445,orange,green,0.586354515,orange
+Florida,US,mixed_30,0.650033445,orange,yellow,0.586354515,orange
 South Carolina,US,mixed_32,0.850589441,red,yellow,0.80035879,red
 North Carolina,US,mixed_33,1.0,red,yellow,0.959843291,red
 Virginia,US,mixed_34,0.951216838,red,yellow,0.924358693,red
