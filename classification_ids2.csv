@@ -19,7 +19,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Austria,56,0.062619896,green,yellow,0.06563442,green
 ,Azerbaijan,2,0.972868217,red,green,0.992311389,red
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
-,Bahrain,9,0.931350892,red,green,0.928294574,red
+,Bahrain,9,0.931350892,red,yellow,0.928294574,red
 ,Bangladesh,13,0.983424995,red,green,0.992572833,red
 ,Barbados,10,0.135135135,yellow,green,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
@@ -217,7 +217,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Serbia,237,0.21464108,yellow,yellow,0.203127221,yellow
 ,Seychelles,178,0.0,green,green,0.0,green
 ,Sierra Leone,184,0.90858209,red,green,1.0,red
-,Singapore,185,0.583467959,orange,yellow,0.723209478,orange
+,Singapore,185,0.583467959,orange,green,0.723209478,orange
 ,Slovakia,104,0.066604995,green,yellow,0.081406105,green
 ,Slovenia,183,0.01320132,green,yellow,0.03630363,green
 ,Somalia,186,0.774224806,orange,green,0.96195122,red
@@ -229,7 +229,7 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,Sweden,190,0.834092544,red,yellow,0.830975785,red
 ,Switzerland,192,0.028483625,green,yellow,0.038574443,green
 ,Syria,191,0.575,orange,green,0.6,orange
-,Taiwan*,245,0.005333333,green,red,0.0,green
+,Taiwan*,245,0.005333333,green,yellow,0.0,green
 ,Tanzania,204,0.0,green,green,0.054104478,green
 ,Thailand,194,0.016380016,green,yellow,0.026208026,green
 ,Timor-Leste,228,0.0,green,green,0.0,green
@@ -310,7 +310,7 @@ Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange
 Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,green,0.444612286,orange
 ,Venezuela,213,1.0,red,yellow,1.0,red
-,Vietnam,215,0.313043478,yellow,yellow,0.27826087,yellow
+,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow
 ,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green
 ,Western Sahara,236,0.0,green,,0.0,green
 ,Yemen,221,0.992982456,red,green,0.180288462,yellow
