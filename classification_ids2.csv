@@ -141,7 +141,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Guyana,76,0.451612903,orange,green,0.758064516,orange
 ,Haiti,77,1.0,red,green,1.0,red
 ,Holy See,238,0.0,green,green,0.0,green
-,Honduras,78,1.0,red,yellow,0.735282339,orange
+,Honduras,78,1.0,red,green,0.735282339,orange
 ,Hungary,80,0.372413793,yellow,yellow,0.366047745,yellow
 ,Iceland,81,0.002073255,green,green,0.00138217,green
 ,India,82,0.992660269,red,yellow,0.978469769,red
@@ -195,14 +195,14 @@ Sint Maarten,Netherlands,dutch_155,0.024691358,green,green,0.024691358,green
 ,North Macedonia,111,0.432087511,orange,green,0.388331814,yellow
 ,Norway,154,0.065496153,green,yellow,0.077727362,green
 ,Oman,117,0.996252129,red,green,0.988056959,red
-,Pakistan,162,0.981030648,red,green,0.924866285,red
-,Panama,164,0.648118218,orange,green,0.755945509,orange
+,Pakistan,162,0.981030648,red,yellow,0.924866285,red
+,Panama,164,0.648118218,orange,yellow,0.755945509,orange
 ,Papua New Guinea,166,0.0,green,green,0.0,green
 ,Paraguay,160,0.221850613,yellow,yellow,0.609810479,orange
 ,Peru,161,0.942766316,red,yellow,0.95111974,red
 ,Philippines,172,0.761990624,orange,yellow,0.760908763,orange
 ,Poland,163,0.940873016,red,yellow,0.88247012,red
-,Portugal,165,0.276244846,yellow,yellow,0.259372027,yellow
+,Portugal,165,0.276244846,yellow,green,0.259372027,yellow
 ,Qatar,168,0.964229249,red,yellow,0.977652167,red
 ,Romania,170,0.498699877,orange,yellow,0.606541672,orange
 ,Russia,174,0.826711405,red,yellow,0.919878761,red
