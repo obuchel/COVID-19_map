@@ -1,6 +1,6 @@
 ,province,country,id,value,color,Change,value_old,color_old,Change1
 0,"""Korea","South""",95,0.033081783,green,yellow,0.041067041,green,Cases almost under control
-1,,Afghanistan,30,1.0,red,yellow,0.979708722,red,Cases almost under control
+1,,Afghanistan,30,1.0,red,green,0.979708722,red,Cases under control
 2,,Albania,3,0.483568075,orange,green,0.469483568,orange,Cases under control
 3,,Algeria,1,0.953362256,red,green,0.952472002,red,Cases under control
 4,,Andorra,132,0.010291595,green,green,0.030874786,green,Cases under control
@@ -291,7 +291,7 @@
 289,Hawaii,US,mixed_47,0.019748654,green,yellow,0.039497307,green,Cases almost under control
 290,Utah,US,mixed_49,0.961381476,red,yellow,0.889481947,red,Cases almost under control
 291,Wyoming,US,mixed_50,0.512658228,orange,yellow,0.483122363,orange,Cases almost under control
-292,Nevada,US,mixed_51,0.740825688,orange,yellow,0.695609436,orange,Cases almost under control
+292,Nevada,US,mixed_51,0.740825688,orange,green,0.695609436,orange,Cases under control
 293,Colorado,US,mixed_52,0.583226044,orange,yellow,0.614217399,orange,Cases almost under control
 294,South Dakota,US,mixed_53,0.561620469,orange,yellow,0.820042644,red,Cases almost under control
 295,Nebraska,US,mixed_54,0.688282805,orange,yellow,0.608919583,orange,Cases almost under control
