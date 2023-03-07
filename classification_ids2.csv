@@ -44,13 +44,13 @@ New Brunswick,Canada,mixed_15,0.013605442,red,yellow,0.0,green
 Yukon,Canada,mixed_26,0.0,red,green,0.0,green
 Ontario,Canada,mixed_3,0.565010929,red,yellow,0.507575187,orange
 Nunavut,Canada,mixed_43,0.0,red,green,0.0,green
-Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,green,-0.006153846,green
+Newfoundland and Labrador,Canada,mixed_44,-0.006153846,red,yellow,-0.006153846,green
 Nova Scotia,Canada,mixed_45,0.076470588,red,yellow,0.095588235,green
 Northwest Territories,Canada,mixed_46,0.0,red,green,0.0,green
 Prince Edward Island,Canada,mixed_48,0.0,red,green,0.0,green
 British Columbia,Canada,mixed_5,0.205621302,red,yellow,0.187130178,yellow
 Alberta,Canada,mixed_8,0.172182741,red,yellow,0.238172589,yellow
-Saskatchewan,Canada,mixed_9,0.298850575,red,green,0.313218391,yellow
+Saskatchewan,Canada,mixed_9,0.298850575,red,yellow,0.313218391,yellow
 ,Cape Verde,41,0.0,green,green,0.0,green
 ,Central African Republic,39,1.0,red,green,0.894849785,red
 ,Chad,35,0.877224199,red,green,0.877224199,red
@@ -154,7 +154,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Jamaica,89,0.162895928,yellow,green,0.140271493,yellow
 ,Japan,88,0.082915605,green,yellow,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,green,0.367816092,yellow
-,Kazakhstan,97,1.0,red,yellow,0.796377607,red
+,Kazakhstan,97,1.0,red,green,0.796377607,red
 ,Kenya,91,1.0,red,green,0.959578207,red
 ,Kosovo,kos_1,0.1,green,yellow,0.1,green
 ,Kuwait,96,0.957710908,red,green,1.0,red
@@ -253,7 +253,7 @@ Isle of Man,United Kingdom,uk_211,0.030100334,green,green,0.040133779,green
 Jersey,United Kingdom,uk_212,,green,green,,green
 Montserrat,United Kingdom,uk_213,0.0,green,green,0.0,green
 ,United Kingdom,uk_214,0.48142412,orange,yellow,0.638964176,orange
-,Uruguay,210,0.155902004,yellow,yellow,0.200445434,yellow
+,Uruguay,210,0.155902004,yellow,green,0.200445434,yellow
 Georgia,US,67,0.727813041,orange,yellow,0.655452972,orange
 Guam,US,72,0.192592593,yellow,green,0.059259259,green
 Puerto Rico,US,173,0.957219251,red,yellow,0.738636364,orange
@@ -309,7 +309,7 @@ West Virginia,US,mixed_64,0.794486216,orange,yellow,0.468671679,orange
 Indiana,US,mixed_65,0.743073231,orange,yellow,0.720456694,orange
 Montana,US,mixed_7,0.087719298,green,yellow,0.055137845,green
 ,Uzbekistan,211,0.465760322,orange,green,0.444612286,orange
-,Venezuela,213,1.0,red,green,1.0,red
+,Venezuela,213,1.0,red,yellow,1.0,red
 ,Vietnam,215,0.313043478,yellow,green,0.27826087,yellow
 ,West Bank and Gaza,,0.251308901,yellow,green,0.031413613,green
 ,Western Sahara,236,0.0,green,,0.0,green
