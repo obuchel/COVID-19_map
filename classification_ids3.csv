@@ -8,10 +8,10 @@
 6,,Antigua and Barbuda,0,0.0,green,green,0.0,green,Cases under control
 7,,Argentina,7,1.0,red,yellow,0.973554968,red,Cases almost under control
 8,,Armenia,4,0.99913119,red,yellow,0.981223697,red,Cases almost under control
-9,Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green,Cases almost under control
+9,Western Australia,Australia,mixed_66,0.015929204,red,green,0.007079646,green,Cases under control
 10,Northern Territory,Australia,mixed_67,0.0,red,green,0.0,green,Cases under control
 11,South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green,Cases almost under control
-12,Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green,Cases almost under control
+12,Queensland,Australia,mixed_69,0.016283525,red,green,0.022988506,green,Cases under control
 13,New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green,Cases almost under control
 14,Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow,Cases almost under control
 15,Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green,Cases almost under control
@@ -21,7 +21,7 @@
 19,,Bahamas,12,0.125,yellow,green,0.142857143,yellow,Cases under control
 20,,Bahrain,9,0.931350892,red,yellow,0.928294574,red,Cases almost under control
 21,,Bangladesh,13,0.983424995,red,green,0.992572833,red,Cases under control
-22,,Barbados,10,0.135135135,yellow,green,0.148648649,yellow,Cases under control
+22,,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow,Cases almost under control
 23,,Belarus,101,0.94486361,red,green,0.953617516,red,Cases under control
 24,,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow,Cases almost under control
 25,,Belize,14,0.0,green,green,0.0,green,Cases under control
@@ -151,7 +151,7 @@
 149,,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow,Cases almost under control
 150,,Israel,84,0.025300601,green,yellow,0.034819639,green,Cases almost under control
 151,,Italy,85,0.00782979,green,yellow,0.098445504,green,Cases almost under control
-152,,Jamaica,89,0.162895928,yellow,green,0.140271493,yellow,Cases under control
+152,,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow,Cases almost under control
 153,,Japan,88,0.082915605,green,yellow,0.1247432,yellow,Cases almost under control
 154,,Jordan,90,0.397372742,yellow,green,0.367816092,yellow,Cases under control
 155,,Kazakhstan,97,1.0,red,green,0.796377607,red,Cases under control
