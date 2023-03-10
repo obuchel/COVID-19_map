@@ -8,10 +8,10 @@ province,country,id,value,color,Change,value_old,color_old
 ,Antigua and Barbuda,0,0.0,green,green,0.0,green
 ,Argentina,7,1.0,red,yellow,0.973554968,red
 ,Armenia,4,0.99913119,red,yellow,0.981223697,red
-Western Australia,Australia,mixed_66,0.015929204,red,yellow,0.007079646,green
+Western Australia,Australia,mixed_66,0.015929204,red,green,0.007079646,green
 Northern Territory,Australia,mixed_67,0.0,red,green,0.0,green
 South Australia,Australia,mixed_68,0.0,red,yellow,0.0,green
-Queensland,Australia,mixed_69,0.016283525,red,yellow,0.022988506,green
+Queensland,Australia,mixed_69,0.016283525,red,green,0.022988506,green
 New South Wales,Australia,mixed_70,0.015267176,red,yellow,0.01648855,green
 Victoria,Australia,mixed_72,0.108789625,red,yellow,0.139048991,yellow
 Tasmania,Australia,mixed_73,0.011494253,red,yellow,0.011494253,green
@@ -21,7 +21,7 @@ Australian Capital Territory,Australia,mixed_77,0.0,red,yellow,0.0,green
 ,Bahamas,12,0.125,yellow,green,0.142857143,yellow
 ,Bahrain,9,0.931350892,red,yellow,0.928294574,red
 ,Bangladesh,13,0.983424995,red,green,0.992572833,red
-,Barbados,10,0.135135135,yellow,green,0.148648649,yellow
+,Barbados,10,0.135135135,yellow,yellow,0.148648649,yellow
 ,Belarus,101,0.94486361,red,green,0.953617516,red
 ,Belgium,128,0.185588827,yellow,yellow,0.251437238,yellow
 ,Belize,14,0.0,green,green,0.0,green
@@ -151,7 +151,7 @@ Martinique,France,fr_72,0.096256684,green,green,0.080213904,green
 ,Ireland,50,0.136455273,yellow,yellow,0.189966016,yellow
 ,Israel,84,0.025300601,green,yellow,0.034819639,green
 ,Italy,85,0.00782979,green,yellow,0.098445504,green
-,Jamaica,89,0.162895928,yellow,green,0.140271493,yellow
+,Jamaica,89,0.162895928,yellow,yellow,0.140271493,yellow
 ,Japan,88,0.082915605,green,yellow,0.1247432,yellow
 ,Jordan,90,0.397372742,yellow,green,0.367816092,yellow
 ,Kazakhstan,97,1.0,red,green,0.796377607,red
